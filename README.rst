@@ -31,56 +31,46 @@ First, you should assign full trust to Linus's key::
     gpg> q
     $ gpg --check-trustdb
 
-Now, add the following script to your `~/bin`::
+Now, copy the `scripts/korg-refresh-keys` script to your `~/bin` and
+edit it according to the instructions.
 
-    #!/bin/bash
-    # FIX ME: POINT AT ACTUAL LOCATION of pgpkeys.git clone
-    PGPKEYS="$HOME/git/korg-pgpkeys"
-
-    # If you remove --import-options merge-only, it will import keys
-    # not already present on your keyring, which is not what you want!
-    IMPORTFLAGS="--import-options import-clean --import-options merge-only"
-
-    # Make sure this points to your gpg v2 binary. You can also add other
-    # flags here, such as --homedir
-    GPGBIN="/usr/bin/gpg2 -q --batch"
-
-    cd $PGPKEYS
-    if ! git fetch -q > /dev/null; then
-        # Couldn't run git fetch, maybe not online?
-        exit 0
-    fi
-    if [[ $(git rev-parse HEAD) == $(git rev-parse @{u}) ]]; then
-        # No updates since last run
-        exit 0
-    fi
-
-    COUNT=$(git verify-commit --raw @{u} | grep -c -E '^\[GNUPG:\] (GOODSIG|VALIDSIG)')
-    if [[ ${COUNT} -lt 2 ]]; then
-        echo "PGPKEYS REFRESH: FAILED TO VERIFY COMMIT SIGNATURE!"
-        exit 1
-    fi
-
-    git pull -q
-    $GPGBIN --import $IMPORTFLAGS keys/*.asc > /dev/null
-
-This script will first verify that the latest commit to the repository
+That script will first verify that the latest commit to the repository
 is signed by a valid key (a key directly signed by you or Linus), and
 then will run a `merge-only` import -- meaning that it will ignore any
 *new* keys added to the git repository and will only refresh keys that
 you already have imported into your keyring.
 
+Make sure to run `chmod a+x ~/bin/korg-refresh-keys` after you are done.
+
 The last step is to set up a nightly cronjob by adding this to your
 `crontab -e`::
 
-    @daily ~/bin/refresh-korg-keyring
+    @daily ~/bin/korg-refresh-keys -q
 
-Make sure to `chmod a+x ~/bin/refresh-korg-keyring` first.
+Alternatively, if you are running a systemd-enabled system, set up a
+timer instead::
+
+    $ cat ~/.config/systemd/user/korg-refresh-keys.timer
+    [Timer]
+    OnCalendar=daily
+    Persistent=yes
+     
+    [Install]
+    WantedBy=sockets.target
+     
+    $ cat ~/.config/systemd/user/korg-refresh-keys.service
+    [Service]
+    ExecStart=%h/bin/korg-refresh-keys -q
+    Type=oneshot
+     
+    $ systemctl enable --user korg-refresh-keys.timer
+    $ systemctl start  --user korg-refresh-keys.timer
+    $ systemctl start  --user korg-refresh-keys.service
 
 Submitting keys to the keyring
 ------------------------------
 
-The easiest is to run the following::
+For now, the easiest is to run the following::
 
     gpg -a --export your@email.addr | mail -s your@email.addr keys@kernel.org
 
