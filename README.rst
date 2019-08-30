@@ -4,10 +4,11 @@ Linux developer PGP keys
 The purpose of this repository is to help distribute Linux kernel
 developer PGP keys that have valid trust paths to Linus Torvalds.
 
-There are currently two directories in this repository:
+There are currently the following directories in this repository:
 
- - keys/:   contains ascii-armoured keys
- - graphs/: contains svg graphs showing trust paths to Linus's key
+ - keys/:    ascii-armoured keys
+ - graphs/:  svg graphs showing trust paths to Linus Torvalds' key
+ - scripts/: auxiliary helper scripts
 
 Importing keys
 --------------
@@ -72,7 +73,7 @@ Submitting keys to the keyring
 
 For now, the easiest is to run the following::
 
-    gpg -a --export your@email.addr | mail -s your@email.addr keys@kernel.org
+    gpg -a --export your@email.addr | mail -s your@email.addr keys@linux.kernel.org
 
 If your `mail` command does not deliver mail properly, you can export to
 a file and copy-paste that into the email body instead.
