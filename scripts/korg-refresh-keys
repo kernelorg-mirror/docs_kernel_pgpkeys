@@ -1,4 +1,8 @@
 #!/bin/bash
+# This script is for refreshing your keyring on a regular
+# basis. It can be run from cron or manually. See README.rst
+# for details on how to set it up.
+#
 # Remove the following line. It is there so people don't run this
 # script directly from the git repository.
 exit 0

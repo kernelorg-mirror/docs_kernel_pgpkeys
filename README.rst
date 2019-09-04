@@ -77,3 +77,6 @@ For now, the easiest is to run the following::
 
 If your `mail` command does not deliver mail properly, you can export to
 a file and copy-paste that into the email body instead.
+
+Note, that anything you send to keys@linux.kernel.org will be archived
+on https://lore.kernel.org/keys.

@@ -1,0 +1,43 @@
+#!/bin/bash
+# This script is used for updating the pgpkeys.git contents by
+# whoever maintains pgpkeys.git. If that's not you, then you can
+# ignore it. The process is:
+#
+#   1. save the email with the key export into /tmp/msg.eml
+#   2. run: korg-update-pgpkeys /tmp/msg.eml
+#   3. review the changes made by the new export (if any)
+#   4. if all good: git add * && git commit -sS
+#   5. if not good: git clean -fdx && git reset --hard HEAD
+#
+# Remove this line -- it's here so nobody runs this script
+# directly from the git repo
+exit 0
+
+# Change these to reflect your reality
+PGPKEYSDIR="$HOME/git/korg-pgpkeys"
+WOTMATEDIR="$HOME/git/wotmate"
+
+if [[ -z $1 ]]; then
+    echo "Need to pass the new key to import as param"
+    echo "e.g.: $0 /tmp/msg.eml"
+    exit 1
+fi
+
+GPGTMPHOME=$(mktemp -d)
+GPG="/usr/bin/gpg2 --batch --homedir ${GPGTMPHOME}"
+GPGCONF="/usr/bin/gpgconf --homedir ${GPGTMPHOME}"
+
+echo "Importing current pgpkeys.git"
+$GPG -q --import $PGPKEYSDIR/keys/*.asc
+echo "Importing the new key"
+$GPG --import --import-options import-clean $1
+
+cd $WOTMATEDIR
+echo "Generating new exports"
+./make-sqlitedb.py --gnupghome $GPGTMPHOME
+./export-keyring.py --gnupghome $GPGTMPHOME --fromkey 79BE3E4300411886 --outdir $PGPKEYSDIR
+
+echo "Review the changes in $PGPKEYSDIR and commit if looks sane"
+# Don't leave gpg-agent running after we're done
+$GPGCONF --kill gpg-agent
+rm -rf $GPGTMPHOME
