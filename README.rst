@@ -71,7 +71,13 @@ timer instead::
 Submitting keys to the keyring
 ------------------------------
 
-For now, the easiest is to run the following::
+If you are in MAINTAINERS or regularly submit patches or pull requests
+to other maintainers, you should consider submitting your own public key
+for inclusion into this repository. Note, that your key should be signed
+by at least one other key already present in this repository in order to
+qualify.
+
+For now, the easiest way to submit your key is to run the following::
 
     gpg -a --export your@email.addr | mail -s your@email.addr keys@linux.kernel.org
 
