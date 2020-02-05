@@ -11,22 +11,22 @@
 <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-340 776,-340 776,4 -4,4"/>
 <g id="clust1" class="cluster">
 <title>cluster_toplevel</title>
-<polygon fill="none" stroke="#ffffff" points="289.5,-259 289.5,-328 481.5,-328 481.5,-259 289.5,-259"/>
+<polygon fill="none" stroke="#ffffff" points="290.5,-259 290.5,-328 482.5,-328 482.5,-259 290.5,-259"/>
 </g>
-<!-- a_32 -->
+<!-- a_166 -->
 <g id="node1" class="node">
-<title>a_32</title>
-<path fill="none" stroke="#c0c0c0" d="M12,-178.5C12,-178.5 167,-178.5 167,-178.5 173,-178.5 179,-184.5 179,-190.5 179,-190.5 179,-218.5 179,-218.5 179,-224.5 173,-230.5 167,-230.5 167,-230.5 12,-230.5 12,-230.5 6,-230.5 0,-224.5 0,-218.5 0,-218.5 0,-190.5 0,-190.5 0,-184.5 6,-178.5 12,-178.5"/>
-<text text-anchor="middle" x="89.5" y="-217.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">Benjamin Herrenschmidt</text>
-<text text-anchor="middle" x="89.5" y="-205.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">kernel.crashing.org</text>
-<polyline fill="none" stroke="#c0c0c0" points="0,-198.5 179,-198.5 "/>
+<title>a_166</title>
+<path fill="none" stroke="#c0c0c0" d="M12,-178.5C12,-178.5 169,-178.5 169,-178.5 175,-178.5 181,-184.5 181,-190.5 181,-190.5 181,-218.5 181,-218.5 181,-224.5 175,-230.5 169,-230.5 169,-230.5 12,-230.5 12,-230.5 6,-230.5 0,-224.5 0,-218.5 0,-218.5 0,-190.5 0,-190.5 0,-184.5 6,-178.5 12,-178.5"/>
+<text text-anchor="middle" x="90.5" y="-217.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">Stephen Rothwell</text>
+<text text-anchor="middle" x="90.5" y="-205.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">canb.auug.org.au</text>
+<polyline fill="none" stroke="#c0c0c0" points="0,-198.5 181,-198.5 "/>
 <text text-anchor="middle" x="31.5" y="-185.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">RSA 4096</text>
 <polyline fill="none" stroke="#c0c0c0" points="63,-178.5 63,-198.5 "/>
-<text text-anchor="middle" x="121" y="-185.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">733AD9848B744C5E</text>
+<text text-anchor="middle" x="122" y="-185.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">5AD24211C060D1C8</text>
 </g>
-<!-- a_230 -->
+<!-- a_144 -->
 <g id="node3" class="node">
-<title>a_230</title>
+<title>a_144</title>
 <path fill="none" stroke="#c0c0c0" d="M308,-.5C308,-.5 463,-.5 463,-.5 469,-.5 475,-6.5 475,-12.5 475,-12.5 475,-40.5 475,-40.5 475,-46.5 469,-52.5 463,-52.5 463,-52.5 308,-52.5 308,-52.5 302,-52.5 296,-46.5 296,-40.5 296,-40.5 296,-12.5 296,-12.5 296,-6.5 302,-.5 308,-.5"/>
 <text text-anchor="middle" x="385.5" y="-39.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">Michael Ellerman</text>
 <text text-anchor="middle" x="385.5" y="-27.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">ellerman.id.au</text>
@@ -35,66 +35,66 @@
 <polyline fill="none" stroke="#c0c0c0" points="359,-.5 359,-20.5 "/>
 <text text-anchor="middle" x="417" y="-7.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">51EBEA3CC8E1A580</text>
 </g>
-<!-- a_32&#45;&gt;a_230 -->
+<!-- a_166&#45;&gt;a_144 -->
 <g id="edge2" class="edge">
-<title>a_32&#45;&gt;a_230</title>
-<path fill="none" stroke="#000000" d="M132.8579,-178.4266C186.0544,-146.4369 276.1786,-92.2406 333.1739,-57.9664"/>
-<polygon fill="#000000" stroke="#000000" points="335.26,-60.7961 342.0261,-52.6431 331.6525,-54.7972 335.26,-60.7961"/>
+<title>a_166&#45;&gt;a_144</title>
+<path fill="none" stroke="#000000" d="M133.7115,-178.4266C186.7282,-146.4369 276.5479,-92.2406 333.3506,-57.9664"/>
+<polygon fill="#000000" stroke="#000000" points="335.419,-60.8062 342.1729,-52.6431 331.8026,-54.8127 335.419,-60.8062"/>
 </g>
-<!-- a_321 -->
+<!-- a_211 -->
 <g id="node2" class="node">
-<title>a_321</title>
-<path fill="none" stroke="#c0c0c0" d="M309.5,-267.5C309.5,-267.5 461.5,-267.5 461.5,-267.5 467.5,-267.5 473.5,-273.5 473.5,-279.5 473.5,-279.5 473.5,-307.5 473.5,-307.5 473.5,-313.5 467.5,-319.5 461.5,-319.5 461.5,-319.5 309.5,-319.5 309.5,-319.5 303.5,-319.5 297.5,-313.5 297.5,-307.5 297.5,-307.5 297.5,-279.5 297.5,-279.5 297.5,-273.5 303.5,-267.5 309.5,-267.5"/>
-<text text-anchor="middle" x="385.5" y="-306.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">Linus Torvalds</text>
-<text text-anchor="middle" x="385.5" y="-294.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">kernel.org</text>
-<polyline fill="none" stroke="#c0c0c0" points="297.5,-287.5 473.5,-287.5 "/>
-<text text-anchor="middle" x="329" y="-274.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">RSA 2048</text>
-<polyline fill="none" stroke="#c0c0c0" points="360.5,-267.5 360.5,-287.5 "/>
-<text text-anchor="middle" x="417" y="-274.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">79BE3E4300411886</text>
+<title>a_211</title>
+<path fill="none" stroke="#c0c0c0" d="M310.5,-267.5C310.5,-267.5 462.5,-267.5 462.5,-267.5 468.5,-267.5 474.5,-273.5 474.5,-279.5 474.5,-279.5 474.5,-307.5 474.5,-307.5 474.5,-313.5 468.5,-319.5 462.5,-319.5 462.5,-319.5 310.5,-319.5 310.5,-319.5 304.5,-319.5 298.5,-313.5 298.5,-307.5 298.5,-307.5 298.5,-279.5 298.5,-279.5 298.5,-273.5 304.5,-267.5 310.5,-267.5"/>
+<text text-anchor="middle" x="386.5" y="-306.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">Linus Torvalds</text>
+<text text-anchor="middle" x="386.5" y="-294.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">kernel.org</text>
+<polyline fill="none" stroke="#c0c0c0" points="298.5,-287.5 474.5,-287.5 "/>
+<text text-anchor="middle" x="330" y="-274.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">RSA 2048</text>
+<polyline fill="none" stroke="#c0c0c0" points="361.5,-267.5 361.5,-287.5 "/>
+<text text-anchor="middle" x="418" y="-274.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">79BE3E4300411886</text>
 </g>
-<!-- a_321&#45;&gt;a_32 -->
+<!-- a_211&#45;&gt;a_166 -->
 <g id="edge1" class="edge">
-<title>a_321&#45;&gt;a_32</title>
-<path fill="none" stroke="#000000" d="M298.6903,-267.3984C263.2216,-256.7339 222.0621,-244.3582 185.6831,-233.4199"/>
-<polygon fill="#000000" stroke="#000000" points="186.6367,-230.0519 176.0524,-230.5242 184.6211,-236.7555 186.6367,-230.0519"/>
+<title>a_211&#45;&gt;a_166</title>
+<path fill="none" stroke="#000000" d="M299.6903,-267.3984C264.2216,-256.7339 223.0621,-244.3582 186.6831,-233.4199"/>
+<polygon fill="#000000" stroke="#000000" points="187.6367,-230.0519 177.0524,-230.5242 185.6211,-236.7555 187.6367,-230.0519"/>
 </g>
-<!-- a_83 -->
+<!-- a_178 -->
 <g id="node4" class="node">
-<title>a_83</title>
-<path fill="none" stroke="#c0c0c0" d="M209.5,-178.5C209.5,-178.5 363.5,-178.5 363.5,-178.5 369.5,-178.5 375.5,-184.5 375.5,-190.5 375.5,-190.5 375.5,-218.5 375.5,-218.5 375.5,-224.5 369.5,-230.5 363.5,-230.5 363.5,-230.5 209.5,-230.5 209.5,-230.5 203.5,-230.5 197.5,-224.5 197.5,-218.5 197.5,-218.5 197.5,-190.5 197.5,-190.5 197.5,-184.5 203.5,-178.5 209.5,-178.5"/>
-<text text-anchor="middle" x="286.5" y="-217.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">David Woodhouse</text>
-<text text-anchor="middle" x="286.5" y="-205.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">infradead.org</text>
-<polyline fill="none" stroke="#c0c0c0" points="197.5,-198.5 375.5,-198.5 "/>
-<text text-anchor="middle" x="229" y="-185.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">RSA 4096</text>
-<polyline fill="none" stroke="#c0c0c0" points="260.5,-178.5 260.5,-198.5 "/>
-<text text-anchor="middle" x="318" y="-185.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">63762CDA67E2F359</text>
+<title>a_178</title>
+<path fill="none" stroke="#c0c0c0" d="M211.5,-178.5C211.5,-178.5 365.5,-178.5 365.5,-178.5 371.5,-178.5 377.5,-184.5 377.5,-190.5 377.5,-190.5 377.5,-218.5 377.5,-218.5 377.5,-224.5 371.5,-230.5 365.5,-230.5 365.5,-230.5 211.5,-230.5 211.5,-230.5 205.5,-230.5 199.5,-224.5 199.5,-218.5 199.5,-218.5 199.5,-190.5 199.5,-190.5 199.5,-184.5 205.5,-178.5 211.5,-178.5"/>
+<text text-anchor="middle" x="288.5" y="-217.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">David Woodhouse</text>
+<text text-anchor="middle" x="288.5" y="-205.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">infradead.org</text>
+<polyline fill="none" stroke="#c0c0c0" points="199.5,-198.5 377.5,-198.5 "/>
+<text text-anchor="middle" x="231" y="-185.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">RSA 4096</text>
+<polyline fill="none" stroke="#c0c0c0" points="262.5,-178.5 262.5,-198.5 "/>
+<text text-anchor="middle" x="320" y="-185.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">63762CDA67E2F359</text>
 </g>
-<!-- a_321&#45;&gt;a_83 -->
+<!-- a_211&#45;&gt;a_178 -->
 <g id="edge3" class="edge">
-<title>a_321&#45;&gt;a_83</title>
-<path fill="none" stroke="#000000" d="M356.3322,-267.2784C345.8589,-257.8631 333.9158,-247.1264 322.9043,-237.2271"/>
-<polygon fill="#000000" stroke="#000000" points="325.236,-234.6168 315.4593,-230.5341 320.5561,-239.8225 325.236,-234.6168"/>
+<title>a_211&#45;&gt;a_178</title>
+<path fill="none" stroke="#000000" d="M357.6268,-267.2784C347.359,-257.9536 335.6641,-247.3327 324.8513,-237.5129"/>
+<polygon fill="#000000" stroke="#000000" points="326.9227,-234.6662 317.1668,-230.5341 322.2166,-239.8481 326.9227,-234.6662"/>
 </g>
-<!-- a_294 -->
+<!-- a_204 -->
 <g id="node5" class="node">
-<title>a_294</title>
-<path fill="none" stroke="#c0c0c0" d="M406,-178.5C406,-178.5 563,-178.5 563,-178.5 569,-178.5 575,-184.5 575,-190.5 575,-190.5 575,-218.5 575,-218.5 575,-224.5 569,-230.5 563,-230.5 563,-230.5 406,-230.5 406,-230.5 400,-230.5 394,-224.5 394,-218.5 394,-218.5 394,-190.5 394,-190.5 394,-184.5 400,-178.5 406,-178.5"/>
-<text text-anchor="middle" x="484.5" y="-217.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">Stephen Rothwell</text>
-<text text-anchor="middle" x="484.5" y="-205.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">canb.auug.org.au</text>
-<polyline fill="none" stroke="#c0c0c0" points="394,-198.5 575,-198.5 "/>
-<text text-anchor="middle" x="425.5" y="-185.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">RSA 4096</text>
-<polyline fill="none" stroke="#c0c0c0" points="457,-178.5 457,-198.5 "/>
-<text text-anchor="middle" x="516" y="-185.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">5AD24211C060D1C8</text>
+<title>a_204</title>
+<path fill="none" stroke="#c0c0c0" d="M408,-178.5C408,-178.5 563,-178.5 563,-178.5 569,-178.5 575,-184.5 575,-190.5 575,-190.5 575,-218.5 575,-218.5 575,-224.5 569,-230.5 563,-230.5 563,-230.5 408,-230.5 408,-230.5 402,-230.5 396,-224.5 396,-218.5 396,-218.5 396,-190.5 396,-190.5 396,-184.5 402,-178.5 408,-178.5"/>
+<text text-anchor="middle" x="485.5" y="-217.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">Benjamin Herrenschmidt</text>
+<text text-anchor="middle" x="485.5" y="-205.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">kernel.crashing.org</text>
+<polyline fill="none" stroke="#c0c0c0" points="396,-198.5 575,-198.5 "/>
+<text text-anchor="middle" x="427.5" y="-185.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">RSA 4096</text>
+<polyline fill="none" stroke="#c0c0c0" points="459,-178.5 459,-198.5 "/>
+<text text-anchor="middle" x="517" y="-185.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">733AD9848B744C5E</text>
 </g>
-<!-- a_321&#45;&gt;a_294 -->
+<!-- a_211&#45;&gt;a_204 -->
 <g id="edge5" class="edge">
-<title>a_321&#45;&gt;a_294</title>
-<path fill="none" stroke="#000000" d="M414.6678,-267.2784C425.1411,-257.8631 437.0842,-247.1264 448.0957,-237.2271"/>
-<polygon fill="#000000" stroke="#000000" points="450.4439,-239.8225 455.5407,-230.5341 445.764,-234.6168 450.4439,-239.8225"/>
+<title>a_211&#45;&gt;a_204</title>
+<path fill="none" stroke="#000000" d="M415.6678,-267.2784C426.1411,-257.8631 438.0842,-247.1264 449.0957,-237.2271"/>
+<polygon fill="#000000" stroke="#000000" points="451.4439,-239.8225 456.5407,-230.5341 446.764,-234.6168 451.4439,-239.8225"/>
 </g>
-<!-- a_13 -->
+<!-- a_217 -->
 <g id="node6" class="node">
-<title>a_13</title>
+<title>a_217</title>
 <path fill="none" stroke="#c0c0c0" d="M605,-178.5C605,-178.5 760,-178.5 760,-178.5 766,-178.5 772,-184.5 772,-190.5 772,-190.5 772,-218.5 772,-218.5 772,-224.5 766,-230.5 760,-230.5 760,-230.5 605,-230.5 605,-230.5 599,-230.5 593,-224.5 593,-218.5 593,-218.5 593,-190.5 593,-190.5 593,-184.5 599,-178.5 605,-178.5"/>
 <text text-anchor="middle" x="682.5" y="-217.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">Anibal Monsalve Salazar</text>
 <text text-anchor="middle" x="682.5" y="-205.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">debian.org</text>
@@ -103,27 +103,27 @@
 <polyline fill="none" stroke="#c0c0c0" points="656,-178.5 656,-198.5 "/>
 <text text-anchor="middle" x="714" y="-185.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">7C56ACFE947897D8</text>
 </g>
-<!-- a_321&#45;&gt;a_13 -->
+<!-- a_211&#45;&gt;a_217 -->
 <g id="edge7" class="edge">
-<title>a_321&#45;&gt;a_13</title>
-<path fill="none" stroke="#000000" d="M472.603,-267.3984C508.1915,-256.7339 549.49,-244.3582 585.992,-233.4199"/>
-<polygon fill="#000000" stroke="#000000" points="587.0807,-236.7475 595.6552,-230.5242 585.0713,-230.0421 587.0807,-236.7475"/>
+<title>a_211&#45;&gt;a_217</title>
+<path fill="none" stroke="#000000" d="M473.3097,-267.3984C508.7784,-256.7339 549.9379,-244.3582 586.3169,-233.4199"/>
+<polygon fill="#000000" stroke="#000000" points="587.3789,-236.7555 595.9476,-230.5242 585.3633,-230.0519 587.3789,-236.7555"/>
 </g>
-<!-- a_83&#45;&gt;a_230 -->
+<!-- a_178&#45;&gt;a_144 -->
 <g id="edge4" class="edge">
-<title>a_83&#45;&gt;a_230</title>
-<path fill="none" stroke="#000000" d="M301.1078,-178.2355C318.3393,-147.2535 347.0487,-95.6347 366.1252,-61.3354"/>
-<polygon fill="#000000" stroke="#000000" points="369.1916,-63.0228 370.9935,-52.5823 363.0742,-59.6203 369.1916,-63.0228"/>
+<title>a_178&#45;&gt;a_144</title>
+<path fill="none" stroke="#000000" d="M302.8127,-178.2355C319.6243,-147.3854 347.5863,-96.0737 366.2775,-61.7742"/>
+<polygon fill="#000000" stroke="#000000" points="369.5748,-63.0379 371.2866,-52.5823 363.4282,-59.6884 369.5748,-63.0379"/>
 </g>
-<!-- a_294&#45;&gt;a_230 -->
+<!-- a_204&#45;&gt;a_144 -->
 <g id="edge6" class="edge">
-<title>a_294&#45;&gt;a_230</title>
-<path fill="none" stroke="#000000" d="M469.8922,-178.2355C452.6607,-147.2535 423.9513,-95.6347 404.8748,-61.3354"/>
-<polygon fill="#000000" stroke="#000000" points="407.9258,-59.6203 400.0065,-52.5823 401.8084,-63.0228 407.9258,-59.6203"/>
+<title>a_204&#45;&gt;a_144</title>
+<path fill="none" stroke="#000000" d="M470.7447,-178.2355C453.3391,-147.2535 424.3397,-95.6347 405.0705,-61.3354"/>
+<polygon fill="#000000" stroke="#000000" points="408.1024,-59.5864 400.153,-52.5823 401.9996,-63.015 408.1024,-59.5864"/>
 </g>
-<!-- a_282 -->
+<!-- a_366 -->
 <g id="node7" class="node">
-<title>a_282</title>
+<title>a_366</title>
 <path fill="none" stroke="#c0c0c0" d="M563.5,-89.5C563.5,-89.5 721.5,-89.5 721.5,-89.5 727.5,-89.5 733.5,-95.5 733.5,-101.5 733.5,-101.5 733.5,-129.5 733.5,-129.5 733.5,-135.5 727.5,-141.5 721.5,-141.5 721.5,-141.5 563.5,-141.5 563.5,-141.5 557.5,-141.5 551.5,-135.5 551.5,-129.5 551.5,-129.5 551.5,-101.5 551.5,-101.5 551.5,-95.5 557.5,-89.5 563.5,-89.5"/>
 <text text-anchor="middle" x="642.5" y="-128.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">Rusty Russell</text>
 <text text-anchor="middle" x="642.5" y="-116.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">rustcorp.com.au</text>
@@ -132,15 +132,15 @@
 <polyline fill="none" stroke="#c0c0c0" points="614.5,-89.5 614.5,-109.5 "/>
 <text text-anchor="middle" x="674" y="-96.7" font-family="droid sans,dejavu sans,helvetica" font-size="11.00" fill="#000000">D9200E6CD1ADB8F1</text>
 </g>
-<!-- a_13&#45;&gt;a_282 -->
+<!-- a_217&#45;&gt;a_366 -->
 <g id="edge8" class="edge">
-<title>a_13&#45;&gt;a_282</title>
+<title>a_217&#45;&gt;a_366</title>
 <path fill="none" stroke="#000000" d="M670.715,-178.2784C666.8496,-169.6779 662.4886,-159.9747 658.3717,-150.8145"/>
 <polygon fill="#000000" stroke="#000000" points="661.4926,-149.2205 654.2007,-141.5341 655.1078,-152.0901 661.4926,-149.2205"/>
 </g>
-<!-- a_282&#45;&gt;a_230 -->
+<!-- a_366&#45;&gt;a_144 -->
 <g id="edge9" class="edge">
-<title>a_282&#45;&gt;a_230</title>
+<title>a_366&#45;&gt;a_144</title>
 <path fill="none" stroke="#000000" d="M567.128,-89.3984C536.7928,-78.8932 501.6633,-66.7277 470.4292,-55.9113"/>
 <polygon fill="#000000" stroke="#000000" points="471.4654,-52.5662 460.8706,-52.6011 469.1747,-59.1808 471.4654,-52.5662"/>
 </g>
