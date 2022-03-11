@@ -23,6 +23,14 @@ if [[ -z $1 ]]; then
     echo "e.g.: $0 /tmp/msg.eml"
     exit 1
 fi
+if [[ ! -d $PGPKEYSDIR ]]; then
+    echo "$PGPKEYSDIR does not exist"
+    exit 1
+fi
+if [[ ! -d $WOTMATEDIR ]]; then
+    echo "$WOTMATEDIR does not exist"
+    exit 1
+fi
 
 GPGTMPHOME=$(mktemp -d)
 GPG="/usr/bin/gpg2 --batch --homedir ${GPGTMPHOME}"
