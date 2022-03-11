@@ -16,9 +16,10 @@ exit 0
 # Change these to reflect your reality
 PGPKEYSDIR="$HOME/git/korg-pgpkeys"
 WOTMATEDIR="$HOME/git/wotmate"
+KEYSERVER="hkps://keys.openpgp.org"
 
 if [[ -z $1 ]]; then
-    echo "Need to pass the new key to import as param"
+    echo "Need to pass the new key to import as param, or --refresh"
     echo "e.g.: $0 /tmp/msg.eml"
     exit 1
 fi
@@ -29,8 +30,13 @@ GPGCONF="/usr/bin/gpgconf --homedir ${GPGTMPHOME}"
 
 echo "Importing current pgpkeys.git"
 $GPG -q --import $PGPKEYSDIR/keys/*.asc
-echo "Importing the new key"
-$GPG --import --import-options import-clean $1
+if [[ $1 == '--refresh' ]]; then
+    echo "Refreshing from $KEYSERVER"
+    $GPG --keyserver $KEYSERVER --refresh
+else
+    echo "Importing the new key"
+    $GPG --import --import-options import-clean $1
+fi
 
 cd $WOTMATEDIR
 echo "Generating new exports"
