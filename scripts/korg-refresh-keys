@@ -45,7 +45,10 @@ fi
 
 CHANGED=$(git diff --name-only HEAD @{u} | grep '.asc$')
 
-git pull $Q
+# Don't use pull here in case upstream moved on since the fetch above. If this
+# happens CHANGED would likely be incomplete and you wouldn't have verified
+# HEAD but continue to import keymaterial from it.
+git merge $Q @{u}
 
 IMPORTFILES=''
 for ASCFILE in $CHANGED; do
