@@ -33,7 +33,7 @@ if [[ ! -d $WOTMATEDIR ]]; then
 fi
 
 GPGTMPHOME=$(mktemp -d)
-GPG="/usr/bin/gpg2 --batch --homedir ${GPGTMPHOME}"
+GPG="/usr/bin/gpg --batch --homedir ${GPGTMPHOME}"
 GPGCONF="/usr/bin/gpgconf --homedir ${GPGTMPHOME}"
 
 echo "Importing current pgpkeys.git"
