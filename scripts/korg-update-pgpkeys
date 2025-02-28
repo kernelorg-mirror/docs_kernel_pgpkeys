@@ -40,7 +40,7 @@ echo "Importing current pgpkeys.git"
 $GPG -q --import $PGPKEYSDIR/keys/*.asc
 if [[ $1 == '--refresh' ]]; then
     echo "Refreshing from $KEYSERVER"
-    $GPG --keyserver $KEYSERVER --refresh
+    $GPG --keyserver $KEYSERVER "$@"
 else
     echo "Importing the new key"
     $GPG --import --import-options import-clean $1
