@@ -1,0 +1,18 @@
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
+   3  52A205B1F1D915D5  Andy Gross <andy.gross@linaro.org>
+   4  C160046D9024E369  Timur Tabi <timur@tabi.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  C93A8F10916BCA39  Jesse Sayer Barnes <jbarnes@virtuousgeek.org>
+   2  5988A0C03AD3FAFC  Bjorn Helgaas <bjorn.helgaas@gmail.com>
+   3  BC617823EE0B0057  Sinan Kaya <okaya@kernel.org>
+   4  C160046D9024E369  Timur Tabi <timur@tabi.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
+   2  0A120DD923EEDD5F  Julia J. Cartwright (Julia Cartwright) <juliac@eso.teric.us>
+   3  77035451C19642DA  Richard Kuo <rkuo@codeaurora.org>
+   4  C160046D9024E369  Timur Tabi <timur@tabi.org>
+

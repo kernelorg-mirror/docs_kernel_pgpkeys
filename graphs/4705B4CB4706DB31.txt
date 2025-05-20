@@ -1,0 +1,8 @@
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   2  4705B4CB4706DB31  Gustavo A. R. Silva <gustavo@embeddedor.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   2  4705B4CB4706DB31  Gustavo A. R. Silva <gustavo@embeddedor.com>
+

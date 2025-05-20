@@ -1,0 +1,11 @@
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
+   2  DF7B9865F1496248  Mark Rutland <mark@kernel.org>
+   3  88FFD5FB4A5FFF98  Eric Van Hensbergen <ericvh@gmail.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  20D04E5A713660A7  Junio C Hamano <gitster@pobox.com>
+   2  8C1AE73CDE841C77  Olof Johansson <olof@lixom.net>
+   3  C5902F8F7A7362CD  Grant Likely <glikely@gmail.com>
+   4  88FFD5FB4A5FFF98  Eric Van Hensbergen <ericvh@gmail.com>
+

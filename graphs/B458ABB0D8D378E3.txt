@@ -1,0 +1,6 @@
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   2  A6CD9F096F642CB3  Alexandre Belloni <alexandre.belloni@piout.net>
+   3  256AEA1847BD5684  Miquel RAYNAL <mraynal@kernel.org>
+   4  B458ABB0D8D378E3  Michael Walle <michael@walle.cc>
+

@@ -1,0 +1,11 @@
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
+   2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
+   3  5753795200488F15  Enric Balletbo i Serra <enric.balletbo@collabora.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   2  9AFB7B8C9A5F5BBC  Heiko Stuebner <heiko@sntech.de>
+   3  D9140BB2561302F1  Matthias Brugger <matthias.bgg@gmail.com>
+   4  5753795200488F15  Enric Balletbo i Serra <enric.balletbo@collabora.com>
+

@@ -1,0 +1,20 @@
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   2  725E44B5A8EFDF39  Michael Halcrow <mikehalcrow@gmail.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   2  6B792466B03E715A  Mimi Zohar <zohar@linux.ibm.com>
+   3  725E44B5A8EFDF39  Michael Halcrow <mikehalcrow@gmail.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
+   3  725E44B5A8EFDF39  Michael Halcrow <mikehalcrow@gmail.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   2  E4209B8C8AE8A9D1  Jon Masters (Jonathan Charles Masters) <jcm@kernel.org>
+   3  D692003DAA02C70A  Tyler Hicks <tyhicks@tyhicks.net>
+   4  725E44B5A8EFDF39  Michael Halcrow <mikehalcrow@gmail.com>
+

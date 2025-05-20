@@ -1,0 +1,12 @@
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
+   2  0F9E536552045183  Christoph Hellwig <hch@kernel.org>
+   3  AD48EC55A2C72C07  Anup Patel <anup@brainfault.org>
+   4  83E4BA75438E93E3  Alexandre Ghiti <alex@ghiti.fr>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   2  3A554D033B37BCED  Jesper Dangaard Brouer (RedHat) <jbrouer@redhat.com>
+   3  D247E5D99FE76629  Björn Töpel <bjorn.topel@gmail.com>
+   4  83E4BA75438E93E3  Alexandre Ghiti <alex@ghiti.fr>
+
