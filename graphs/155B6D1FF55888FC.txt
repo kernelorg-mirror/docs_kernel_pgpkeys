@@ -1,0 +1,20 @@
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  20D04E5A713660A7  Junio C Hamano <gitster@pobox.com>
+   2  8C1AE73CDE841C77  Olof Johansson <olof@lixom.net>
+   3  155B6D1FF55888FC  Tomasz Figa <tomasz.figa@gmail.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   2  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
+   3  155B6D1FF55888FC  Tomasz Figa <tomasz.figa@gmail.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  AD5BE090C6AF2275  Benoit Cousson <bcousson@baylibre.com>
+   3  155B6D1FF55888FC  Tomasz Figa <tomasz.figa@gmail.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
+   2  DF7B9865F1496248  Mark Rutland <mark@kernel.org>
+   3  155B6D1FF55888FC  Tomasz Figa <tomasz.figa@gmail.com>
+

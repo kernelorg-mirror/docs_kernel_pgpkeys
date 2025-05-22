@@ -1,0 +1,15 @@
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
+   2  BBE976BF26AE5DD2  Martin Schwidefsky <schwidefsky@de.ibm.com>
+   3  220EC3791B296EC2  Heiko Carstens <hca@linux.ibm.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
+   2  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
+   3  220EC3791B296EC2  Heiko Carstens <hca@linux.ibm.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
+   2  2BF0442D97011AE3  Joerg Roedel (SUSE Work Email Address) <jroedel@suse.de>
+   3  220EC3791B296EC2  Heiko Carstens <hca@linux.ibm.com>
+

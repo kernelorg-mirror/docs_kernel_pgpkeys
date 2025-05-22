@@ -1,0 +1,20 @@
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
+   2  9BA2A5A630CBEA53  Lucas De Marchi <lucas.demarchi@intel.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
+   2  A6CC680C0AA77EB8  Darren Vincent Hart <dvhart@kernel.org>
+   3  9BA2A5A630CBEA53  Lucas De Marchi <lucas.demarchi@intel.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
+   2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
+   3  9BA2A5A630CBEA53  Lucas De Marchi <lucas.demarchi@intel.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   2  4110B337B0195D73  Linus Walleij (Linaro) <linus.walleij@linaro.org>
+   3  4E2415A9A1BD2F80  Greg Ungerer <gerg@snapgear.com>
+   4  9BA2A5A630CBEA53  Lucas De Marchi <lucas.demarchi@intel.com>
+

@@ -1,0 +1,10 @@
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   2  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
+   3  87223A575E7693A3  Jason Wessel <jason.wessel@windriver.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  2637F0CC00B67682  Ralf Baechle <ralf@linux-mips.org>
+   3  87223A575E7693A3  Jason Wessel <jason.wessel@windriver.com>
+

@@ -1,0 +1,20 @@
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
+   2  C78FB10D0BBD2A4B  Paul Walmsley <paul@pwsan.com>
+   3  5057585A87B07CCE  Shawn Guo <shawn.guo@linaro.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  20D04E5A713660A7  Junio C Hamano <gitster@pobox.com>
+   2  8C1AE73CDE841C77  Olof Johansson <olof@lixom.net>
+   3  5057585A87B07CCE  Shawn Guo <shawn.guo@linaro.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   2  1BD43EC95CABA573  Tony Lindgren <tony@atomide.com>
+   3  5057585A87B07CCE  Shawn Guo <shawn.guo@linaro.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   2  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
+   3  5057585A87B07CCE  Shawn Guo <shawn.guo@linaro.org>
+

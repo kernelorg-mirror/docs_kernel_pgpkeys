@@ -1,0 +1,20 @@
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
+   2  D65016F35352AA40  Arnaldo Carvalho de Melo <acme@kernel.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
+   2  08250084639D2D16  John Kacur <jkacur@redhat.com>
+   3  D65016F35352AA40  Arnaldo Carvalho de Melo <acme@kernel.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  7647E1A44BC0E4BA  Peter Zijlstra <peterz@infradead.org>
+   2  13B55DD07C53B851  Clark Williams (Kernel Correspondence) <clrkwllms@kernel.org>
+   3  D65016F35352AA40  Arnaldo Carvalho de Melo <acme@kernel.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   2  0D0297E9158B6C6A  Kukjin Kim <kgene@kernel.org>
+   3  59FF77874E89E813  Namhyung Kim (Linux kernel developer) <namhyung@gmail.com>
+   4  D65016F35352AA40  Arnaldo Carvalho de Melo <acme@kernel.org>
+

@@ -1,0 +1,18 @@
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
+   2  2BF0442D97011AE3  Joerg Roedel (SUSE Work Email Address) <jroedel@suse.de>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
+   2  2BF0442D97011AE3  Joerg Roedel (SUSE Work Email Address) <jroedel@suse.de>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
+   2  0F9E536552045183  Christoph Hellwig <hch@kernel.org>
+   3  2BF0442D97011AE3  Joerg Roedel (SUSE Work Email Address) <jroedel@suse.de>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   2  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
+   3  2BF0442D97011AE3  Joerg Roedel (SUSE Work Email Address) <jroedel@suse.de>
+

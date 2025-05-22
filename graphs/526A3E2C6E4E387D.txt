@@ -1,0 +1,20 @@
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
+   2  526A3E2C6E4E387D  Jiří Pírko <jiri@resnulli.us>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
+   2  AC1DC469FF4F5BB7  Steffen Klassert <steffen@klassert.de>
+   3  526A3E2C6E4E387D  Jiří Pírko <jiri@resnulli.us>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   2  D7CF64696A374FBE  Simon Horman <horms@debian.org>
+   3  526A3E2C6E4E387D  Jiří Pírko <jiri@resnulli.us>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   2  C523F10A2D9D035A  Mike Snitzer <snitzer@kernel.org>
+   3  D9B0577BD93E98FC  Milan Broz <gmazyland@gmail.com>
+   4  526A3E2C6E4E387D  Jiří Pírko <jiri@resnulli.us>
+

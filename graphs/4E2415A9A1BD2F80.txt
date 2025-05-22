@@ -1,0 +1,21 @@
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   2  4110B337B0195D73  Linus Walleij (Linaro) <linus.walleij@linaro.org>
+   3  4E2415A9A1BD2F80  Greg Ungerer <gerg@snapgear.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
+   2  9BA2A5A630CBEA53  Lucas De Marchi <lucas.demarchi@intel.com>
+   3  4E2415A9A1BD2F80  Greg Ungerer <gerg@snapgear.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
+   2  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
+   3  4E2415A9A1BD2F80  Greg Ungerer <gerg@snapgear.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  20D04E5A713660A7  Junio C Hamano <gitster@pobox.com>
+   2  6F8FF29FC7329261  Geoff Levand <geoff@infradead.org>
+   3  4804B4BC3F55EEFB  Geert Uytterhoeven <geert@linux-m68k.org>
+   4  4E2415A9A1BD2F80  Greg Ungerer <gerg@snapgear.com>
+

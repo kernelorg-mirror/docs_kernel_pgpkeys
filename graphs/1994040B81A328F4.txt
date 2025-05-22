@@ -1,0 +1,15 @@
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
+   2  C78FB10D0BBD2A4B  Paul Walmsley <paul@pwsan.com>
+   3  1994040B81A328F4  Dinh Nguyen <dinguyen@kernel.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   2  4110B337B0195D73  Linus Walleij (Linaro) <linus.walleij@linaro.org>
+   3  1994040B81A328F4  Dinh Nguyen <dinguyen@kernel.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  E63EDCA9329DD07E  Konstantin Ryabitsev <konstantin@linuxfoundation.org>
+   2  51F9CC91F83FA044  Max Filippov <filippov@cadence.com>
+   3  1994040B81A328F4  Dinh Nguyen <dinguyen@kernel.org>
+

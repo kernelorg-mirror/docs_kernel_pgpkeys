@@ -1,0 +1,18 @@
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   2  7CD1E6192FF9F435  Alex Elder <elder@linux.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  C93A8F10916BCA39  Jesse Sayer Barnes <jbarnes@virtuousgeek.org>
+   2  7CD1E6192FF9F435  Alex Elder <elder@linux.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
+   2  ABAB231F97DF5881  Tony Luck <tony.luck@intel.com>
+   3  7CD1E6192FF9F435  Alex Elder <elder@linux.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
+   2  0F9E536552045183  Christoph Hellwig <hch@kernel.org>
+   3  7CD1E6192FF9F435  Alex Elder <elder@linux.com>
+
