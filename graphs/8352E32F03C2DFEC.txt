@@ -10,6 +10,6 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>
-   2  B826A3330E572FDD  Doug Ledford <dledford@redhat.com>
+   2  B826A3330E572FDD  Doug Ledford <doug.ledford@hpe.com>
    3  8352E32F03C2DFEC  Bart Van Assche <bart.vanassche@sandisk.com>
 

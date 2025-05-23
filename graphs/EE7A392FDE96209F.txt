@@ -6,7 +6,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
-   2  085F3EBD8EE4E115  Mauro Carvalho Chehab <mauro.chehab@linux.intel.com>
+   2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
    3  56A0D81F9F782DA9  Ricardo Ribalda Delgado <ricardo@ribalda.com>
    4  EE7A392FDE96209F  Alice Ryhl <alice@ryhl.io>
 

@@ -4,7 +4,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    3  0BAA159BA80750A9  Andi Shyti <andi@etezian.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
+   1  E63EDCA9329DD07E  Konstantin Ryabitsev <konstantin@linuxfoundation.org>
    2  085F3EBD8EE4E115  Mauro Carvalho Chehab <mauro.chehab@linux.intel.com>
    3  0BAA159BA80750A9  Andi Shyti <andi@etezian.org>
 

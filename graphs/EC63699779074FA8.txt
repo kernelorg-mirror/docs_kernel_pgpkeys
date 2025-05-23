@@ -3,11 +3,6 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    2  EC63699779074FA8  Ian Campbell <ijc@hellion.org.uk>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  32247FBB40AD1FA6  Nobuhiro Iwamatsu <iwamatsu@debian.org>
-   3  EC63699779074FA8  Ian Campbell <ijc@hellion.org.uk>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
    2  3D200E9CA6329909  Adriaan (Ard) Biesheuvel <ard.biesheuvel@gmail.com>
    3  EC63699779074FA8  Ian Campbell <ijc@hellion.org.uk>
@@ -16,4 +11,10 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
    2  DF7B9865F1496248  Mark Rutland <mark@kernel.org>
    3  EC63699779074FA8  Ian Campbell <ijc@hellion.org.uk>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
+   2  65C3F906A5D79FA0  Andrew Cooper <andrew.cooper3@citrix.com>
+   3  984087D4FE6AB34B  Wei Liu <liuw@liuw.name>
+   4  EC63699779074FA8  Ian Campbell <ijc@hellion.org.uk>
 

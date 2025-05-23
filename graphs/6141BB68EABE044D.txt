@@ -14,9 +14,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    3  726C1CE741A7973F  Santosh Shilimkar <ssantosh@kernel.org>
    4  6141BB68EABE044D  Sekhar Nori <nsekhar@kernel.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  AD5BE090C6AF2275  Benoit Cousson <bcousson@baylibre.com>
-   3  0E5C785C804D82D9  Kishon Vijay Abraham I <kishon@ti.com>
-   4  6141BB68EABE044D  Sekhar Nori <nsekhar@kernel.org>
-

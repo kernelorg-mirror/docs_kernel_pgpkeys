@@ -1,0 +1,18 @@
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   2  A7C92F7A39BD11DA  Yinghai Lu <yinghai@kernel.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
+   2  A7C92F7A39BD11DA  Yinghai Lu <yinghai@kernel.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
+   2  ABAB231F97DF5881  Tony Luck <tony.luck@intel.com>
+   3  A7C92F7A39BD11DA  Yinghai Lu <yinghai@kernel.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
+   2  04C216B7287C1BA1  Chris Mason <clm@fb.com>
+   3  A7C92F7A39BD11DA  Yinghai Lu <yinghai@kernel.org>
+

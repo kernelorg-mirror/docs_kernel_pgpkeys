@@ -7,12 +7,12 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    2  51F9CC91F83FA044  Max Filippov <filippov@cadence.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
-   2  085F3EBD8EE4E115  Mauro Carvalho Chehab <mauro.chehab@linux.intel.com>
+   1  733AD9848B744C5E  Benjamin Herrenschmidt <benh@kernel.crashing.org>
+   2  D1FF024A4AA920D7  Scott Wood <oss@buserror.net>
    3  51F9CC91F83FA044  Max Filippov <filippov@cadence.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  733AD9848B744C5E  Benjamin Herrenschmidt <benh@kernel.crashing.org>
-   2  D1FF024A4AA920D7  Scott Wood <oss@buserror.net>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
    3  51F9CC91F83FA044  Max Filippov <filippov@cadence.com>
 
