@@ -1,4 +1,9 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  377C7F21FE3D1F91  Michal Simek <monstr@monstr.eu>
+   2  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
+   3  0BAA159BA80750A9  Andi Shyti <andi@etezian.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
    2  9CCDDF2CDEEBCF53  Chanwoo Choi (Personal) <cwchoi00@gmail.com>
    3  0BAA159BA80750A9  Andi Shyti <andi@etezian.org>
@@ -12,11 +17,5 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
    2  A6CC680C0AA77EB8  Darren Vincent Hart <dvhart@kernel.org>
    3  993DFFF377394B2D  Andriy Shevchenko <andriy.shevchenko@linux.intel.com>
-   4  0BAA159BA80750A9  Andi Shyti <andi@etezian.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   2  3D200E9CA6329909  Adriaan (Ard) Biesheuvel <ard.biesheuvel@gmail.com>
-   3  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
    4  0BAA159BA80750A9  Andi Shyti <andi@etezian.org>
 

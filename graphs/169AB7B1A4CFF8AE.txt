@@ -8,3 +8,9 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    2  3D200E9CA6329909  Adriaan (Ard) Biesheuvel <ard.biesheuvel@gmail.com>
    3  169AB7B1A4CFF8AE  Neil Armstrong <neil.armstrong@linaro.org>
 
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  377C7F21FE3D1F91  Michal Simek <monstr@monstr.eu>
+   2  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
+   3  22713BB3A18DC83A  Bryan O'Donoghue <bod@kernel.org>
+   4  169AB7B1A4CFF8AE  Neil Armstrong <neil.armstrong@linaro.org>
+

@@ -4,8 +4,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    3  C52D7AFE85F25509  Lorenzo Stoakes <lstoakes@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  C93A8F10916BCA39  Jesse Sayer Barnes <jbarnes@virtuousgeek.org>
-   2  5988A0C03AD3FAFC  Bjorn Helgaas <bjorn.helgaas@gmail.com>
+   1  377C7F21FE3D1F91  Michal Simek <monstr@monstr.eu>
+   2  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
    3  7C64768D3DE334E7  Krzysztof Wilczynski <kw@linux.com>
    4  C52D7AFE85F25509  Lorenzo Stoakes <lstoakes@gmail.com>
 
