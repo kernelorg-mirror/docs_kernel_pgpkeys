@@ -5,6 +5,6 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
-   2  C73907936B7DF8FC  Coly Li <colyli@gmail.com>
+   2  C73907936B7DF8FC  Coly Li <colyli@kernel.org>
    3  920C0DBCAABEFD55  Yixun Lan <dlan@gentoo.org>
 

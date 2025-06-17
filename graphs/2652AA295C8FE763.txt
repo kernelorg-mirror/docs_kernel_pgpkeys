@@ -1,6 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  C73907936B7DF8FC  Coly Li <colyli@gmail.com>
+   2  C73907936B7DF8FC  Coly Li <colyli@kernel.org>
    3  2652AA295C8FE763  Eryu Guan <guan@eryu.me>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
