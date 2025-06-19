@@ -1,11 +1,11 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
    2  1ED2916A667D8802  Dan Williams (djbw) <dan.j.williams@intel.com>
-   3  35D5CD577C1E6010  Drew Fustini <drew@pdp7.com>
+   3  35D5CD577C1E6010  Drew Fustini <fustini@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
    2  C78FB10D0BBD2A4B  Paul Walmsley <paul@pwsan.com>
    3  EF4CA1502CCBAB41  Palmer Dabbelt <palmer@dabbelt.com>
-   4  35D5CD577C1E6010  Drew Fustini <drew@pdp7.com>
+   4  35D5CD577C1E6010  Drew Fustini <fustini@kernel.org>
 
