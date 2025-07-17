@@ -1,21 +1,21 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
    2  0B0244C40D0D431C  Shuah Khan <shuah@gonehiking.org>
-   3  BD2D614866143B4C  Hans Verkuil <hans@jjverkuil.nl>
+   3  BD2D614866143B4C  Hans Verkuil <hverkuil@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
    2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
-   3  BD2D614866143B4C  Hans Verkuil <hans@jjverkuil.nl>
+   3  BD2D614866143B4C  Hans Verkuil <hverkuil@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  E63EDCA9329DD07E  Konstantin Ryabitsev <konstantin@linuxfoundation.org>
    2  085F3EBD8EE4E115  Mauro Carvalho Chehab <mauro.chehab@linux.intel.com>
-   3  BD2D614866143B4C  Hans Verkuil <hans@jjverkuil.nl>
+   3  BD2D614866143B4C  Hans Verkuil <hverkuil@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
    2  C78FB10D0BBD2A4B  Paul Walmsley <paul@pwsan.com>
    3  04B08C8F1524FAF8  Alexandre Courbot <gnurou@gmail.com>
-   4  BD2D614866143B4C  Hans Verkuil <hans@jjverkuil.nl>
+   4  BD2D614866143B4C  Hans Verkuil <hverkuil@kernel.org>
 
