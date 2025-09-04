@@ -9,3 +9,9 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    3  CD57E35C5BA20660  Damien Le Moal <dlemoal@kernel.org>
    4  352FE6582ED9B5DA  Niklas Cassel <cassel@kernel.org>
 
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   2  DC553250F8FE7407  Luis Chamberlain <mcgrof@kernel.org>
+   3  376EB100563EF7A7  Andreas Hindborg <a.hindborg@kernel.org>
+   4  352FE6582ED9B5DA  Niklas Cassel <cassel@kernel.org>
+
