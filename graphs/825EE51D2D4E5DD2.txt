@@ -1,6 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
-   2  C78FB10D0BBD2A4B  Paul Walmsley <paul@pwsan.com>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  C78FB10D0BBD2A4B  Paul Walmsley <pjw@kernel.org>
    3  5057585A87B07CCE  Shawn Guo <shawn.guo@linaro.org>
    4  825EE51D2D4E5DD2  Huang Rui <ray.huang@amd.com>
 

@@ -9,8 +9,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    3  6D40361B6E28C193  Sakari Ailus <sakari.ailus@linux.intel.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
-   2  C78FB10D0BBD2A4B  Paul Walmsley <paul@pwsan.com>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  C78FB10D0BBD2A4B  Paul Walmsley <pjw@kernel.org>
    3  04B08C8F1524FAF8  Alexandre Courbot <gnurou@gmail.com>
    4  6D40361B6E28C193  Sakari Ailus <sakari.ailus@linux.intel.com>
 

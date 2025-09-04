@@ -4,8 +4,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    3  FBD4981A4F60577C  Dipen Patel <dipenp@nvidia.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
-   2  C78FB10D0BBD2A4B  Paul Walmsley <paul@pwsan.com>
+   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
+   2  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
    3  DD23ACD77F3EB3A1  Thierry Reding <thierry@gilfi.de>
    4  FBD4981A4F60577C  Dipen Patel <dipenp@nvidia.com>
 
