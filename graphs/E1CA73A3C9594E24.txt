@@ -3,3 +3,9 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    2  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
    3  E1CA73A3C9594E24  CK Hu <ck.hu@mediatek.com>
 
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   2  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
+   3  0B134119D94797F5  Greentime Hu (Ying-Han Hu) <greentime.hu@sifive.com>
+   4  E1CA73A3C9594E24  CK Hu <ck.hu@mediatek.com>
+

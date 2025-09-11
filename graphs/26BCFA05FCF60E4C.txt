@@ -1,0 +1,21 @@
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  377C7F21FE3D1F91  Michal Simek <monstr@monstr.eu>
+   2  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
+   3  26BCFA05FCF60E4C  Marek Behún <kabel@kernel.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   2  4110B337B0195D73  Linus Walleij (Linaro) <linus.walleij@linaro.org>
+   3  26BCFA05FCF60E4C  Marek Behún <kabel@kernel.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
+   2  BD6A501CB78B7C26  Jacek Anaszewski <jacek.anaszewski@gmail.com>
+   3  26BCFA05FCF60E4C  Marek Behún <kabel@kernel.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  D7CF64696A374FBE  Simon Horman <horms@debian.org>
+   3  31466D6DFE5222BB  Jakub Kicinski <kubakici@wp.pl>
+   4  26BCFA05FCF60E4C  Marek Behún <kabel@kernel.org>
+
