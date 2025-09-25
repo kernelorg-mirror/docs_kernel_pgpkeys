@@ -3,9 +3,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    2  99739260CB6CB716  Nathan Chancellor <natechancellor@gmail.com>
    3  7D97093255A0CE7F  Nicolas Schier <nicolas@fjasle.eu>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  4110B337B0195D73  Linus Walleij (Linaro) <linus.walleij@linaro.org>
-   3  197C8B73686D216D  Miguel Ojeda <ojeda@kernel.org>
-   4  7D97093255A0CE7F  Nicolas Schier <nicolas@fjasle.eu>
-

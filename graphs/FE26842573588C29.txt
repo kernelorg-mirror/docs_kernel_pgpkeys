@@ -14,7 +14,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    3  FE26842573588C29  Ulf Hansson <ulf.c.hansson@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
-   2  4110B337B0195D73  Linus Walleij (Linaro) <linus.walleij@linaro.org>
+   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
+   2  39CFD4755FE2D5B4  Sudeep Holla (ARM) <sudeep.holla@arm.com>
    3  FE26842573588C29  Ulf Hansson <ulf.c.hansson@gmail.com>
 

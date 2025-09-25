@@ -14,7 +14,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  4110B337B0195D73  Linus Walleij (Linaro) <linus.walleij@linaro.org>
+   2  4804B4BC3F55EEFB  Geert Uytterhoeven <geert@linux-m68k.org>
    3  4E2415A9A1BD2F80  Greg Ungerer <gerg@snapgear.com>
    4  9BA2A5A630CBEA53  Lucas De Marchi <lucas.demarchi@intel.com>
 

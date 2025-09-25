@@ -5,7 +5,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  4110B337B0195D73  Linus Walleij (Linaro) <linus.walleij@linaro.org>
+   2  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
    3  B5DB5D8FDCFA2BF6  Haojian Zhuang <haojian.zhuang@linaro.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>

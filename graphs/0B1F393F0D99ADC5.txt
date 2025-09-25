@@ -10,12 +10,12 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  4110B337B0195D73  Linus Walleij (Linaro) <linus.walleij@linaro.org>
+   2  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
    3  0B1F393F0D99ADC5  Bjorn Andersson <andersson@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
-   2  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
-   3  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+   1  20D04E5A713660A7  Junio C Hamano <gitster@pobox.com>
+   2  7EF4F96F2BE9962A  Dmitry Torokhov <dmitry.torokhov@gmail.com>
+   3  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
    4  0B1F393F0D99ADC5  Bjorn Andersson <andersson@kernel.org>
 

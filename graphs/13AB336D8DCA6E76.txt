@@ -13,9 +13,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    3  20AE1692E13DDEE0  Eric R. Sandeen <sandeen@sandeen.net>
    4  13AB336D8DCA6E76  Kent Overstreet <kent.overstreet@linux.dev>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  4110B337B0195D73  Linus Walleij (Linaro) <linus.walleij@linaro.org>
-   3  197C8B73686D216D  Miguel Ojeda <ojeda@kernel.org>
-   4  13AB336D8DCA6E76  Kent Overstreet <kent.overstreet@linux.dev>
-

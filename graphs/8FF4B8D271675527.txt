@@ -14,7 +14,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
-   2  4110B337B0195D73  Linus Walleij (Linaro) <linus.walleij@linaro.org>
+   2  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
    3  FE26842573588C29  Ulf Hansson <ulf.c.hansson@gmail.com>
    4  8FF4B8D271675527  Daniel Lezcano <daniel.lezcano@linaro.org>
 

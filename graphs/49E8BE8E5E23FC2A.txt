@@ -10,8 +10,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    4  49E8BE8E5E23FC2A  Sonic Zhang <sonic.adi@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  4110B337B0195D73  Linus Walleij (Linaro) <linus.walleij@linaro.org>
+   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   2  9B9B776EFF335C26  Bryan Wu (Peng Wu) <cooloney@gmail.com>
    3  322FE1A0B5F75461  Barry Song <Baohua.Song@csr.com>
    4  49E8BE8E5E23FC2A  Sonic Zhang <sonic.adi@gmail.com>
 
