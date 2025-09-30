@@ -5,7 +5,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  410DE44FDEE1B495  Johan Hovold <jhovold@gmail.com>
+   2  3A8F3B2F5A7C9849  Michael Turquette <mturquette@baylibre.com>
    3  51AF8A2F87FC7761  Lee Jones <lee.jones@linaro.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
