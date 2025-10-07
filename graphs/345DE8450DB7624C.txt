@@ -2,11 +2,11 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  C78FB10D0BBD2A4B  Paul Walmsley <pjw@kernel.org>
    3  5057585A87B07CCE  Shawn Guo <shawn.guo@linaro.org>
-   4  345DE8450DB7624C  Frank Li <frank.li@nxp.com>
+   4  345DE8450DB7624C  Frank Li <frank.li@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    2  EAE3C15E593117F6  Jean-Christophe PLAGNIOL-VILLARD <plagnioj@jcrosoft.com>
    3  4859298150D671BB  Peter Chen (Peter) <peter.chen@freescale.com>
-   4  345DE8450DB7624C  Frank Li <frank.li@nxp.com>
+   4  345DE8450DB7624C  Frank Li <frank.li@kernel.org>
 

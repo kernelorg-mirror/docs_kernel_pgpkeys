@@ -11,7 +11,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  C73907936B7DF8FC  Coly Li <colyli@kernel.org>
+   2  C73907936B7DF8FC  Coly Li <i@coly.li>
    3  7E7F91E0323C69AF  Guo Ren <guoren@linux.alibaba.com>
    4  0B134119D94797F5  Greentime Hu (Ying-Han Hu) <greentime.hu@sifive.com>
 

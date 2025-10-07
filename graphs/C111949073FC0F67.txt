@@ -1,6 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  C73907936B7DF8FC  Coly Li <colyli@kernel.org>
+   2  C73907936B7DF8FC  Coly Li <i@coly.li>
    3  02862BC3F2E2267A  Huacai Chen (Loongson's Linux Kernel Maintainer) <chenhuacai@kernel.org>
    4  C111949073FC0F67  Jiaxun Yang <jiaxun.yang@flygoat.com>
 
