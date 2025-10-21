@@ -8,11 +8,6 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    3  A6A2316573C0A672  Jesse Brandeburg <jesse.brandeburg@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  C0ADFFFAB1FB1C18  Andi Kleen <ak@linux.intel.com>
-   2  46A3C53C3D727E07  Robert Love <robert.w.love@intel.com>
-   3  A6A2316573C0A672  Jesse Brandeburg <jesse.brandeburg@gmail.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  C83B0745DF188DFE  Dirk Hohndel <dirkhh@vmware.com>
    2  1ED2916A667D8802  Dan Williams (djbw) <dan.j.williams@intel.com>
    3  A6A2316573C0A672  Jesse Brandeburg <jesse.brandeburg@gmail.com>

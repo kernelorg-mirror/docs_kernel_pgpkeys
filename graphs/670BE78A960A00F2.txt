@@ -1,3 +1,0 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  670BE78A960A00F2  Trond Myklebust <trondmy@gmail.com>
-
