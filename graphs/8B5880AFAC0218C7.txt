@@ -10,8 +10,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    4  8B5880AFAC0218C7  Geert Uytterhoeven (Signing key) <geert@linux-m68k.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
-   2  9BA2A5A630CBEA53  Lucas De Marchi <lucas.demarchi@intel.com>
+   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
+   2  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
    3  4E2415A9A1BD2F80  Greg Ungerer <gerg@snapgear.com>
    4  8B5880AFAC0218C7  Geert Uytterhoeven (Signing key) <geert@linux-m68k.org>
 
