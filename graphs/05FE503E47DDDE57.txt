@@ -12,13 +12,13 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
-   3  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
+   2  32247FBB40AD1FA6  Nobuhiro Iwamatsu <iwamatsu@kernel.org>
+   3  4804B4BC3F55EEFB  Geert Uytterhoeven <geert@linux-m68k.org>
    4  05FE503E47DDDE57  Andreas Larsson <andreas@gaisler.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
-   2  F045C2B96991256E  Laurent Pinchart <laurent.pinchart@ideasonboard.com>
-   3  4804B4BC3F55EEFB  Geert Uytterhoeven <geert@linux-m68k.org>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
+   3  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
    4  05FE503E47DDDE57  Andreas Larsson <andreas@gaisler.com>
 
