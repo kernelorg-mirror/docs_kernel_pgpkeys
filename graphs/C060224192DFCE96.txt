@@ -3,14 +3,14 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    2  C060224192DFCE96  Pavel Machek (2011) <pavel@ucw.cz>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
-   2  C060224192DFCE96  Pavel Machek (2011) <pavel@ucw.cz>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  A84E7FB9A5F2E36C  Rafael J. Wysocki <rjw@sisk.pl>
    2  C060224192DFCE96  Pavel Machek (2011) <pavel@ucw.cz>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
+   2  C060224192DFCE96  Pavel Machek (2011) <pavel@ucw.cz>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  C0ADFFFAB1FB1C18  Andi Kleen <ak@linux.intel.com>
    2  C060224192DFCE96  Pavel Machek (2011) <pavel@ucw.cz>
 

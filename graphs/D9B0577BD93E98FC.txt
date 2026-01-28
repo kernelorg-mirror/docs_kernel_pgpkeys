@@ -4,12 +4,12 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    3  D9B0577BD93E98FC  Milan Broz <gmazyland@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
-   2  C523F10A2D9D035A  Mike Snitzer <snitzer@kernel.org>
+   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
+   2  AD96D6A6C01E3D67  Alasdair G Kergon <agk@redhat.com>
    3  D9B0577BD93E98FC  Milan Broz <gmazyland@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
-   2  AD96D6A6C01E3D67  Alasdair G Kergon <agk@redhat.com>
+   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
+   2  C523F10A2D9D035A  Mike Snitzer <snitzer@kernel.org>
    3  D9B0577BD93E98FC  Milan Broz <gmazyland@gmail.com>
 

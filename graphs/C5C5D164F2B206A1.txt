@@ -5,6 +5,6 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
-   2  39CFD4755FE2D5B4  Sudeep Holla (ARM) <sudeep.holla@arm.com>
+   2  39CFD4755FE2D5B4  Sudeep Holla <sudeep.holla@kernel.org>
    3  C5C5D164F2B206A1  Suzuki K Poulose (Linux) <suzuki.poulose@arm.com>
 

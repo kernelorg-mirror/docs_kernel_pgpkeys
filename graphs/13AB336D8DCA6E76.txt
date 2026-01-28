@@ -3,7 +3,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    2  13AB336D8DCA6E76  Kent Overstreet <kent.overstreet@linux.dev>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
    2  F87F7719344AB4EB  Darrick J. Wong (Portland) <djwong@djwong.org>
    3  13AB336D8DCA6E76  Kent Overstreet <kent.overstreet@linux.dev>
 

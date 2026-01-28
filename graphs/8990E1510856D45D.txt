@@ -3,14 +3,14 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    2  8990E1510856D45D  Alan Stern <stern@rowland.harvard.edu>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
-   2  8990E1510856D45D  Alan Stern <stern@rowland.harvard.edu>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
    2  8990E1510856D45D  Alan Stern <stern@rowland.harvard.edu>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
+   2  8990E1510856D45D  Alan Stern <stern@rowland.harvard.edu>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
    2  8990E1510856D45D  Alan Stern <stern@rowland.harvard.edu>
 

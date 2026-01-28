@@ -9,12 +9,12 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    3  20AE1692E13DDEE0  Eric R. Sandeen <sandeen@sandeen.net>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
-   2  C523F10A2D9D035A  Mike Snitzer <snitzer@kernel.org>
+   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   2  F87F7719344AB4EB  Darrick J. Wong (Portland) <djwong@djwong.org>
    3  20AE1692E13DDEE0  Eric R. Sandeen <sandeen@sandeen.net>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   2  F87F7719344AB4EB  Darrick J. Wong (Portland) <djwong@djwong.org>
+   1  C93A8F10916BCA39  Jesse Sayer Barnes <jbarnes@virtuousgeek.org>
+   2  D68BC9ACD5ABA64E  Ben Myers <bpm@sgi.com>
    3  20AE1692E13DDEE0  Eric R. Sandeen <sandeen@sandeen.net>
 

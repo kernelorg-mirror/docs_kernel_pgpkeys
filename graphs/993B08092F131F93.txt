@@ -4,7 +4,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    3  993B08092F131F93  Sven Peter <sven@svenpeter.dev>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
-   2  3E5F3D04A7A24603  Helge Deller <deller@gmx.de>
-   3  993B08092F131F93  Sven Peter <sven@svenpeter.dev>
+   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
+   2  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   3  3E5F3D04A7A24603  Helge Deller <deller@gmx.de>
+   4  993B08092F131F93  Sven Peter <sven@svenpeter.dev>
 

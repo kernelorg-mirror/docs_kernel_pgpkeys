@@ -8,12 +8,13 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    3  7FD9FCCB000BEEEE  Jim Meyering <jim@meyering.net>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
-   2  397D82E0531A9C91  Jes Sorensen <Jes.Sorensen@gmail.com>
-   3  7FD9FCCB000BEEEE  Jim Meyering <jim@meyering.net>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  FBB7576BA7CB0B6B  David Howells <dhowells@redhat.com>
    2  E7677380F54FD8A9  Ian Kent <raven@themaw.net>
    3  7FD9FCCB000BEEEE  Jim Meyering <jim@meyering.net>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   2  2F0B37F9CC8D8E16  Eugene Teo <eugeneteo@kernel.sg>
+   3  1E9A3B5F854083B6  Amit Shah <amit@amitshah.net>
+   4  7FD9FCCB000BEEEE  Jim Meyering <jim@meyering.net>
 

@@ -3,14 +3,14 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    2  F92D73C9A31A1C17  Mark Gross <markgross@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
-   2  F92D73C9A31A1C17  Mark Gross <markgross@kernel.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
    2  F92D73C9A31A1C17  Mark Gross <markgross@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
+   2  F92D73C9A31A1C17  Mark Gross <markgross@kernel.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  E63EDCA9329DD07E  Konstantin Ryabitsev <konstantin@linuxfoundation.org>
    2  F92D73C9A31A1C17  Mark Gross <markgross@kernel.org>
 

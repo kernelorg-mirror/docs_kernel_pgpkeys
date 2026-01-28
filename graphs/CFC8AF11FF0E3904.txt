@@ -1,10 +1,11 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
-   2  C532392DE6DA7CE9  Mike Rapoport <mike.rapoport@gmail.com>
-   3  CFC8AF11FF0E3904  Konstantin Sinyuk <sinyuk@gmail.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
    2  1ED2916A667D8802  Dan Williams (djbw) <dan.j.williams@intel.com>
    3  CFC8AF11FF0E3904  Konstantin Sinyuk <sinyuk@gmail.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
+   2  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   3  C532392DE6DA7CE9  Mike Rapoport <mike.rapoport@gmail.com>
+   4  CFC8AF11FF0E3904  Konstantin Sinyuk <sinyuk@gmail.com>
 
