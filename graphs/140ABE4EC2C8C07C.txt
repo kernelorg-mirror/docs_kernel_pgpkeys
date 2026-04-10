@@ -1,9 +1,4 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  6B792466B03E715A  Mimi Zohar <zohar@linux.ibm.com>
-   3  140ABE4EC2C8C07C  Roberto Sassu <roberto.sassu@huawei.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
    2  55E45A5AE8CA7C8A  Paul Moore <paul@paul-moore.com>
    3  140ABE4EC2C8C07C  Roberto Sassu <roberto.sassu@huawei.com>
