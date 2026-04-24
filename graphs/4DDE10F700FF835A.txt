@@ -8,9 +8,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    3  DECF6B93C6F02FAF  Cornelia Huck <conny@cornelia-huck.de>
    4  4DDE10F700FF835A  David Hildenbrand (Current) <david@kernel.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  224FA7E7CC82A664  Vlastimil Babka <vbabka@suse.com>
-   3  C52D7AFE85F25509  Lorenzo Stoakes <lstoakes@gmail.com>
-   4  4DDE10F700FF835A  David Hildenbrand (Current) <david@kernel.org>
-

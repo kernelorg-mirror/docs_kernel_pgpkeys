@@ -1,10 +1,4 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  224FA7E7CC82A664  Vlastimil Babka <vbabka@suse.com>
-   3  C52D7AFE85F25509  Lorenzo Stoakes <lstoakes@gmail.com>
-   4  8A7AECDB2E53B836  Alan Maguire <alan.maguire@oracle.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
    2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
    3  52A50E84F1DB09BF  Konrad Rzeszutek Wilk <konrad@darnok.org>
