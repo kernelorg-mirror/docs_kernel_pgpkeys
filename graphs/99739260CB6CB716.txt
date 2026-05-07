@@ -1,4 +1,4 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
    2  99739260CB6CB716  Nathan Chancellor <natechancellor@gmail.com>
 

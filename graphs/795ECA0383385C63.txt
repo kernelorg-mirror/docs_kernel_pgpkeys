@@ -1,8 +1,8 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
    2  795ECA0383385C63  Johannes Weiner <hannes@cmpxchg.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
    2  8744DC1EB26B5A9A  Tejun Heo <tj@kernel.org>
    3  795ECA0383385C63  Johannes Weiner <hannes@cmpxchg.org>

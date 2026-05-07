@@ -1,4 +1,4 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
    2  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
    3  F98825AC26B47B9F  Martin Pitt <martin@piware.de>

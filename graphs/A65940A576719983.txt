@@ -1,20 +1,20 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
    2  D7CF64696A374FBE  Simon Horman <horms@debian.org>
    3  A65940A576719983  Stefan Schmidt <stefan@datenfreihafen.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>
    2  2423F6FBF9A8D412  Johan Hedberg <johan.hedberg@intel.com>
    3  A65940A576719983  Stefan Schmidt <stefan@datenfreihafen.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
    2  F99E2237E0E1469A  Richard Weinberger (kernel.org) <richard@nod.at>
    3  6BBF9F19873B518D  Luis de Bethencourt (luisbg) <luis@debethencourt.com>
    4  A65940A576719983  Stefan Schmidt <stefan@datenfreihafen.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
    2  3A554D033B37BCED  Jesper Dangaard Brouer (cloudflare) <jesper@cloudflare.com>
    3  D46481BD2ED99019  Pablo Neira Ayuso <pablo@netfilter.org>

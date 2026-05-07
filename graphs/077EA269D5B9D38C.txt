@@ -1,12 +1,12 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
    2  077EA269D5B9D38C  Kirill A. Shutemov <kirill@shutemov.name>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  C0ADFFFAB1FB1C18  Andi Kleen <ak@linux.intel.com>
    2  077EA269D5B9D38C  Kirill A. Shutemov <kirill@shutemov.name>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
    2  29887E377DC2A2B4  Artem Bityutskiy <dedekind1@gmail.com>
    3  077EA269D5B9D38C  Kirill A. Shutemov <kirill@shutemov.name>

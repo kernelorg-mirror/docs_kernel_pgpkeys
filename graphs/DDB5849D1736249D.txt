@@ -1,21 +1,21 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
    2  1BD43EC95CABA573  Tony Lindgren <tony@atomide.com>
    3  DDB5849D1736249D  Nishanth Menon <nm@ti.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
    2  726C1CE741A7973F  Santosh Shilimkar <ssantosh@kernel.org>
    3  6141BB68EABE044D  Sekhar Nori <nsekhar@kernel.org>
    4  DDB5849D1736249D  Nishanth Menon <nm@ti.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>
    2  A1479CA21A3CC5FA  Luciano Roth Coelho (Luca) <luca@coelho.fi>
    3  FA3DAA8CBC961EF5  Tomi Valkeinen <tomi.valkeinen@iki.fi>
    4  DDB5849D1736249D  Nishanth Menon <nm@ti.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  C0ADFFFAB1FB1C18  Andi Kleen <ak@linux.intel.com>
    2  653928BBBB2638F1  David A Cohen <dacohen@gmail.com>
    3  868EB2E035CAA444  Felipe Balbi <balbi@kernel.org>

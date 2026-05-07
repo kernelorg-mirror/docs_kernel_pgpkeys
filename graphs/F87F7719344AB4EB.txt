@@ -1,18 +1,18 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
    2  F87F7719344AB4EB  Darrick J. Wong (Portland) <djwong@djwong.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
    2  0F9E536552045183  Christoph Hellwig <hch@kernel.org>
    3  F87F7719344AB4EB  Darrick J. Wong (Portland) <djwong@djwong.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7647E1A44BC0E4BA  Peter Zijlstra <peterz@infradead.org>
    2  ADE82947F475FA1D  Dave Chinner <david@fromorbit.com>
    3  F87F7719344AB4EB  Darrick J. Wong (Portland) <djwong@djwong.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
    2  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
    3  F87F7719344AB4EB  Darrick J. Wong (Portland) <djwong@djwong.org>

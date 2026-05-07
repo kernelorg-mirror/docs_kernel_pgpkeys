@@ -1,9 +1,9 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  20D04E5A713660A7  Junio C Hamano <gitster@pobox.com>
    2  29EE848AE2CCF3F4  Andrew G. Morgan <morgan@kernel.org>
    3  FBD4981A4F60577C  Dipen Patel <dipenp@nvidia.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
    2  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
    3  DD23ACD77F3EB3A1  Thierry Reding <thierry@gilfi.de>

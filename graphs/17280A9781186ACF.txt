@@ -1,4 +1,4 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
    2  17280A9781186ACF  Mathieu Desnoyers <mathieu.desnoyers@efficios.com>
 

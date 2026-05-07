@@ -1,4 +1,4 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
    2  F045C2B96991256E  Laurent Pinchart <laurent.pinchart@ideasonboard.com>
    3  085F3EBD8EE4E115  Mauro Carvalho Chehab <mauro.chehab@linux.intel.com>

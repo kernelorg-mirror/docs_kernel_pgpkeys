@@ -1,3 +1,3 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  733AD9848B744C5E  Benjamin Herrenschmidt <benh@kernel.crashing.org>
 

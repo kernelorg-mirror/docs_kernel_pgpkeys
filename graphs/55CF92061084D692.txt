@@ -1,4 +1,4 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
    2  C73907936B7DF8FC  Coly Li <i@coly.li>
    3  55CF92061084D692  Zhu Lingshan (kernel.org) <lingshan.zhu@live.com>

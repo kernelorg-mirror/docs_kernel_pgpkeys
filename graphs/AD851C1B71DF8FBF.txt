@@ -1,4 +1,4 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
    2  E8675DEECBEECEA3  Stefan Bader (Canonical) <stefan.bader@canonical.com>
    3  AD851C1B71DF8FBF  Andrea Righi <andrea.righi@linux.dev>

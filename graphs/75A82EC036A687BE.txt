@@ -1,9 +1,9 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
    2  224FA7E7CC82A664  Vlastimil Babka <vbabka@suse.com>
    3  75A82EC036A687BE  Oscar Salvador <osalvador@suse.de>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  A84E7FB9A5F2E36C  Rafael J. Wysocki <rjw@sisk.pl>
    2  A662F38F6BED6049  Jiri Kosina <jkosina@suse.com>
    3  75A82EC036A687BE  Oscar Salvador <osalvador@suse.de>

@@ -1,20 +1,20 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
    3  A5826A2587AD026B  Jacopo Mondi <jacopo@jmondi.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
    2  F045C2B96991256E  Laurent Pinchart <laurent.pinchart@ideasonboard.com>
    3  A5826A2587AD026B  Jacopo Mondi <jacopo@jmondi.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
    2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
    3  56A0D81F9F782DA9  Ricardo Ribalda Delgado <ricardo@ribalda.com>
    4  A5826A2587AD026B  Jacopo Mondi <jacopo@jmondi.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
    2  D7CF64696A374FBE  Simon Horman <horms@debian.org>
    3  F1591ABD9588DA5F  Niklas Söderlund <niklas.soderlund@ragnatech.se>

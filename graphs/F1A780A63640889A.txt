@@ -1,20 +1,20 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
    2  F045C2B96991256E  Laurent Pinchart <laurent.pinchart@ideasonboard.com>
    3  F1A780A63640889A  Kuninori Morimoto <kuninori.morimoto.gx@renesas.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
    2  140DE4CC14A029B6  Wolfram Sang <wsa@kernel.org>
    3  F1A780A63640889A  Kuninori Morimoto <kuninori.morimoto.gx@renesas.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
    3  A5826A2587AD026B  Jacopo Mondi <jacopo@jmondi.org>
    4  F1A780A63640889A  Kuninori Morimoto <kuninori.morimoto.gx@renesas.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  20D04E5A713660A7  Junio C Hamano <gitster@pobox.com>
    2  6F8FF29FC7329261  Geoff Levand <geoff@infradead.org>
    3  8B5880AFAC0218C7  Geert Uytterhoeven (Signing key) <geert@linux-m68k.org>

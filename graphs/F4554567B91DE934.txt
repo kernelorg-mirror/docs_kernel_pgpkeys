@@ -1,14 +1,14 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
    2  15BC833443038D8C  Jan Kara <jack@suse.com>
    3  F4554567B91DE934  Michal Kubecek <mkubecek@suse.cz>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
    2  A662F38F6BED6049  Jiri Kosina <jkosina@suse.com>
    3  F4554567B91DE934  Michal Kubecek <mkubecek@suse.cz>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
    2  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
    3  FF98A38DA80834DA  Miroslav Benes <mbenes@suse.cz>

@@ -1,4 +1,4 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
    2  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
    3  87C9C151B51E3864  Helge Deller <deller@gmx.de>

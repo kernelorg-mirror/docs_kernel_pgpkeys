@@ -1,14 +1,14 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
    2  224FA7E7CC82A664  Vlastimil Babka <vbabka@suse.com>
    3  5A0312EB0C1DEAE3  Harry Yoo <harry@kernel.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    2  8BC68E994040912F  SeongJae Park <sjpark@amazon.de>
    3  5A0312EB0C1DEAE3  Harry Yoo <harry@kernel.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
    2  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
    3  C532392DE6DA7CE9  Mike Rapoport <mike.rapoport@gmail.com>

@@ -1,9 +1,9 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
    2  140DE4CC14A029B6  Wolfram Sang <wsa@kernel.org>
    3  36A3BADB36B27332  Ulrich Hecht <uli@fpond.eu>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
    2  32247FBB40AD1FA6  Nobuhiro Iwamatsu <iwamatsu@kernel.org>
    3  4804B4BC3F55EEFB  Geert Uytterhoeven <geert@linux-m68k.org>

@@ -1,16 +1,16 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
    2  98E5DCC81647B72A  Lennert Buijtenhek <buytenh@wantstofly.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
    2  98E5DCC81647B72A  Lennert Buijtenhek <buytenh@wantstofly.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
    2  98E5DCC81647B72A  Lennert Buijtenhek <buytenh@wantstofly.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
    2  98E5DCC81647B72A  Lennert Buijtenhek <buytenh@wantstofly.org>
 

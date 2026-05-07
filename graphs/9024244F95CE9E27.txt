@@ -1,19 +1,19 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
    2  06CA9F5D1DCF2659  Marcel Holtmann <marcel@holtmann.org>
    3  9024244F95CE9E27  Luiz Augusto von Dentz <luiz.dentz@gmail.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
    3  9024244F95CE9E27  Luiz Augusto von Dentz <luiz.dentz@gmail.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
    2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
    3  9024244F95CE9E27  Luiz Augusto von Dentz <luiz.dentz@gmail.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>
    2  2423F6FBF9A8D412  Johan Hedberg <johan.hedberg@intel.com>
    3  9024244F95CE9E27  Luiz Augusto von Dentz <luiz.dentz@gmail.com>

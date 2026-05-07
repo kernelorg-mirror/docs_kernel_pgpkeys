@@ -1,3 +1,3 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
 

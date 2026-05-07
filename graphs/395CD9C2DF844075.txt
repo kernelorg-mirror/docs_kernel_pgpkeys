@@ -1,9 +1,9 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
    2  DC553250F8FE7407  Luis Chamberlain <mcgrof@kernel.org>
    3  395CD9C2DF844075  Viacheslav Dubeyko <slava@dubeyko.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  C78FB10D0BBD2A4B  Paul Walmsley <pjw@kernel.org>
    3  EF4CA1502CCBAB41  Palmer Dabbelt <palmer@dabbelt.com>

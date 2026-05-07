@@ -1,21 +1,21 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
    2  726C1CE741A7973F  Santosh Shilimkar <ssantosh@kernel.org>
    3  01BEFCD5AC2E7E5B  Sumit Semwal <sumit.semwal@linaro.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
    2  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
    3  D2B91C3CAE81121C  Viresh Kumar <viresh.linux@gmail.com>
    4  01BEFCD5AC2E7E5B  Sumit Semwal <sumit.semwal@linaro.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  41DD4B18780D59C4  Arjan van de Ven (work related key) <arjan@linux.intel.com>
    2  6C3180543D2929A4  Takashi Iwai <tiwai@suse.de>
    3  7C14070F25238347  Vinod Koul <vkoul@kernel.org>
    4  01BEFCD5AC2E7E5B  Sumit Semwal <sumit.semwal@linaro.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>
    2  A1479CA21A3CC5FA  Luciano Roth Coelho (Luca) <luca@coelho.fi>
    3  FA3DAA8CBC961EF5  Tomi Valkeinen <tomi.valkeinen@iki.fi>

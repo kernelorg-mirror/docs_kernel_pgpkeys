@@ -1,15 +1,15 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
    2  1ED2916A667D8802  Dan Williams (djbw) <dan.j.williams@intel.com>
    3  6068C5166953384A  Dave Jiang <dave.jiang@intel.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
    2  ABAB231F97DF5881  Tony Luck <tony.luck@intel.com>
    3  6415C4F166A3B93E  Dave Jiang (Work) <dave.jiang@intel.com>
    4  6068C5166953384A  Dave Jiang <dave.jiang@intel.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
    2  6835953070C992B0  David Christopher Hansen <dave@sr71.net>
    3  7AFA61BEA3B84DFF  Vishal Verma <vishal@stellar.sh>

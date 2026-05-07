@@ -1,8 +1,8 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
    2  7B87A618123D80DB  Sergey Senozhatsky <senozhatsky@kernel.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  733AD9848B744C5E  Benjamin Herrenschmidt <benh@kernel.crashing.org>
    2  7B87A618123D80DB  Sergey Senozhatsky <senozhatsky@kernel.org>
 

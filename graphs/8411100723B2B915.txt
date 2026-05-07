@@ -1,8 +1,8 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>
    2  8411100723B2B915  Bob Copeland <me@bobcopeland.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
    2  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
    3  8411100723B2B915  Bob Copeland <me@bobcopeland.com>

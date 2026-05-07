@@ -50,10 +50,10 @@
 <!-- a_314 -->
 <g id="node2" class="node">
 <title>a_314</title>
-<g id="a_node2"><a xlink:href="79BE3E4300411886.svg" xlink:title="{Linus Torvalds\nkernel.org|{RSA 2048|79BE3E4300411886}}">
+<g id="a_node2"><a xlink:href="79BE3E4300411886.svg" xlink:title="{Linus Torvalds\nlinux&#45;foundation.org|{RSA 2048|79BE3E4300411886}}">
 <path fill="none" stroke="gray" d="M307,-281C307,-281 458.25,-281 458.25,-281 464.25,-281 470.25,-287 470.25,-293 470.25,-293 470.25,-325.5 470.25,-325.5 470.25,-331.5 464.25,-337.5 458.25,-337.5 458.25,-337.5 307,-337.5 307,-337.5 301,-337.5 295,-331.5 295,-325.5 295,-325.5 295,-293 295,-293 295,-287 301,-281 307,-281"/>
 <text xml:space="preserve" text-anchor="middle" x="382.62" y="-323.05" font-family="droid sans,dejavu sans,helvetica" font-size="11.00">Linus Torvalds</text>
-<text xml:space="preserve" text-anchor="middle" x="382.62" y="-309.55" font-family="droid sans,dejavu sans,helvetica" font-size="11.00">kernel.org</text>
+<text xml:space="preserve" text-anchor="middle" x="382.62" y="-309.55" font-family="droid sans,dejavu sans,helvetica" font-size="11.00">linux&#45;foundation.org</text>
 <polyline fill="none" stroke="gray" points="295,-302.5 470.25,-302.5"/>
 <text xml:space="preserve" text-anchor="middle" x="326.25" y="-288.05" font-family="droid sans,dejavu sans,helvetica" font-size="11.00">RSA 2048</text>
 <polyline fill="none" stroke="gray" points="357.5,-281 357.5,-302.5"/>

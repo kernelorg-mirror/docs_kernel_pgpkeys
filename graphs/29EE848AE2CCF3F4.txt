@@ -1,8 +1,8 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  20D04E5A713660A7  Junio C Hamano <gitster@pobox.com>
    2  29EE848AE2CCF3F4  Andrew G. Morgan <morgan@kernel.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  CB2312E1ECF73F57  Moritz Fischer <mdf@kernel.org>
    3  29EE848AE2CCF3F4  Andrew G. Morgan <morgan@kernel.org>

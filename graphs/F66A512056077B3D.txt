@@ -1,9 +1,9 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
    2  A662F38F6BED6049  Jiri Kosina <jkosina@suse.com>
    3  F66A512056077B3D  Jiri Olsa (Red Hat) <jolsa@redhat.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
    2  127310D003E12B58  Ingo Molnar <mingo@kernel.org>
    3  8DE552E78F5E14B2  Oleg Nesterov <oleg@redhat.com>

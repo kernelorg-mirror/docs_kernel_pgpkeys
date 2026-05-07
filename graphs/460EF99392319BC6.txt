@@ -1,4 +1,4 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
    2  B0CB3F9FA2DE2552  Dave Jones <davej@redhat.com>
    3  460EF99392319BC6  Kyle McMartin <kyle@mcmartin.ca>

@@ -1,16 +1,16 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  733AD9848B744C5E  Benjamin Herrenschmidt <benh@kernel.crashing.org>
    2  D9200E6CD1ADB8F1  Rusty Russell <rusty@rustcorp.com.au>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
    2  D9200E6CD1ADB8F1  Rusty Russell <rusty@rustcorp.com.au>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
    2  D9200E6CD1ADB8F1  Rusty Russell <rusty@rustcorp.com.au>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
    2  D9200E6CD1ADB8F1  Rusty Russell <rusty@rustcorp.com.au>
 

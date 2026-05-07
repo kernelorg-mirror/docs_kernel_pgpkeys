@@ -1,9 +1,9 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    2  000E684119568215  Jeff Layton <jlayton@poochiereds.net>
    3  333F1F391BBBB00A  Dominique Martinet (Asmadeus) <asmadeus@codewreck.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
    2  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
    3  333F1F391BBBB00A  Dominique Martinet (Asmadeus) <asmadeus@codewreck.org>

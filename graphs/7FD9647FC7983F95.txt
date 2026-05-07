@@ -1,4 +1,4 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
    2  6C3180543D2929A4  Takashi Iwai <tiwai@suse.de>
    3  7C14070F25238347  Vinod Koul <vkoul@kernel.org>

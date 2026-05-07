@@ -1,8 +1,8 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
    2  4799A35146D12B35  Sudip Mukherjee <sudipm.mukherjee@gmail.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
    2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
    3  4799A35146D12B35  Sudip Mukherjee <sudipm.mukherjee@gmail.com>

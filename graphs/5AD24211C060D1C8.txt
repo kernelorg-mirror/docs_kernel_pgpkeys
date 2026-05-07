@@ -1,18 +1,18 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
    2  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  733AD9848B744C5E  Benjamin Herrenschmidt <benh@kernel.crashing.org>
    2  5E442088ED632E87  Tony Breeds (Signing Key) <tony@bakeyournoodle.com>
    3  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
    2  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
    3  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
    2  ABAB231F97DF5881  Tony Luck <tony.luck@intel.com>
    3  89F91C0A41D5C07A  Stephen Rothwell (tag signing key) <sfr@canb.auug.org.au>
