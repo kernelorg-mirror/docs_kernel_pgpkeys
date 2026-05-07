@@ -11,6 +11,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    2  6F8FF29FC7329261  Geoff Levand <geoff@infradead.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  E63EDCA9329DD07E  Konstantin Ryabitsev <konstantin@linuxfoundation.org>
-   2  6F8FF29FC7329261  Geoff Levand <geoff@infradead.org>
+   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
+   2  ABAB231F97DF5881  Tony Luck <tony.luck@intel.com>
+   3  6F8FF29FC7329261  Geoff Levand <geoff@infradead.org>
 

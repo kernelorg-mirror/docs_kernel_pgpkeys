@@ -1,16 +1,15 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
+   3  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
+   2  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
+   3  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
-   2  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  A84E7FB9A5F2E36C  Rafael J. Wysocki <rjw@sisk.pl>
-   2  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  E63EDCA9329DD07E  Konstantin Ryabitsev <konstantin@linuxfoundation.org>
-   2  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
+   3  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
 

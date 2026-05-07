@@ -4,9 +4,10 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    3  2105F2B2A751ECE2  Amit Kucheria (Linaro) <amit.kucheria@linaro.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
-   2  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
-   3  2105F2B2A751ECE2  Amit Kucheria (Linaro) <amit.kucheria@linaro.org>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
+   3  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
+   4  2105F2B2A751ECE2  Amit Kucheria (Linaro) <amit.kucheria@linaro.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>

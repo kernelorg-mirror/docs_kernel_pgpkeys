@@ -3,11 +3,6 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    2  F83DB89E129D1255  Laura Abbott <laura@oxidecomputer.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  C86F629E2382C5E2  Rob Herring (Rob Herring's PGP Key) <robherring2@gmail.com>
-   3  F83DB89E129D1255  Laura Abbott <laura@oxidecomputer.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
    2  E0D3C9EF07D2F8B4  Justin M. Forbes (kernel.org) <jforbes@kernel.org>
    3  F83DB89E129D1255  Laura Abbott <laura@oxidecomputer.com>
@@ -16,4 +11,10 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
    2  DF7B9865F1496248  Mark Rutland <mark@kernel.org>
    3  F83DB89E129D1255  Laura Abbott <laura@oxidecomputer.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
+   3  52A205B1F1D915D5  Andy Gross <andy.gross@linaro.org>
+   4  F83DB89E129D1255  Laura Abbott <laura@oxidecomputer.com>
 

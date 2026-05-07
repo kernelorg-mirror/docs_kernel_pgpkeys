@@ -5,18 +5,13 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  C86F629E2382C5E2  Rob Herring (Rob Herring's PGP Key) <robherring2@gmail.com>
-   3  D2B91C3CAE81121C  Viresh Kumar <viresh.linux@gmail.com>
+   2  410DE44FDEE1B495  Johan Hovold <jhovold@gmail.com>
+   3  FE26842573588C29  Ulf Hansson <ulf.c.hansson@gmail.com>
+   4  D2B91C3CAE81121C  Viresh Kumar <viresh.linux@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  41DD4B18780D59C4  Arjan van de Ven (work related key) <arjan@linux.intel.com>
    2  6C3180543D2929A4  Takashi Iwai <tiwai@suse.de>
    3  7C14070F25238347  Vinod Koul <vkoul@kernel.org>
-   4  D2B91C3CAE81121C  Viresh Kumar <viresh.linux@gmail.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
-   2  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
-   3  FE26842573588C29  Ulf Hansson <ulf.c.hansson@gmail.com>
    4  D2B91C3CAE81121C  Viresh Kumar <viresh.linux@gmail.com>
 

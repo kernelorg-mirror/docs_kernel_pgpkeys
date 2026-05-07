@@ -1,16 +1,5 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  CB1F266FCE9F9981  Guenter Roeck (Linux account) <linux@roeck-us.net>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  20D04E5A713660A7  Junio C Hamano <gitster@pobox.com>
-   2  CB1F266FCE9F9981  Guenter Roeck (Linux account) <linux@roeck-us.net>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
-   2  CB1F266FCE9F9981  Guenter Roeck (Linux account) <linux@roeck-us.net>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  E63EDCA9329DD07E  Konstantin Ryabitsev <konstantin@linuxfoundation.org>
-   2  CB1F266FCE9F9981  Guenter Roeck (Linux account) <linux@roeck-us.net>
+   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
+   3  CB1F266FCE9F9981  Guenter Roeck (Linux account) <linux@roeck-us.net>
 

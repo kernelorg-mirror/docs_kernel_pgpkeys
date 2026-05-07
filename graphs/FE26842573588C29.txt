@@ -9,12 +9,13 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    3  FE26842573588C29  Ulf Hansson <ulf.c.hansson@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
-   2  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
-   3  FE26842573588C29  Ulf Hansson <ulf.c.hansson@gmail.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
    2  39CFD4755FE2D5B4  Sudeep Holla <sudeep.holla@kernel.org>
    3  FE26842573588C29  Ulf Hansson <ulf.c.hansson@gmail.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
+   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
+   2  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
+   3  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+   4  FE26842573588C29  Ulf Hansson <ulf.c.hansson@gmail.com>
 

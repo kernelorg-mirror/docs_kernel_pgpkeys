@@ -11,6 +11,6 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
    2  2F3859C08D233D55  Matt Fleming <matt@codeblueprint.co.uk>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@kernel.org>
-   1  E63EDCA9329DD07E  Konstantin Ryabitsev <konstantin@linuxfoundation.org>
+   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
    2  2F3859C08D233D55  Matt Fleming <matt@codeblueprint.co.uk>
 
