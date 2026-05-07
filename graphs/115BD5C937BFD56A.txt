@@ -4,11 +4,6 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  115BD5C937BFD56A  Amir Goldstein <amir73il@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  6B792466B03E715A  Mimi Zohar <zohar@linux.vnet.ibm.com>
-   3  115BD5C937BFD56A  Amir Goldstein <amir73il@gmail.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    2  000E684119568215  Jeff Layton <jlayton@poochiereds.net>
    3  115BD5C937BFD56A  Amir Goldstein <amir73il@gmail.com>
@@ -16,5 +11,10 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7647E1A44BC0E4BA  Peter Zijlstra <peterz@infradead.org>
    2  6CBA8A24391968FE  Miklos Szeredi <miklos@szeredi.hu>
+   3  115BD5C937BFD56A  Amir Goldstein <amir73il@gmail.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   2  6B792466B03E715A  Mimi Zohar <zohar@linux.vnet.ibm.com>
    3  115BD5C937BFD56A  Amir Goldstein <amir73il@gmail.com>
 

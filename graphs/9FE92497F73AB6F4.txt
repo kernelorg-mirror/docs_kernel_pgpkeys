@@ -3,7 +3,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  9FE92497F73AB6F4  Michel Lespinasse <michel@lespinasse.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   1  5D3C6CC76ACAFA02  Davidlohr Bueso (kernel.org) <dave@stgolabs.net>
    2  224FA7E7CC82A664  Vlastimil Babka <vbabka@suse.com>
    3  9FE92497F73AB6F4  Michel Lespinasse <michel@lespinasse.org>
 

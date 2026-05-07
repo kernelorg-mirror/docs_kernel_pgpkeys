@@ -1,10 +1,11 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
    2  A80E277F6A38E610  Joel Fernandes <joelagnelf@nvidia.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   2  A80E277F6A38E610  Joel Fernandes <joelagnelf@nvidia.com>
+   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
+   2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   3  A80E277F6A38E610  Joel Fernandes <joelagnelf@nvidia.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>

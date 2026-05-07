@@ -4,12 +4,6 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  7091A8D9AD5FF600  Florian Westphal <fw@strlen.de>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  49FC7012A5DE03AE  Jason A. Donenfeld <Jason@zx2c4.com>
-   3  4A55C497F744F705  Toke Høiland-Jørgensen <toke@toke.dk>
-   4  7091A8D9AD5FF600  Florian Westphal <fw@strlen.de>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
    2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
    3  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>

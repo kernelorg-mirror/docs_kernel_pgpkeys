@@ -14,7 +14,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  52A205B1F1D915D5  Andy Gross <andy.gross@linaro.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  3A8F3B2F5A7C9849  Michael Turquette <mturquette@baylibre.com>
+   1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
+   2  E6BA9F5C5E54DF82  David Brown <davidb@davidb.org>
    3  52A205B1F1D915D5  Andy Gross <andy.gross@linaro.org>
 

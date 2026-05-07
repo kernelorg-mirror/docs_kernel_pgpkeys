@@ -1,6 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  DBFB07BF052B3F1B  Masami Hiramatsu (www.hitachi.co.jp) <masami.hiramatsu.pt@hitachi.com>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  51EBEA3CC8E1A580  Michael Ellerman <mpe@ellerman.id.au>
    3  D9D98003B060B92D  Naveen N Rao <naveen@kernel.org>
    4  2EF12AABCC98A3BE  Gautham R. Shenoy <gautham.shenoy@amd.com>
 

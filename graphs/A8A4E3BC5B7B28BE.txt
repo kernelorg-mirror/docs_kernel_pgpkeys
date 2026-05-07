@@ -4,7 +4,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  A8A4E3BC5B7B28BE  Daniel Thompson <daniel@redfelineninja.org.uk>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    2  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
    3  A8A4E3BC5B7B28BE  Daniel Thompson <daniel@redfelineninja.org.uk>
 

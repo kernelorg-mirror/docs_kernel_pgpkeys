@@ -5,8 +5,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    4  43DE91F9249A7145  Jai Luthra <me@jailuthra.in>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  0B0244C40D0D431C  Shuah Khan <shuah@gonehiking.org>
+   1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
+   2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
    3  BD2D614866143B4C  Hans Verkuil <hverkuil@kernel.org>
    4  43DE91F9249A7145  Jai Luthra <me@jailuthra.in>
 

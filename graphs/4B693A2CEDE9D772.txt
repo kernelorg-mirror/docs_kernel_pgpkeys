@@ -9,12 +9,12 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  4B693A2CEDE9D772  Christoffer Dall <christoffer.dall@arm.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
+   1  41DD4B18780D59C4  Arjan van de Ven (work related key) <arjan@linux.intel.com>
+   2  6BD6B12D00C85EF1  Catalin Marinas <catalin.marinas@arm.com>
    3  4B693A2CEDE9D772  Christoffer Dall <christoffer.dall@arm.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  41DD4B18780D59C4  Arjan van de Ven (work related key) <arjan@linux.intel.com>
-   2  6BD6B12D00C85EF1  Catalin Marinas <catalin.marinas@arm.com>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
    3  4B693A2CEDE9D772  Christoffer Dall <christoffer.dall@arm.com>
 

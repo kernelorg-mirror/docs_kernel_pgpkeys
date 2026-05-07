@@ -1,13 +1,14 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  6B792466B03E715A  Mimi Zohar <zohar@linux.vnet.ibm.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
    2  6B792466B03E715A  Mimi Zohar <zohar@linux.vnet.ibm.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
    2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
+   3  6B792466B03E715A  Mimi Zohar <zohar@linux.vnet.ibm.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
+   2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    3  6B792466B03E715A  Mimi Zohar <zohar@linux.vnet.ibm.com>
 

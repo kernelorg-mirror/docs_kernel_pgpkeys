@@ -4,9 +4,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  DDB5849D1736249D  Nishanth Menon <nm@ti.com>
    4  F903332F551A78E9  Vignesh Raghavendra <vigneshr@ti.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  A6CD9F096F642CB3  Alexandre Belloni <alexandre.belloni@piout.net>
-   3  256AEA1847BD5684  Miquel RAYNAL <mraynal@kernel.org>
-   4  F903332F551A78E9  Vignesh Raghavendra <vigneshr@ti.com>
-

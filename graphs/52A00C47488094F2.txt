@@ -9,12 +9,12 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  52A00C47488094F2  Petr Mladek <pmladek@suse.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   1  7CC6FC3344B247E2  Mel Gorman <mgorman@techsingularity.net>
    2  48E209A2B310E347  Michal Hocko (SUSE key) <mhocko@suse.cz>
    3  52A00C47488094F2  Petr Mladek <pmladek@suse.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7CC6FC3344B247E2  Mel Gorman <mgorman@techsingularity.net>
-   2  BD25B10406B47049  Jiri Slaby <jirislaby@gmail.com>
+   1  A84E7FB9A5F2E36C  Rafael J. Wysocki <rjw@sisk.pl>
+   2  A662F38F6BED6049  Jiri Kosina <jkosina@suse.com>
    3  52A00C47488094F2  Petr Mladek <pmladek@suse.com>
 

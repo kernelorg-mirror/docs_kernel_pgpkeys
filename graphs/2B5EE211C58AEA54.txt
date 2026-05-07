@@ -9,8 +9,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  2B5EE211C58AEA54  Marc Kleine-Budde <mkl@blackshift.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  F99E2237E0E1469A  Richard Weinberger (kernel.org) <richard@nod.at>
+   1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
+   2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
    3  6BBF9F19873B518D  Luis de Bethencourt (luisbg) <luis@debethencourt.com>
    4  2B5EE211C58AEA54  Marc Kleine-Budde <mkl@blackshift.org>
 

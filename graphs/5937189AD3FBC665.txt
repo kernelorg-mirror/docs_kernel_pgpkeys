@@ -1,8 +1,4 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
    2  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
    3  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
@@ -14,6 +10,12 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
-   2  39CFD4755FE2D5B4  Sudeep Holla <sudeep.holla@kernel.org>
+   2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    3  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
+   3  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
+   4  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
 

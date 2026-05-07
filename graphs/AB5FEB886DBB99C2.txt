@@ -1,8 +1,4 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  AB5FEB886DBB99C2  Vincent Mailhol <mailhol@kernel.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
    2  AB5FEB886DBB99C2  Vincent Mailhol <mailhol@kernel.org>
 
@@ -13,5 +9,10 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
    2  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   3  AB5FEB886DBB99C2  Vincent Mailhol <mailhol@kernel.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
+   2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    3  AB5FEB886DBB99C2  Vincent Mailhol <mailhol@kernel.org>
 

@@ -9,8 +9,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  52A50E84F1DB09BF  Konrad Rzeszutek Wilk <konrad@darnok.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  32247FBB40AD1FA6  Nobuhiro Iwamatsu <iwamatsu@kernel.org>
+   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   2  3D200E9CA6329909  Adriaan (Ard) Biesheuvel <ard.biesheuvel@gmail.com>
    3  EC63699779074FA8  Ian Campbell <ijc@hellion.org.uk>
    4  52A50E84F1DB09BF  Konrad Rzeszutek Wilk <konrad@darnok.org>
 

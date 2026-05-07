@@ -4,11 +4,6 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  51AF8A2F87FC7761  Lee Jones <lee.jones@linaro.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  3A8F3B2F5A7C9849  Michael Turquette <mturquette@baylibre.com>
-   3  51AF8A2F87FC7761  Lee Jones <lee.jones@linaro.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  41DD4B18780D59C4  Arjan van de Ven (work related key) <arjan@linux.intel.com>
    2  6BD6B12D00C85EF1  Catalin Marinas <catalin.marinas@arm.com>
    3  51AF8A2F87FC7761  Lee Jones <lee.jones@linaro.org>
@@ -16,5 +11,10 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    2  39CB544D6527CF60  Nicolas Pitre <nico@fluxnic.net>
+   3  51AF8A2F87FC7761  Lee Jones <lee.jones@linaro.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   2  3D200E9CA6329909  Adriaan (Ard) Biesheuvel <ard.biesheuvel@gmail.com>
    3  51AF8A2F87FC7761  Lee Jones <lee.jones@linaro.org>
 

@@ -1,6 +1,0 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  726C1CE741A7973F  Santosh Shilimkar <ssantosh@kernel.org>
-   3  01BEFCD5AC2E7E5B  Sumit Semwal <sumit.semwal@linaro.org>
-   4  D41AA3794DEB3C9C  Sumit Garg <sumit.garg@linaro.org>
-

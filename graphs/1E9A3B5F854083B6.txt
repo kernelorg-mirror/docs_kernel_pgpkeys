@@ -8,12 +8,12 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  1E9A3B5F854083B6  Amit Shah <amit@amitshah.net>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  2F0B37F9CC8D8E16  Eugene Teo <eugeneteo@kernel.sg>
+   1  733AD9848B744C5E  Benjamin Herrenschmidt <benh@kernel.crashing.org>
+   2  D1FF024A4AA920D7  Scott Wood <oss@buserror.net>
    3  1E9A3B5F854083B6  Amit Shah <amit@amitshah.net>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  733AD9848B744C5E  Benjamin Herrenschmidt <benh@kernel.crashing.org>
-   2  D1FF024A4AA920D7  Scott Wood <oss@buserror.net>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
    3  1E9A3B5F854083B6  Amit Shah <amit@amitshah.net>
 

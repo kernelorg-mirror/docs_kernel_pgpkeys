@@ -7,7 +7,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  2F2670AC164DB36F  Benjamin Tissoires <benjamin.tissoires@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   1  A84E7FB9A5F2E36C  Rafael J. Wysocki <rjw@sisk.pl>
    2  A662F38F6BED6049  Jiri Kosina <jkosina@suse.com>
    3  2F2670AC164DB36F  Benjamin Tissoires <benjamin.tissoires@gmail.com>
 

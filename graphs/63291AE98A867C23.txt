@@ -1,6 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  DC553250F8FE7407  Luis Chamberlain <mcgrof@kernel.org>
+   1  5D3C6CC76ACAFA02  Davidlohr Bueso (kernel.org) <dave@stgolabs.net>
+   2  5895FAAC338C6E77  Joel Granados (Linux Kernel Key) <joel.granados@kernel.org>
    3  376EB100563EF7A7  Andreas Hindborg <a.hindborg@kernel.org>
    4  63291AE98A867C23  Benno Lossin <lossin@kernel.org>
 

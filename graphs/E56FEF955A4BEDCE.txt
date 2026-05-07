@@ -8,12 +8,12 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  E56FEF955A4BEDCE  Jeff Kirsher <jkirsher@lightfleet.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
    2  052F367018D5C3D8  John Johansen <john@jjmx.net>
    3  E56FEF955A4BEDCE  Jeff Kirsher <jkirsher@lightfleet.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   2  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
+   2  1ED2916A667D8802  Dan Williams (djbw) <dan.j.williams@intel.com>
    3  E56FEF955A4BEDCE  Jeff Kirsher <jkirsher@lightfleet.com>
 

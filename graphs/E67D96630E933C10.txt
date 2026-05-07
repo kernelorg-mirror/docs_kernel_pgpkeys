@@ -9,8 +9,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    4  E67D96630E933C10  Micah Morton <mortonm@google.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  9AFB7B8C9A5F5BBC  Heiko Stuebner <heiko@sntech.de>
+   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
+   2  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
    3  7EF4F96F2BE9962A  Dmitry Torokhov <dmitry.torokhov@gmail.com>
    4  E67D96630E933C10  Micah Morton <mortonm@google.com>
 

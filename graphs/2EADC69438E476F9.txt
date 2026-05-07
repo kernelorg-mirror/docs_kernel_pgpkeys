@@ -1,5 +1,5 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   1  7CC6FC3344B247E2  Mel Gorman <mgorman@techsingularity.net>
    2  DC553250F8FE7407  Luis Chamberlain <mcgrof@kernel.org>
    3  2EADC69438E476F9  Stephen Brennan <stephen@brennan.io>
 

@@ -14,7 +14,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  5057585A87B07CCE  Shawn Guo <shawn.gsc@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
    3  5057585A87B07CCE  Shawn Guo <shawn.gsc@gmail.com>
 

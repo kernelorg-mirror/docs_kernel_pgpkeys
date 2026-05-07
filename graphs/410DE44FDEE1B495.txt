@@ -1,10 +1,11 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  410DE44FDEE1B495  Johan Hovold <jhovold@gmail.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  C93A8F10916BCA39  Jesse Sayer Barnes <jbarnes@virtuousgeek.org>
    2  7CD1E6192FF9F435  Alex Elder <elder@linux.com>
+   3  410DE44FDEE1B495  Johan Hovold <jhovold@gmail.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
+   2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    3  410DE44FDEE1B495  Johan Hovold <jhovold@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>

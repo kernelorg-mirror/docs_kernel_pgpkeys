@@ -1,8 +1,9 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   1  733AD9848B744C5E  Benjamin Herrenschmidt <benh@kernel.crashing.org>
    2  7B87A618123D80DB  Sergey Senozhatsky <senozhatsky@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  733AD9848B744C5E  Benjamin Herrenschmidt <benh@kernel.crashing.org>
-   2  7B87A618123D80DB  Sergey Senozhatsky <senozhatsky@kernel.org>
+   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
+   2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   3  7B87A618123D80DB  Sergey Senozhatsky <senozhatsky@kernel.org>
 

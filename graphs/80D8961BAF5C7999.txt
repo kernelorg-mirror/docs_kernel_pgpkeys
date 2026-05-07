@@ -12,7 +12,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  80D8961BAF5C7999  Kristen Carlson Accardi <kaccardi@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
    2  C73907936B7DF8FC  Coly Li <i@coly.li>
    3  F92D73C9A31A1C17  Mark Gross <markgross@kernel.org>
    4  80D8961BAF5C7999  Kristen Carlson Accardi <kaccardi@gmail.com>

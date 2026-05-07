@@ -3,9 +3,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  3A554D033B37BCED  Jesper Dangaard Brouer (cloudflare) <jesper@cloudflare.com>
    3  D247E5D99FE76629  Björn Töpel <bjorn.topel@gmail.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  49FC7012A5DE03AE  Jason A. Donenfeld <Jason@zx2c4.com>
-   3  4A55C497F744F705  Toke Høiland-Jørgensen <toke@toke.dk>
-   4  D247E5D99FE76629  Björn Töpel <bjorn.topel@gmail.com>
-

@@ -1,6 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  0D0297E9158B6C6A  Kukjin Kim <kgene@kernel.org>
+   1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
+   2  D65016F35352AA40  Arnaldo Carvalho de Melo <acme@kernel.org>
    3  59FF77874E89E813  Namhyung Kim (Linux kernel developer) <namhyung@gmail.com>
    4  BB9C8BF865485586  Changman Lee <cm224.lee@gmail.com>
 

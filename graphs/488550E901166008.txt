@@ -11,7 +11,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    4  488550E901166008  Manivannan Sadhasivam <manivannan.sadhasivam@linaro.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   1  41DD4B18780D59C4  Arjan van de Ven (work related key) <arjan@linux.intel.com>
    2  6C3180543D2929A4  Takashi Iwai <tiwai@suse.de>
    3  7C14070F25238347  Vinod Koul <vkoul@kernel.org>
    4  488550E901166008  Manivannan Sadhasivam <manivannan.sadhasivam@linaro.org>

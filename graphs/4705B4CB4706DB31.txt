@@ -1,8 +1,9 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
    2  4705B4CB4706DB31  Gustavo A. R. Silva <gustavo@embeddedor.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   2  4705B4CB4706DB31  Gustavo A. R. Silva <gustavo@embeddedor.com>
+   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
+   2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   3  4705B4CB4706DB31  Gustavo A. R. Silva <gustavo@embeddedor.com>
 

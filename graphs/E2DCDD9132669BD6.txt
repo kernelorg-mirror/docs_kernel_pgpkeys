@@ -1,9 +1,4 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
-   3  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
    2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
    3  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
@@ -12,6 +7,12 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
    2  06CA9F5D1DCF2659  Marcel Holtmann <marcel@holtmann.org>
    3  2B5EE211C58AEA54  Marc Kleine-Budde <mkl@blackshift.org>
+   4  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
+   3  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
    4  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>

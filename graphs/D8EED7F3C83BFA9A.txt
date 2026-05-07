@@ -4,14 +4,15 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  D8EED7F3C83BFA9A  Sebastian Reichel <sre@ring0.de>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  A6CD9F096F642CB3  Alexandre Belloni <alexandre.belloni@piout.net>
-   3  D8EED7F3C83BFA9A  Sebastian Reichel <sre@ring0.de>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
    2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
    3  D8EED7F3C83BFA9A  Sebastian Reichel <sre@ring0.de>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
+   3  A6CD9F096F642CB3  Alexandre Belloni <alexandre.belloni@piout.net>
+   4  D8EED7F3C83BFA9A  Sebastian Reichel <sre@ring0.de>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>

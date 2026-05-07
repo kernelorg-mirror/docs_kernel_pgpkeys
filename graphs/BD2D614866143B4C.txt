@@ -1,9 +1,4 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  0B0244C40D0D431C  Shuah Khan <shuah@gonehiking.org>
-   3  BD2D614866143B4C  Hans Verkuil <hverkuil@kernel.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
    2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
    3  BD2D614866143B4C  Hans Verkuil <hverkuil@kernel.org>
@@ -18,5 +13,11 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
    2  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
    3  085F3EBD8EE4E115  Mauro Carvalho Chehab <mauro.chehab@linux.intel.com>
+   4  BD2D614866143B4C  Hans Verkuil <hverkuil@kernel.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  C93A8F10916BCA39  Jesse Sayer Barnes <jbarnes@virtuousgeek.org>
+   2  5988A0C03AD3FAFC  Bjorn Helgaas <bjorn.helgaas@gmail.com>
+   3  0B0244C40D0D431C  Shuah Khan <shuah@gonehiking.org>
    4  BD2D614866143B4C  Hans Verkuil <hverkuil@kernel.org>
 

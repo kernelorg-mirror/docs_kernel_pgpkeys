@@ -1,10 +1,11 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
-   3  920C0DBCAABEFD55  Yixun Lan <dlan@gentoo.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
    2  C73907936B7DF8FC  Coly Li <i@coly.li>
    3  920C0DBCAABEFD55  Yixun Lan <dlan@gentoo.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
+   2  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
+   3  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+   4  920C0DBCAABEFD55  Yixun Lan <dlan@gentoo.org>
 

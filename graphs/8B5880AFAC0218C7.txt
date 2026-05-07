@@ -4,7 +4,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  8B5880AFAC0218C7  Geert Uytterhoeven (Signing key) <geert@linux-m68k.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
    2  32247FBB40AD1FA6  Nobuhiro Iwamatsu <iwamatsu@kernel.org>
    3  4804B4BC3F55EEFB  Geert Uytterhoeven <geert@linux-m68k.org>
    4  8B5880AFAC0218C7  Geert Uytterhoeven (Signing key) <geert@linux-m68k.org>

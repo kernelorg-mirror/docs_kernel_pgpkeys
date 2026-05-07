@@ -1,8 +1,4 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  0D0297E9158B6C6A  Kukjin Kim <kgene@kernel.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  C78FB10D0BBD2A4B  Paul Walmsley <pjw@kernel.org>
    3  0D0297E9158B6C6A  Kukjin Kim <kgene@kernel.org>
@@ -15,5 +11,10 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    2  9509E0158D3967C9  Marek Vasut <marek.vasut@gmail.com>
+   3  0D0297E9158B6C6A  Kukjin Kim <kgene@kernel.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
+   2  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
    3  0D0297E9158B6C6A  Kukjin Kim <kgene@kernel.org>
 

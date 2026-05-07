@@ -1,5 +1,5 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
    2  D7CF64696A374FBE  Simon Horman <horms@debian.org>
    3  A65940A576719983  Stefan Schmidt <stefan@datenfreihafen.org>
 

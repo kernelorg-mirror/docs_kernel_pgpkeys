@@ -1,8 +1,4 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  48E209A2B310E347  Michal Hocko (SUSE key) <mhocko@suse.cz>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7CC6FC3344B247E2  Mel Gorman <mgorman@techsingularity.net>
    2  48E209A2B310E347  Michal Hocko (SUSE key) <mhocko@suse.cz>
 
@@ -12,5 +8,9 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
+   2  48E209A2B310E347  Michal Hocko (SUSE key) <mhocko@suse.cz>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
    2  48E209A2B310E347  Michal Hocko (SUSE key) <mhocko@suse.cz>
 

@@ -8,12 +8,12 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  79F36FB2545D79D0  Stefan Richter <stefanr@s5r6.in-berlin.de>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
+   1  41DD4B18780D59C4  Arjan van de Ven (work related key) <arjan@linux.intel.com>
+   2  6C3180543D2929A4  Takashi Iwai <tiwai@suse.de>
    3  79F36FB2545D79D0  Stefan Richter <stefanr@s5r6.in-berlin.de>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  41DD4B18780D59C4  Arjan van de Ven (work related key) <arjan@linux.intel.com>
-   2  6C3180543D2929A4  Takashi Iwai <tiwai@suse.de>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  7341619ED337160C  Chris Ball <chris@printf.net>
    3  79F36FB2545D79D0  Stefan Richter <stefanr@s5r6.in-berlin.de>
 

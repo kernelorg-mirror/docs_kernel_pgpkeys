@@ -4,7 +4,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  89A2DA5AF73D5E3D  Lubomir Rintel <lkundrak@v3.sk>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   1  A84E7FB9A5F2E36C  Rafael J. Wysocki <rjw@sisk.pl>
    2  A662F38F6BED6049  Jiri Kosina <jkosina@suse.com>
    3  F66A512056077B3D  Jiri Olsa (Red Hat) <jolsa@redhat.com>
    4  89A2DA5AF73D5E3D  Lubomir Rintel <lkundrak@v3.sk>

@@ -1,7 +1,8 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
-   3  C3EAC3DE9321D59B  Ahmad Fatoum <ahmad@a3f.at>
+   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
+   2  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
+   3  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+   4  C3EAC3DE9321D59B  Ahmad Fatoum <ahmad@a3f.at>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>

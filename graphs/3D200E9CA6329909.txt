@@ -8,7 +8,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  3D200E9CA6329909  Adriaan (Ard) Biesheuvel <ard.biesheuvel@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    2  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
    3  3D200E9CA6329909  Adriaan (Ard) Biesheuvel <ard.biesheuvel@gmail.com>
 

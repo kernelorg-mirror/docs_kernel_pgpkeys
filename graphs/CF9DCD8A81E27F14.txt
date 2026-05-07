@@ -1,5 +1,5 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   1  5D3C6CC76ACAFA02  Davidlohr Bueso (kernel.org) <dave@stgolabs.net>
    2  224FA7E7CC82A664  Vlastimil Babka <vbabka@suse.com>
    3  CF9DCD8A81E27F14  Lorenzo Stoakes <ljs@kernel.org>
 

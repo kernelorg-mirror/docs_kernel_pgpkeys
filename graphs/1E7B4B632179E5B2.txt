@@ -4,7 +4,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  1E7B4B632179E5B2  Jeffrey Mahoney <jeffm@suse.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   1  7CC6FC3344B247E2  Mel Gorman <mgorman@techsingularity.net>
    2  48E209A2B310E347  Michal Hocko (SUSE key) <mhocko@suse.cz>
    3  1E7B4B632179E5B2  Jeffrey Mahoney <jeffm@suse.com>
 

@@ -4,7 +4,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  828B39A6A2D1367F  Lorenzo Pieralisi <lorenzo.pieralisi@linaro.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
+   1  41DD4B18780D59C4  Arjan van de Ven (work related key) <arjan@linux.intel.com>
    2  6BD6B12D00C85EF1  Catalin Marinas <catalin.marinas@arm.com>
    3  828B39A6A2D1367F  Lorenzo Pieralisi <lorenzo.pieralisi@linaro.org>
 

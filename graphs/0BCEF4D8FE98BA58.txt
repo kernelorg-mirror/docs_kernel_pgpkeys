@@ -1,9 +1,10 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  38DBBDC86092693E  Greg Kroah-Hartman <gregkh@linuxfoundation.org>
-   2  0BCEF4D8FE98BA58  Vegard Nossum <vegard.nossum@oracle.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    2  4E386D9C9C61702F  Willy Tarreau <w@1wt.eu>
+   3  0BCEF4D8FE98BA58  Vegard Nossum <vegard.nossum@oracle.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
+   2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    3  0BCEF4D8FE98BA58  Vegard Nossum <vegard.nossum@oracle.com>
 
