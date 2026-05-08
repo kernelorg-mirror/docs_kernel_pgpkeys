@@ -4,12 +4,6 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  868EB2E035CAA444  Felipe Balbi <balbi@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
-   2  A6CC680C0AA77EB8  Darren Vincent Hart <dvhart@kernel.org>
-   3  993DFFF377394B2D  Andriy Shevchenko <andriy.shevchenko@linux.intel.com>
-   4  868EB2E035CAA444  Felipe Balbi <balbi@kernel.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  20D04E5A713660A7  Junio C Hamano <gitster@pobox.com>
    2  8C1AE73CDE841C77  Olof Johansson <olof@lixom.net>
    3  726C1CE741A7973F  Santosh Shilimkar <ssantosh@kernel.org>
@@ -19,5 +13,11 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
    2  1BD43EC95CABA573  Tony Lindgren <tony@atomide.com>
    3  DDB5849D1736249D  Nishanth Menon <nm@ti.com>
+   4  868EB2E035CAA444  Felipe Balbi <balbi@kernel.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
+   3  993DFFF377394B2D  Andriy Shevchenko <andriy.shevchenko@linux.intel.com>
    4  868EB2E035CAA444  Felipe Balbi <balbi@kernel.org>
 

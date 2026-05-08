@@ -1,8 +1,4 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
-   2  08250084639D2D16  John Kacur <jkacur@redhat.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7647E1A44BC0E4BA  Peter Zijlstra <peterz@infradead.org>
    2  08250084639D2D16  John Kacur <jkacur@redhat.com>
 
@@ -13,4 +9,9 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
    2  08250084639D2D16  John Kacur <jkacur@redhat.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
+   2  D65016F35352AA40  Arnaldo Carvalho de Melo <acme@kernel.org>
+   3  08250084639D2D16  John Kacur <jkacur@redhat.com>
 

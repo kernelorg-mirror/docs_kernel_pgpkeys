@@ -4,8 +4,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  C78FB10D0BBD2A4B  Paul Walmsley <pjw@kernel.org>
-   3  3A8F3B2F5A7C9849  Michael Turquette <mturquette@baylibre.com>
+   2  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
+   3  F045C2B96991256E  Laurent Pinchart <laurent.pinchart@ideasonboard.com>
    4  39CFD4755FE2D5B4  Sudeep Holla <sudeep.holla@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
@@ -15,8 +15,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    4  39CFD4755FE2D5B4  Sudeep Holla <sudeep.holla@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
-   3  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
+   1  7647E1A44BC0E4BA  Peter Zijlstra <peterz@infradead.org>
+   2  8FF4B8D271675527  Daniel Lezcano <daniel.lezcano@linaro.org>
+   3  C86F629E2382C5E2  Rob Herring (Rob Herring's PGP Key) <robherring2@gmail.com>
    4  39CFD4755FE2D5B4  Sudeep Holla <sudeep.holla@kernel.org>
 

@@ -8,7 +8,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  13AB336D8DCA6E76  Kent Overstreet <kent.overstreet@linux.dev>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
+   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
    2  0F9E536552045183  Christoph Hellwig <hch@kernel.org>
    3  20AE1692E13DDEE0  Eric R. Sandeen <sandeen@sandeen.net>
    4  13AB336D8DCA6E76  Kent Overstreet <kent.overstreet@linux.dev>

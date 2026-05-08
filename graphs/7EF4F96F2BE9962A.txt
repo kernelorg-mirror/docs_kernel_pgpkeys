@@ -12,9 +12,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
    3  7EF4F96F2BE9962A  Dmitry Torokhov <dmitry.torokhov@gmail.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
-   2  F99E2237E0E1469A  Richard Weinberger (kernel.org) <richard@nod.at>
-   3  9AFB7B8C9A5F5BBC  Heiko Stuebner <heiko@sntech.de>
-   4  7EF4F96F2BE9962A  Dmitry Torokhov <dmitry.torokhov@gmail.com>
-

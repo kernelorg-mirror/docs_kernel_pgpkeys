@@ -8,12 +8,12 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  3D200E9CA6329909  Adriaan (Ard) Biesheuvel <ard.biesheuvel@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
+   1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
+   2  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
    3  3D200E9CA6329909  Adriaan (Ard) Biesheuvel <ard.biesheuvel@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
-   2  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
+   1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
+   2  7E15100CCD3669B1  Paolo Bonzini <bonzini@gnu.org>
    3  3D200E9CA6329909  Adriaan (Ard) Biesheuvel <ard.biesheuvel@gmail.com>
 

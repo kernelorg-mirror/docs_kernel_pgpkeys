@@ -1,5 +1,5 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
+   1  7647E1A44BC0E4BA  Peter Zijlstra <peterz@infradead.org>
    2  127310D003E12B58  Ingo Molnar <mingo@kernel.org>
    3  8DE552E78F5E14B2  Oleg Nesterov <oleg@redhat.com>
 

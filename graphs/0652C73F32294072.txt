@@ -4,8 +4,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  0652C73F32294072  Dexuan Cui <decui@microsoft.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
-   2  65C3F906A5D79FA0  Andrew Cooper <andrew.cooper3@citrix.com>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  EC63699779074FA8  Ian Campbell <ijc@hellion.org.uk>
    3  984087D4FE6AB34B  Wei Liu <liuw@liuw.name>
    4  0652C73F32294072  Dexuan Cui <decui@microsoft.com>
 

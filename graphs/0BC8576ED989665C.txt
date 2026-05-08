@@ -4,12 +4,6 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  0BC8576ED989665C  Wei Xu <xuwei04@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
-   2  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
-   3  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
-   4  0BC8576ED989665C  Wei Xu <xuwei04@gmail.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
    3  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
@@ -19,5 +13,11 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
    2  9B9B776EFF335C26  Bryan Wu (Peng Wu) <cooloney@gmail.com>
    3  B5DB5D8FDCFA2BF6  Haojian Zhuang <haojian.zhuang@linaro.org>
+   4  0BC8576ED989665C  Wei Xu <xuwei04@gmail.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
+   2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   3  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
    4  0BC8576ED989665C  Wei Xu <xuwei04@gmail.com>
 

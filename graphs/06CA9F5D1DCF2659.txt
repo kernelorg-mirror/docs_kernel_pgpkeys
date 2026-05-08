@@ -1,8 +1,4 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
-   2  06CA9F5D1DCF2659  Marcel Holtmann <marcel@holtmann.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>
    2  06CA9F5D1DCF2659  Marcel Holtmann <marcel@holtmann.org>
 
@@ -13,4 +9,9 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
    2  06CA9F5D1DCF2659  Marcel Holtmann <marcel@holtmann.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
+   2  8A803CDD4F566C4A  Samuel Ortiz <sameo@linux.intel.com>
+   3  06CA9F5D1DCF2659  Marcel Holtmann <marcel@holtmann.org>
 

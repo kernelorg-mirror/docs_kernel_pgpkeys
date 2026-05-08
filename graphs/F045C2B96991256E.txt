@@ -14,8 +14,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  F045C2B96991256E  Laurent Pinchart <laurent.pinchart@ideasonboard.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
-   2  F99E2237E0E1469A  Richard Weinberger (kernel.org) <richard@nod.at>
-   3  9AFB7B8C9A5F5BBC  Heiko Stuebner <heiko@sntech.de>
+   1  20D04E5A713660A7  Junio C Hamano <gitster@pobox.com>
+   2  8C1AE73CDE841C77  Olof Johansson <olof@lixom.net>
+   3  04B08C8F1524FAF8  Alexandre Courbot <gnurou@gmail.com>
    4  F045C2B96991256E  Laurent Pinchart <laurent.pinchart@ideasonboard.com>
 

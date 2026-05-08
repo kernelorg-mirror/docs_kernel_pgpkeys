@@ -1,9 +1,4 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  377C7F21FE3D1F91  Michal Simek <monstr@monstr.eu>
-   2  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
-   3  26BCFA05FCF60E4C  Marek Behún <kabel@kernel.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
    2  BD6A501CB78B7C26  Jacek Anaszewski <jacek.anaszewski@gmail.com>
    3  26BCFA05FCF60E4C  Marek Behún <kabel@kernel.org>
@@ -12,6 +7,12 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
    3  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
+   4  26BCFA05FCF60E4C  Marek Behún <kabel@kernel.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   2  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
+   3  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
    4  26BCFA05FCF60E4C  Marek Behún <kabel@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>

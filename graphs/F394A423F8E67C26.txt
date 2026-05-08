@@ -3,7 +3,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  F394A423F8E67C26  Luis Claudio R. Goncalves <lgoncalv@redhat.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
+   1  7647E1A44BC0E4BA  Peter Zijlstra <peterz@infradead.org>
    2  13B55DD07C53B851  Clark Williams (Kernel Correspondence) <clrkwllms@kernel.org>
    3  F394A423F8E67C26  Luis Claudio R. Goncalves <lgoncalv@redhat.com>
 

@@ -1,10 +1,4 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  377C7F21FE3D1F91  Michal Simek <monstr@monstr.eu>
-   2  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
-   3  0BAA159BA80750A9  Andi Shyti <andi.shyti@kernel.org>
-   4  FA625F640EEB13CA  Rodrigo Vivi <rodrigo.vivi@kernel.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
    2  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
    3  085F3EBD8EE4E115  Mauro Carvalho Chehab <mauro.chehab@linux.intel.com>

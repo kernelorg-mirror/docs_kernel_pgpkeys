@@ -7,7 +7,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  EBCE84042C07D1D6  Paul Gortmaker <paulg@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
+   1  7647E1A44BC0E4BA  Peter Zijlstra <peterz@infradead.org>
    2  08250084639D2D16  John Kacur <jkacur@redhat.com>
    3  EBCE84042C07D1D6  Paul Gortmaker <paulg@kernel.org>
 

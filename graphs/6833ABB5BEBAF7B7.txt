@@ -9,9 +9,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  D8EED7F3C83BFA9A  Sebastian Reichel <sre@ring0.de>
    4  6833ABB5BEBAF7B7  AngeloGioacchino Del Regno <kholk11@gmail.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  377C7F21FE3D1F91  Michal Simek <monstr@monstr.eu>
-   2  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
-   3  478701720E5D7C58  Konrad Dybcio <konradybcio@gmail.com>
-   4  6833ABB5BEBAF7B7  AngeloGioacchino Del Regno <kholk11@gmail.com>
-

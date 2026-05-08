@@ -1,11 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
-   2  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
-   3  FF98A38DA80834DA  Miroslav Benes <mbenes@suse.cz>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  BD25B10406B47049  Jiri Slaby <jirislaby@gmail.com>
+   2  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
    3  FF98A38DA80834DA  Miroslav Benes <mbenes@suse.cz>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
@@ -16,5 +11,10 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  A84E7FB9A5F2E36C  Rafael J. Wysocki <rjw@sisk.pl>
    2  A662F38F6BED6049  Jiri Kosina <jkosina@suse.com>
+   3  FF98A38DA80834DA  Miroslav Benes <mbenes@suse.cz>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
+   2  BD25B10406B47049  Jiri Slaby <jirislaby@gmail.com>
    3  FF98A38DA80834DA  Miroslav Benes <mbenes@suse.cz>
 

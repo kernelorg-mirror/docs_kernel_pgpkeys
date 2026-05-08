@@ -8,7 +8,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  3A554D033B37BCED  Jesper Dangaard Brouer (cloudflare) <jesper@cloudflare.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
+   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
    2  AC1DC469FF4F5BB7  Steffen Klassert <steffen@klassert.de>
    3  526A3E2C6E4E387D  Jiří Pírko <jiri@resnulli.us>
    4  3A554D033B37BCED  Jesper Dangaard Brouer (cloudflare) <jesper@cloudflare.com>
