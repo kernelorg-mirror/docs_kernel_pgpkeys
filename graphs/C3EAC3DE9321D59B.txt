@@ -16,9 +16,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
    4  C3EAC3DE9321D59B  Ahmad Fatoum <ahmad@a3f.at>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
-   2  F045C2B96991256E  Laurent Pinchart <laurent.pinchart@ideasonboard.com>
-   3  9B74AE447902EA71  Sakari Ailus <sakari.ailus@linux.intel.com>
-   4  C3EAC3DE9321D59B  Ahmad Fatoum <ahmad@a3f.at>
-

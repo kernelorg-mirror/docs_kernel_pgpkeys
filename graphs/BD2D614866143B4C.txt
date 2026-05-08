@@ -1,23 +1,24 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
-   2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
-   3  BD2D614866143B4C  Hans Verkuil <hverkuil@kernel.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  C78FB10D0BBD2A4B  Paul Walmsley <pjw@kernel.org>
    3  04B08C8F1524FAF8  Alexandre Courbot <gnurou@gmail.com>
    4  BD2D614866143B4C  Hans Verkuil <hverkuil@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
-   2  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
-   3  085F3EBD8EE4E115  Mauro Carvalho Chehab <mauro.chehab@linux.intel.com>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
+   3  F045C2B96991256E  Laurent Pinchart <laurent.pinchart@ideasonboard.com>
    4  BD2D614866143B4C  Hans Verkuil <hverkuil@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  C93A8F10916BCA39  Jesse Sayer Barnes <jbarnes@virtuousgeek.org>
-   2  5988A0C03AD3FAFC  Bjorn Helgaas <bjorn.helgaas@gmail.com>
-   3  0B0244C40D0D431C  Shuah Khan <shuah@gonehiking.org>
+   1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
+   2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
+   3  BF53AD52308AD4EC  Sakari Ailus <sakari.ailus@iki.fi>
+   4  BD2D614866143B4C  Hans Verkuil <hverkuil@kernel.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
+   2  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
+   3  085F3EBD8EE4E115  Mauro Carvalho Chehab <mauro.chehab@linux.intel.com>
    4  BD2D614866143B4C  Hans Verkuil <hverkuil@kernel.org>
 

@@ -10,8 +10,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    4  E9C315B1AE8CC723  Antoine Ténart <antoine.tenart@ack.tf>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
-   2  F045C2B96991256E  Laurent Pinchart <laurent.pinchart@ideasonboard.com>
+   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
+   2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    3  A6CD9F096F642CB3  Alexandre Belloni <alexandre.belloni@piout.net>
    4  E9C315B1AE8CC723  Antoine Ténart <antoine.tenart@ack.tf>
 

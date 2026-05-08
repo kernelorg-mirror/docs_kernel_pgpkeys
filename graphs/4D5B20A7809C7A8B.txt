@@ -1,6 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  377C7F21FE3D1F91  Michal Simek <monstr@monstr.eu>
-   2  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
+   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
+   2  BD6A501CB78B7C26  Jacek Anaszewski <jacek.anaszewski@gmail.com>
    3  4D5B20A7809C7A8B  Sylwester Nawrocki <s.nawrocki@samsung.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>

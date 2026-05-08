@@ -1,11 +1,12 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
-   2  F045C2B96991256E  Laurent Pinchart <laurent.pinchart@ideasonboard.com>
-   3  0CD904EB673A7C47  Casey Connolly <casey@connolly.tech>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
+   3  F045C2B96991256E  Laurent Pinchart <laurent.pinchart@ideasonboard.com>
+   4  0CD904EB673A7C47  Casey Connolly <casey@connolly.tech>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
+   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   2  3D200E9CA6329909  Adriaan (Ard) Biesheuvel <ard.biesheuvel@gmail.com>
    3  169AB7B1A4CFF8AE  Neil Armstrong <neil.armstrong@linaro.org>
    4  0CD904EB673A7C47  Casey Connolly <casey@connolly.tech>
 

@@ -3,11 +3,6 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
-   2  F045C2B96991256E  Laurent Pinchart <laurent.pinchart@ideasonboard.com>
-   3  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
    2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    3  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
@@ -16,5 +11,11 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
    2  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
    3  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+   4  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
+   3  F045C2B96991256E  Laurent Pinchart <laurent.pinchart@ideasonboard.com>
    4  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
 
