@@ -1,6 +1,0 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
-   2  06CA9F5D1DCF2659  Marcel Holtmann <marcel@holtmann.org>
-   3  142AECC9A1677277  Mat Martineau <mat@martineau.name>
-   4  F6B7824F4269A073  Matthieu Baerts <matttbe@kernel.org>
-
