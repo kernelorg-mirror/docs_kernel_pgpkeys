@@ -1,7 +1,7 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
-   3  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+   3  3A8F3B2F5A7C9849  Michael Turquette <mturquette@baylibre.com>
    4  12FA6A01E0A45B41  Markus Schneider-Pargmann <mail@markussp.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
