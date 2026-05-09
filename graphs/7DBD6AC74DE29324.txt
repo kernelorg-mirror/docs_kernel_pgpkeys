@@ -4,8 +4,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  7DBD6AC74DE29324  Andreas Kemnade <andreas@kemnade.info>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
    3  D8EED7F3C83BFA9A  Sebastian Reichel <sre@ring0.de>
    4  7DBD6AC74DE29324  Andreas Kemnade <andreas@kemnade.info>
 

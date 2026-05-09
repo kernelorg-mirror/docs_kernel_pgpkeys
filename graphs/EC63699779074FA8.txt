@@ -4,8 +4,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   3  3D200E9CA6329909  Adriaan (Ard) Biesheuvel <ard.biesheuvel@gmail.com>
+   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
+   3  DF7B9865F1496248  Mark Rutland <mark@kernel.org>
    4  EC63699779074FA8  Ian Campbell <ijc@hellion.org.uk>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
@@ -15,8 +15,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    4  EC63699779074FA8  Ian Campbell <ijc@hellion.org.uk>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
-   3  D8EED7F3C83BFA9A  Sebastian Reichel <sre@ring0.de>
+   1  7647E1A44BC0E4BA  Peter Zijlstra <peterz@infradead.org>
+   2  DBFB07BF052B3F1B  Masami Hiramatsu (www.hitachi.co.jp) <masami.hiramatsu.pt@hitachi.com>
+   3  32247FBB40AD1FA6  Nobuhiro Iwamatsu <iwamatsu@kernel.org>
    4  EC63699779074FA8  Ian Campbell <ijc@hellion.org.uk>
 
