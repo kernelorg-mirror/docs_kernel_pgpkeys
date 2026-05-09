@@ -8,12 +8,14 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  13F703E6C11CF6F0  Carlos Eduardo Maiolino <carlos@maiolino.me>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   2  F87F7719344AB4EB  Darrick J. Wong (Portland) <djwong@djwong.org>
-   3  13F703E6C11CF6F0  Carlos Eduardo Maiolino <carlos@maiolino.me>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   3  F87F7719344AB4EB  Darrick J. Wong (Portland) <djwong@djwong.org>
+   4  13F703E6C11CF6F0  Carlos Eduardo Maiolino <carlos@maiolino.me>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
-   2  C523F10A2D9D035A  Mike Snitzer <snitzer@kernel.org>
-   3  13F703E6C11CF6F0  Carlos Eduardo Maiolino <carlos@maiolino.me>
+   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
+   2  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   3  C523F10A2D9D035A  Mike Snitzer <snitzer@kernel.org>
+   4  13F703E6C11CF6F0  Carlos Eduardo Maiolino <carlos@maiolino.me>
 

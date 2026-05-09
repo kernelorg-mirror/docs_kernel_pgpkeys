@@ -1,6 +1,0 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
-   2  C523F10A2D9D035A  Mike Snitzer <snitzer@kernel.org>
-   3  D78B61D3DFF77A3B  Robert S Peterson (Bob Peterson) <rpeterso@redhat.com>
-   4  DDF2BF14A4DEC858  Alexander Aring <aahringo@redhat.com>
-

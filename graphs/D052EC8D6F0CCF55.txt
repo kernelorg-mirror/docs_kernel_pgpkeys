@@ -4,7 +4,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  D052EC8D6F0CCF55  Julia Lawall <Julia.Lawall@inria.fr>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
-   2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   3  D052EC8D6F0CCF55  Julia Lawall <Julia.Lawall@inria.fr>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
+   3  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   4  D052EC8D6F0CCF55  Julia Lawall <Julia.Lawall@inria.fr>
 

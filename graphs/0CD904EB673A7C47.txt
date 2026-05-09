@@ -4,9 +4,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  F045C2B96991256E  Laurent Pinchart <laurent.pinchart@ideasonboard.com>
    4  0CD904EB673A7C47  Casey Connolly <casey@connolly.tech>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   2  3D200E9CA6329909  Adriaan (Ard) Biesheuvel <ard.biesheuvel@gmail.com>
-   3  169AB7B1A4CFF8AE  Neil Armstrong <neil.armstrong@linaro.org>
-   4  0CD904EB673A7C47  Casey Connolly <casey@connolly.tech>
-

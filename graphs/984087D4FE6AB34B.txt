@@ -9,9 +9,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  52A50E84F1DB09BF  Konrad Rzeszutek Wilk <konrad@darnok.org>
    4  984087D4FE6AB34B  Wei Liu <liuw@liuw.name>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
-   2  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
-   3  65C3F906A5D79FA0  Andrew Cooper <andrew.cooper3@citrix.com>
-   4  984087D4FE6AB34B  Wei Liu <liuw@liuw.name>
-

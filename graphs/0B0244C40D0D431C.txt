@@ -4,9 +4,10 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  0B0244C40D0D431C  Shuah Khan <shuah@gonehiking.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
-   2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   3  0B0244C40D0D431C  Shuah Khan <shuah@gonehiking.org>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
+   3  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   4  0B0244C40D0D431C  Shuah Khan <shuah@gonehiking.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>

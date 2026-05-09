@@ -1,6 +1,7 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   2  BCED61E04BEF2AB1  KP Singh <kpsingh@kernel.org>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   3  BCED61E04BEF2AB1  KP Singh <kpsingh@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  FBB7576BA7CB0B6B  David Howells <dhowells@redhat.com>
@@ -11,11 +12,5 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
    2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
    3  725E44B5A8EFDF39  Michael Halcrow <mikehalcrow@gmail.com>
-   4  BCED61E04BEF2AB1  KP Singh <kpsingh@kernel.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
-   2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   3  A80E277F6A38E610  Joel Fernandes <joelagnelf@nvidia.com>
    4  BCED61E04BEF2AB1  KP Singh <kpsingh@kernel.org>
 

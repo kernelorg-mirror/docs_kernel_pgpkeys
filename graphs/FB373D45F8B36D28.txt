@@ -7,11 +7,12 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
-   2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
    2  B2E894C953448A0C  Ohad Ben-Cohen <ohad@wizery.com>
+   3  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
    3  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
 

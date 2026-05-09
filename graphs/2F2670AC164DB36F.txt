@@ -3,11 +3,13 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  2F2670AC164DB36F  Benjamin Tissoires <benjamin.tissoires@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
-   2  2F2670AC164DB36F  Benjamin Tissoires <benjamin.tissoires@gmail.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  A84E7FB9A5F2E36C  Rafael J. Wysocki <rjw@sisk.pl>
    2  A662F38F6BED6049  Jiri Kosina <jkosina@suse.com>
    3  2F2670AC164DB36F  Benjamin Tissoires <benjamin.tissoires@gmail.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
+   2  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   3  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
+   4  2F2670AC164DB36F  Benjamin Tissoires <benjamin.tissoires@gmail.com>
 

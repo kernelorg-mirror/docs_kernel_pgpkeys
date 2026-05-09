@@ -4,7 +4,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  0876A7C2DEA77FED  Mikulas Patocka <mikulas@twibright.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
-   2  C523F10A2D9D035A  Mike Snitzer <snitzer@kernel.org>
-   3  0876A7C2DEA77FED  Mikulas Patocka <mikulas@twibright.com>
+   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
+   2  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   3  C523F10A2D9D035A  Mike Snitzer <snitzer@kernel.org>
+   4  0876A7C2DEA77FED  Mikulas Patocka <mikulas@twibright.com>
 

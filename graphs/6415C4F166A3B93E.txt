@@ -15,7 +15,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    4  6415C4F166A3B93E  Dave Jiang (Work) <dave.jiang@intel.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
    2  6835953070C992B0  David Christopher Hansen <dave@sr71.net>
    3  7AFA61BEA3B84DFF  Vishal Verma <vishal@stellar.sh>
    4  6415C4F166A3B93E  Dave Jiang (Work) <dave.jiang@intel.com>

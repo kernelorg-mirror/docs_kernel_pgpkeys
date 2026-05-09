@@ -3,15 +3,16 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  0ED9A3DF8AFF873D  Josh Triplett <josh@joshtriplett.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   2  0ED9A3DF8AFF873D  Josh Triplett <josh@joshtriplett.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
    2  0ED9A3DF8AFF873D  Josh Triplett <josh@joshtriplett.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
    2  C7271D0A49B18BA7  Herbert Xu <herbert@gondor.apana.org.au>
+   3  0ED9A3DF8AFF873D  Josh Triplett <josh@joshtriplett.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  362D16C8D693AF2A  Keith Packard (4096 bit RSA key) <keithp@keithp.com>
+   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
    3  0ED9A3DF8AFF873D  Josh Triplett <josh@joshtriplett.org>
 

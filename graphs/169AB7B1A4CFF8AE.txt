@@ -4,13 +4,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  169AB7B1A4CFF8AE  Neil Armstrong <neil.armstrong@linaro.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   2  3D200E9CA6329909  Adriaan (Ard) Biesheuvel <ard.biesheuvel@gmail.com>
-   3  169AB7B1A4CFF8AE  Neil Armstrong <neil.armstrong@linaro.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
-   2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   3  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   2  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
+   3  3D200E9CA6329909  Adriaan (Ard) Biesheuvel <ard.biesheuvel@gmail.com>
    4  169AB7B1A4CFF8AE  Neil Armstrong <neil.armstrong@linaro.org>
 

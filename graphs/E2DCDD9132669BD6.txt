@@ -16,8 +16,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    4  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   2  3A554D033B37BCED  Jesper Dangaard Brouer (cloudflare) <jesper@cloudflare.com>
-   3  7091A8D9AD5FF600  Florian Westphal <fw@strlen.de>
+   1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>
+   2  06CA9F5D1DCF2659  Marcel Holtmann <marcel@holtmann.org>
+   3  2B5EE211C58AEA54  Marc Kleine-Budde <mkl@blackshift.org>
    4  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
 

@@ -4,9 +4,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
    4  38DE270552497C47  Marek Szyprowski <m.szyprowski@samsung.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
-   2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   3  13A1BABBD606808A  MyungJoo Ham (Office @ SEC) <myungjoo.ham@samsung.com>
-   4  38DE270552497C47  Marek Szyprowski <m.szyprowski@samsung.com>
-

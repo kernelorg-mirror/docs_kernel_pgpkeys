@@ -9,8 +9,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
-   2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   3  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
+   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
+   2  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   3  E63EDCA9329DD07E  Konstantin Ryabitsev <mricon@kernel.org>
    4  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
 

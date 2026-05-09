@@ -8,7 +8,14 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  7EF4F96F2BE9962A  Dmitry Torokhov <dmitry.torokhov@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
-   2  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
-   3  7EF4F96F2BE9962A  Dmitry Torokhov <dmitry.torokhov@gmail.com>
+   1  733AD9848B744C5E  Benjamin Herrenschmidt <benh@kernel.crashing.org>
+   2  5E442088ED632E87  Tony Breeds (Signing Key) <tony@bakeyournoodle.com>
+   3  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
+   4  7EF4F96F2BE9962A  Dmitry Torokhov <dmitry.torokhov@gmail.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
+   2  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   3  E63EDCA9329DD07E  Konstantin Ryabitsev <mricon@kernel.org>
+   4  7EF4F96F2BE9962A  Dmitry Torokhov <dmitry.torokhov@gmail.com>
 

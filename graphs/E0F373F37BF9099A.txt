@@ -3,15 +3,17 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
-   2  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
-   2  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
    2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
+   3  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>
+   2  8411100723B2B915  Bob Copeland <me@bobcopeland.com>
+   3  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  A84E7FB9A5F2E36C  Rafael J. Wysocki <rjw@sisk.pl>
+   2  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
    3  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
 

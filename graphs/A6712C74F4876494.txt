@@ -4,9 +4,10 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  A6712C74F4876494  Madhavan Srinivasan <maddy@linux.ibm.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
-   2  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
-   3  A6712C74F4876494  Madhavan Srinivasan <maddy@linux.ibm.com>
+   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
+   2  ABAB231F97DF5881  Tony Luck <tony.luck@intel.com>
+   3  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
+   4  A6712C74F4876494  Madhavan Srinivasan <maddy@linux.ibm.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7647E1A44BC0E4BA  Peter Zijlstra <peterz@infradead.org>

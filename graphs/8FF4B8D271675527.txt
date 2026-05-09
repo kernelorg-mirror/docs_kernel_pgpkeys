@@ -8,9 +8,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
    4  8FF4B8D271675527  Daniel Lezcano <daniel.lezcano@linaro.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
-   2  39CFD4755FE2D5B4  Sudeep Holla <sudeep.holla@kernel.org>
-   3  FE26842573588C29  Ulf Hansson <ulf.c.hansson@gmail.com>
-   4  8FF4B8D271675527  Daniel Lezcano <daniel.lezcano@linaro.org>
-

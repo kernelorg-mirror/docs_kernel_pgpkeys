@@ -14,7 +14,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  115BD5C937BFD56A  Amir Goldstein <amir73il@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   2  6B792466B03E715A  Mimi Zohar <zohar@linux.vnet.ibm.com>
-   3  115BD5C937BFD56A  Amir Goldstein <amir73il@gmail.com>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   3  6B792466B03E715A  Mimi Zohar <zohar@linux.vnet.ibm.com>
+   4  115BD5C937BFD56A  Amir Goldstein <amir73il@gmail.com>
 

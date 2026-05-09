@@ -3,9 +3,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
    3  FB9950ADAF372CA8  Alexander Sverdlin <alexander.sverdlin@gmail.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   2  3D200E9CA6329909  Adriaan (Ard) Biesheuvel <ard.biesheuvel@gmail.com>
-   3  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
-   4  FB9950ADAF372CA8  Alexander Sverdlin <alexander.sverdlin@gmail.com>
-

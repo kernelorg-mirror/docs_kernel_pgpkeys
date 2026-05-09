@@ -9,13 +9,14 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  C53C5D378D86769F  Lee Duncan <leeman.duncan@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
-   2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   3  C53C5D378D86769F  Lee Duncan <leeman.duncan@gmail.com>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
+   3  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   4  C53C5D378D86769F  Lee Duncan <leeman.duncan@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
-   3  CB1F266FCE9F9981  Guenter Roeck (Linux account) <linux@roeck-us.net>
+   1  7647E1A44BC0E4BA  Peter Zijlstra <peterz@infradead.org>
+   2  6CBA8A24391968FE  Miklos Szeredi <miklos@szeredi.hu>
+   3  1E7B4B632179E5B2  Jeffrey Mahoney <jeffm@suse.com>
    4  C53C5D378D86769F  Lee Duncan <leeman.duncan@gmail.com>
 

@@ -1,9 +1,11 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
-   2  82930ECB55BFCAE2  Nick Terrell <nickrterrell@gmail.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
    2  7FD9FCCB000BEEEE  Jim Meyering <jim@meyering.net>
    3  82930ECB55BFCAE2  Nick Terrell <nickrterrell@gmail.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
+   2  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   3  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
+   4  82930ECB55BFCAE2  Nick Terrell <nickrterrell@gmail.com>
 

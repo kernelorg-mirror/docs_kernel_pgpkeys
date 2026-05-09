@@ -3,8 +3,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  EAB99A773DAF6D3A  Alexei Starovoitov <alexei.starovoitov@gmail.com>
    3  75A295F901F22B26  Eduard Zingerman <eddyz87@gmail.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
-   2  5CEC1454845C4927  Andrii Nakryiko <andrii.nakryiko@gmail.com>
-   3  75A295F901F22B26  Eduard Zingerman <eddyz87@gmail.com>
-

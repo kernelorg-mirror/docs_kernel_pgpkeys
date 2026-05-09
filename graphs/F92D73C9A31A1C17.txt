@@ -3,17 +3,12 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  F92D73C9A31A1C17  Mark Gross <markgross@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   2  F92D73C9A31A1C17  Mark Gross <markgross@kernel.org>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   3  F92D73C9A31A1C17  Mark Gross <markgross@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
    2  C73907936B7DF8FC  Coly Li <i@coly.li>
    3  F92D73C9A31A1C17  Mark Gross <markgross@kernel.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
-   2  1ED2916A667D8802  Dan Williams (djbw) <dan.j.williams@intel.com>
-   3  E56FEF955A4BEDCE  Jeff Kirsher <jkirsher@lightfleet.com>
-   4  F92D73C9A31A1C17  Mark Gross <markgross@kernel.org>
 

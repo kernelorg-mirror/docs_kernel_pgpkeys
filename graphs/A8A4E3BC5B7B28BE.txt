@@ -15,9 +15,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
    4  A8A4E3BC5B7B28BE  Daniel Thompson <daniel@redfelineninja.org.uk>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
-   2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   3  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
-   4  A8A4E3BC5B7B28BE  Daniel Thompson <daniel@redfelineninja.org.uk>
-

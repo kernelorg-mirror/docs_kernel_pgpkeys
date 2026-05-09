@@ -9,7 +9,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  FA2ED12D3E7E013F  Andreas Färber <afaerber@suse.de>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
-   2  51F9CC91F83FA044  Max Filippov <filippov@cadence.com>
-   3  FA2ED12D3E7E013F  Andreas Färber <afaerber@suse.de>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
+   3  51F9CC91F83FA044  Max Filippov <filippov@cadence.com>
+   4  FA2ED12D3E7E013F  Andreas Färber <afaerber@suse.de>
 

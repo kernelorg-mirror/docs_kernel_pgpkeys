@@ -12,7 +12,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  002BA651C51622D3  Andy Lutomirski (master key) <andy@luto.us>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  435AE3866102DD21  Roland Dreier <roland@digitalvampire.org>
-   2  FAF3337956F28814  Joern Engel (2011 key) <joern@purestorage.com>
-   3  002BA651C51622D3  Andy Lutomirski (master key) <andy@luto.us>
+   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
+   2  435AE3866102DD21  Roland Dreier <roland@digitalvampire.org>
+   3  FAF3337956F28814  Joern Engel (2011 key) <joern@purestorage.com>
+   4  002BA651C51622D3  Andy Lutomirski (master key) <andy@luto.us>
 

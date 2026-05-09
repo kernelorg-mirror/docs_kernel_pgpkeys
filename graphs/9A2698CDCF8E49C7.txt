@@ -15,9 +15,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  B5DB5D8FDCFA2BF6  Haojian Zhuang <haojian.zhuang@linaro.org>
    4  9A2698CDCF8E49C7  Steven Miao (Steven Miao) <realmz6@gmail.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   2  9B9B776EFF335C26  Bryan Wu (Peng Wu) <cooloney@gmail.com>
-   3  322FE1A0B5F75461  Barry Song <Baohua.Song@csr.com>
-   4  9A2698CDCF8E49C7  Steven Miao (Steven Miao) <realmz6@gmail.com>
-

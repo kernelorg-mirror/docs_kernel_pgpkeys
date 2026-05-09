@@ -13,7 +13,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  127310D003E12B58  Ingo Molnar <mingo@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
-   2  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
-   3  127310D003E12B58  Ingo Molnar <mingo@kernel.org>
+   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
+   2  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   3  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
+   4  127310D003E12B58  Ingo Molnar <mingo@kernel.org>
 

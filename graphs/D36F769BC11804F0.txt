@@ -7,11 +7,13 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
-   2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
    2  ABAB231F97DF5881  Tony Luck <tony.luck@intel.com>
    3  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   3  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   4  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
 

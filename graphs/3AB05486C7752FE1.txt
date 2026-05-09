@@ -4,6 +4,11 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  3AB05486C7752FE1  Jarkko Sakkinen <jarkko.sakkinen@iki.fi>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
+   2  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   3  3AB05486C7752FE1  Jarkko Sakkinen <jarkko.sakkinen@iki.fi>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
    3  993DFFF377394B2D  Andriy Shevchenko <andriy.shevchenko@linux.intel.com>

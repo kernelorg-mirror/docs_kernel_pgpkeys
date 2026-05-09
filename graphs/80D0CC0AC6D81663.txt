@@ -10,9 +10,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  2105F2B2A751ECE2  Amit Kucheria (Linaro) <amit.kucheria@linaro.org>
    4  80D0CC0AC6D81663  Georgi Djakov <djakov@kernel.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
-   2  39CFD4755FE2D5B4  Sudeep Holla <sudeep.holla@kernel.org>
-   3  FE26842573588C29  Ulf Hansson <ulf.c.hansson@gmail.com>
-   4  80D0CC0AC6D81663  Georgi Djakov <djakov@kernel.org>
-

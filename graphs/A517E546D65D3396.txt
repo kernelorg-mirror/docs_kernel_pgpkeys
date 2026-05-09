@@ -5,8 +5,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    4  A517E546D65D3396  Xiu Jianfeng <xiujianfeng@huawei.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   2  6B792466B03E715A  Mimi Zohar <zohar@linux.vnet.ibm.com>
+   1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
+   2  55E45A5AE8CA7C8A  Paul Moore <paul@paul-moore.com>
    3  140ABE4EC2C8C07C  Roberto Sassu <roberto.sassu@huawei.com>
    4  A517E546D65D3396  Xiu Jianfeng <xiujianfeng@huawei.com>
 

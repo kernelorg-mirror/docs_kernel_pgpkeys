@@ -10,9 +10,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  11A72EA01471D772  Bartosz Golaszewski <brgl@bgdev.pl>
    4  478701720E5D7C58  Konrad Dybcio <konradybcio@gmail.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   2  3D200E9CA6329909  Adriaan (Ard) Biesheuvel <ard.biesheuvel@gmail.com>
-   3  F7BF214136F41FAE  Abel Vesa <abelvesa@gmail.com>
-   4  478701720E5D7C58  Konrad Dybcio <konradybcio@gmail.com>
-

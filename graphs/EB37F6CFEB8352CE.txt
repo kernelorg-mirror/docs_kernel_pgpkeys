@@ -9,13 +9,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  EB37F6CFEB8352CE  James Morse <james.morse@arm.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
-   2  DF7B9865F1496248  Mark Rutland <mark@kernel.org>
-   3  EB37F6CFEB8352CE  James Morse <james.morse@arm.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
-   2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   3  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
+   3  DF7B9865F1496248  Mark Rutland <mark@kernel.org>
    4  EB37F6CFEB8352CE  James Morse <james.morse@arm.com>
 
