@@ -5,13 +5,6 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
-   3  D2B91C3CAE81121C  Viresh Kumar <viresh.linux@gmail.com>
-   4  A80E277F6A38E610  Joel Fernandes <joelagnelf@nvidia.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
-   3  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   4  A80E277F6A38E610  Joel Fernandes <joelagnelf@nvidia.com>
+   2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   3  A80E277F6A38E610  Joel Fernandes <joelagnelf@nvidia.com>
 

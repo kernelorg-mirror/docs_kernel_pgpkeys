@@ -1,12 +1,5 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
-   3  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
-   4  80D0CC0AC6D81663  Georgi Djakov <djakov@kernel.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
-   3  2105F2B2A751ECE2  Amit Kucheria (Linaro) <amit.kucheria@linaro.org>
-   4  80D0CC0AC6D81663  Georgi Djakov <djakov@kernel.org>
+   2  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
+   3  80D0CC0AC6D81663  Georgi Djakov <djakov@kernel.org>
 

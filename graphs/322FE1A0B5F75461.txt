@@ -18,7 +18,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
-   3  B5DB5D8FDCFA2BF6  Haojian Zhuang <haojian.zhuang@linaro.org>
+   2  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
+   3  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
    4  322FE1A0B5F75461  Barry Song <Baohua.Song@csr.com>
 

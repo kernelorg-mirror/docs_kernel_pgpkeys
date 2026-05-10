@@ -11,6 +11,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
-   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   2  41633B9FE837F581  Mike Frysinger <vapier@gentoo.org>
+   3  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
 

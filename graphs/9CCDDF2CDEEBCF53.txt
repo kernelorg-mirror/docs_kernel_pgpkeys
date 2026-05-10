@@ -1,12 +1,5 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
-   3  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   4  9CCDDF2CDEEBCF53  Chanwoo Choi (Personal) <cwchoi00@gmail.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
-   3  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
-   4  9CCDDF2CDEEBCF53  Chanwoo Choi (Personal) <cwchoi00@gmail.com>
+   2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   3  9CCDDF2CDEEBCF53  Chanwoo Choi (Personal) <cwchoi00@gmail.com>
 

@@ -3,15 +3,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
-   2  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
-   2  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  C78FB10D0BBD2A4B  Paul Walmsley <pjw@kernel.org>
-   3  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
+   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
+   3  A6CD9F096F642CB3  Alexandre Belloni <alexandre.belloni@piout.net>
+   4  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
 

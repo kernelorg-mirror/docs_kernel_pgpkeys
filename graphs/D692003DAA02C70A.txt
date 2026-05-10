@@ -8,9 +8,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  E4209B8C8AE8A9D1  Jon Masters (Jonathan Charles Masters) <jcm@kernel.org>
    3  D692003DAA02C70A  Tyler Hicks <tyhicks@tyhicks.net>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
-   2  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
-   3  052F367018D5C3D8  John Johansen <john@jjmx.net>
-   4  D692003DAA02C70A  Tyler Hicks <tyhicks@tyhicks.net>
-

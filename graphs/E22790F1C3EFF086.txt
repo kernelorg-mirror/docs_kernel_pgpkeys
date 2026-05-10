@@ -11,6 +11,6 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  E22790F1C3EFF086  Paul Turner <pjt@google.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
+   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
    2  E22790F1C3EFF086  Paul Turner <pjt@google.com>
 

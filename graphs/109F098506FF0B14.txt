@@ -1,12 +1,11 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
-   2  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
-   3  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
+   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   2  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
-   3  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   3  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
    4  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>

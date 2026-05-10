@@ -8,7 +8,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  653928BBBB2638F1  David A Cohen <dacohen@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
-   2  F92D73C9A31A1C17  Mark Gross <markgross@kernel.org>
-   3  653928BBBB2638F1  David A Cohen <dacohen@gmail.com>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   3  F92D73C9A31A1C17  Mark Gross <markgross@kernel.org>
+   4  653928BBBB2638F1  David A Cohen <dacohen@gmail.com>
 

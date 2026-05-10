@@ -14,9 +14,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  828B39A6A2D1367F  Lorenzo Pieralisi <lorenzo.pieralisi@linaro.org>
    4  7C64768D3DE334E7  Krzysztof Wilczynski <kw@linux.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
-   2  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
-   3  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
-   4  7C64768D3DE334E7  Krzysztof Wilczynski <kw@linux.com>
-

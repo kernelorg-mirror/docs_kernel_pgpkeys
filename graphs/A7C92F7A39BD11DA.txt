@@ -7,11 +7,6 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  A7C92F7A39BD11DA  Yinghai Lu <yinghai@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
-   2  ABAB231F97DF5881  Tony Luck <tony.luck@intel.com>
-   3  A7C92F7A39BD11DA  Yinghai Lu <yinghai@kernel.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  C83B0745DF188DFE  Dirk Hohndel <dirkhh@vmware.com>
    2  04C216B7287C1BA1  Chris Mason <clm@fb.com>
    3  A7C92F7A39BD11DA  Yinghai Lu <yinghai@kernel.org>

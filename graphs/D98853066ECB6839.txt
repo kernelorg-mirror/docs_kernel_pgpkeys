@@ -13,9 +13,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  1ED2916A667D8802  Dan Williams (djbw) <dan.j.williams@intel.com>
    3  D98853066ECB6839  Zach Brown <zab@zabbo.net>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
-   2  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
-   3  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
-   4  D98853066ECB6839  Zach Brown <zab@zabbo.net>
-

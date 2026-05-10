@@ -5,7 +5,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
+   2  0F9E536552045183  Christoph Hellwig <hch@kernel.org>
    3  F99E2237E0E1469A  Richard Weinberger (kernel.org) <richard@nod.at>
    4  6BBF9F19873B518D  Luis de Bethencourt (luisbg) <luis@debethencourt.com>
 

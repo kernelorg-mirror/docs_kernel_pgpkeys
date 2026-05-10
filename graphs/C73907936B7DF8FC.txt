@@ -13,7 +13,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  C73907936B7DF8FC  Coly Li <i@coly.li>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
-   2  F92D73C9A31A1C17  Mark Gross <markgross@kernel.org>
+   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
+   2  A7C92F7A39BD11DA  Yinghai Lu <yinghai@kernel.org>
    3  C73907936B7DF8FC  Coly Li <i@coly.li>
 

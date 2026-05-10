@@ -14,7 +14,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  4CE2B02898B958D7  Liam Girdwood (korg) <lgirdwood@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
+   1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
    2  901C87F0F57DB1D4  Phillip Lougher <phillip@squashfs.org.uk>
    3  4CE2B02898B958D7  Liam Girdwood (korg) <lgirdwood@gmail.com>
 

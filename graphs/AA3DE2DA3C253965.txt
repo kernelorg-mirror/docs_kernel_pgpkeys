@@ -6,6 +6,12 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   2  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   3  E63EDCA9329DD07E  Konstantin Ryabitsev <mricon@kernel.org>
+   4  AA3DE2DA3C253965  Vladimir Zapolskiy <vz@kernel.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    2  AD5BE090C6AF2275  Benoit Cousson <bcousson@baylibre.com>
    3  11A72EA01471D772  Bartosz Golaszewski <brgl@bgdev.pl>
    4  AA3DE2DA3C253965  Vladimir Zapolskiy <vz@kernel.org>
@@ -14,11 +20,5 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
    2  EC63699779074FA8  Ian Campbell <ijc@hellion.org.uk>
    3  3D200E9CA6329909  Adriaan (Ard) Biesheuvel <ard.biesheuvel@gmail.com>
-   4  AA3DE2DA3C253965  Vladimir Zapolskiy <vz@kernel.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
-   2  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
-   3  E63EDCA9329DD07E  Konstantin Ryabitsev <mricon@kernel.org>
    4  AA3DE2DA3C253965  Vladimir Zapolskiy <vz@kernel.org>
 

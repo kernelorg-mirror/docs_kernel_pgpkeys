@@ -5,6 +5,12 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    4  4A55C497F744F705  Toke Høiland-Jørgensen <toke@toke.dk>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   3  49FC7012A5DE03AE  Jason A. Donenfeld <Jason@zx2c4.com>
+   4  4A55C497F744F705  Toke Høiland-Jørgensen <toke@toke.dk>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
    2  1B52E30D2FA29DB8  Radim Krčmář <radim@krcmar.dev>
    3  1A53BC68A06E022E  Lorenzo Bianconi <lorenzo.bianconi@redhat.com>

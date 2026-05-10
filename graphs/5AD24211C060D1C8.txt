@@ -1,7 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
-   2  ABAB231F97DF5881  Tony Luck <tony.luck@intel.com>
-   3  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
+   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   2  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  733AD9848B744C5E  Benjamin Herrenschmidt <benh@kernel.crashing.org>
@@ -9,9 +8,10 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
-   2  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
-   3  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   3  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   4  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
