@@ -1,12 +1,13 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
-   3  4E2415A9A1BD2F80  Greg Ungerer <gerg@snapgear.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
    3  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
+   4  4E2415A9A1BD2F80  Greg Ungerer <gerg@snapgear.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  733AD9848B744C5E  Benjamin Herrenschmidt <benh@kernel.crashing.org>
+   2  5E442088ED632E87  Tony Breeds (Signing Key) <tony@bakeyournoodle.com>
+   3  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
    4  4E2415A9A1BD2F80  Greg Ungerer <gerg@snapgear.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>

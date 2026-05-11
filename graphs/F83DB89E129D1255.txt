@@ -4,9 +4,10 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  F83DB89E129D1255  Laura Abbott <laura@oxidecomputer.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
-   2  E0D3C9EF07D2F8B4  Justin M. Forbes (kernel.org) <jforbes@kernel.org>
-   3  F83DB89E129D1255  Laura Abbott <laura@oxidecomputer.com>
+   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
+   2  8EF2103794CACC65  Avi Kivity <avi@scylladb.com>
+   3  E0D3C9EF07D2F8B4  Justin M. Forbes (kernel.org) <jforbes@kernel.org>
+   4  F83DB89E129D1255  Laura Abbott <laura@oxidecomputer.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  20D04E5A713660A7  Junio C Hamano <gitster@pobox.com>
@@ -15,7 +16,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    4  F83DB89E129D1255  Laura Abbott <laura@oxidecomputer.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    2  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
    3  DF7B9865F1496248  Mark Rutland <mark@kernel.org>
    4  F83DB89E129D1255  Laura Abbott <laura@oxidecomputer.com>

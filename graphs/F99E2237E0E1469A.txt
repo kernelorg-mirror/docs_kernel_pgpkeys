@@ -1,5 +1,12 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
-   3  F99E2237E0E1469A  Richard Weinberger (kernel.org) <richard@nod.at>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
+   3  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   4  F99E2237E0E1469A  Richard Weinberger (kernel.org) <richard@nod.at>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
+   3  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
+   4  F99E2237E0E1469A  Richard Weinberger (kernel.org) <richard@nod.at>
 

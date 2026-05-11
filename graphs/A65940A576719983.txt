@@ -4,9 +4,10 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  A65940A576719983  Stefan Schmidt <stefan@datenfreihafen.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>
-   2  2423F6FBF9A8D412  Johan Hedberg <johan.hedberg@intel.com>
-   3  A65940A576719983  Stefan Schmidt <stefan@datenfreihafen.org>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
+   3  2423F6FBF9A8D412  Johan Hedberg <johan.hedberg@intel.com>
+   4  A65940A576719983  Stefan Schmidt <stefan@datenfreihafen.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>

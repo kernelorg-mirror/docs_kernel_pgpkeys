@@ -4,17 +4,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  4CE2B02898B958D7  Liam Girdwood (korg) <lgirdwood@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  1BD43EC95CABA573  Tony Lindgren <tony@atomide.com>
-   3  4CE2B02898B958D7  Liam Girdwood (korg) <lgirdwood@gmail.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    2  AD5BE090C6AF2275  Benoit Cousson <bcousson@baylibre.com>
-   3  4CE2B02898B958D7  Liam Girdwood (korg) <lgirdwood@gmail.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  FBB7576BA7CB0B6B  David Howells <dhowells@redhat.com>
-   2  901C87F0F57DB1D4  Phillip Lougher <phillip@squashfs.org.uk>
    3  4CE2B02898B958D7  Liam Girdwood (korg) <lgirdwood@gmail.com>
 

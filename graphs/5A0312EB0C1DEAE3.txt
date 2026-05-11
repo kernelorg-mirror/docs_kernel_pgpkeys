@@ -8,9 +8,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  8BC68E994040912F  SeongJae Park <sjpark@amazon.de>
    3  5A0312EB0C1DEAE3  Harry Yoo <harry@kernel.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
-   3  C532392DE6DA7CE9  Mike Rapoport <mike.rapoport@gmail.com>
-   4  5A0312EB0C1DEAE3  Harry Yoo <harry@kernel.org>
-

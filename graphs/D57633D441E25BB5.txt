@@ -1,5 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  856199113A35CE5E  Michael Kerrisk (public mail/TLPI) <mtk@man7.org>
-   3  D57633D441E25BB5  Alejandro Colomar <alx@alejandro-colomar.es>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  41633B9FE837F581  Mike Frysinger <vapier@gentoo.org>
+   3  856199113A35CE5E  Michael Kerrisk (public mail/TLPI) <mtk@man7.org>
+   4  D57633D441E25BB5  Alejandro Colomar <alx@alejandro-colomar.es>
 

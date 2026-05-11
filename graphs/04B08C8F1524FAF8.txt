@@ -13,9 +13,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
    3  04B08C8F1524FAF8  Alexandre Courbot <gnurou@gmail.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
-   3  DD23ACD77F3EB3A1  Thierry Reding <thierry@gilfi.de>
-   4  04B08C8F1524FAF8  Alexandre Courbot <gnurou@gmail.com>
-

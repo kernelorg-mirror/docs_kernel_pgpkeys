@@ -4,9 +4,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
    4  2BE25AAE87E87347  Imre Kaloz <kaloz@dune.hu>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
-   2  1B52E30D2FA29DB8  Radim Krčmář <radim@krcmar.dev>
-   3  1A53BC68A06E022E  Lorenzo Bianconi <lorenzo.bianconi@redhat.com>
-   4  2BE25AAE87E87347  Imre Kaloz <kaloz@dune.hu>
-

@@ -16,8 +16,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    4  00FD9F49DF9958A0  Mika Westerberg <mika.westerberg@iki.fi>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>
-   2  2423F6FBF9A8D412  Johan Hedberg <johan.hedberg@intel.com>
-   3  58839FFB9893C549  Mathias Nyman <mathias.nyman@gmail.com>
+   1  C0ADFFFAB1FB1C18  Andi Kleen <ak@linux.intel.com>
+   2  653928BBBB2638F1  David A Cohen <dacohen@gmail.com>
+   3  868EB2E035CAA444  Felipe Balbi <balbi@kernel.org>
    4  00FD9F49DF9958A0  Mika Westerberg <mika.westerberg@iki.fi>
 

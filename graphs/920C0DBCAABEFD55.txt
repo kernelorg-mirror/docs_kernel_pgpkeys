@@ -4,9 +4,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
    4  920C0DBCAABEFD55  Yixun Lan <dlan@gentoo.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  15BC833443038D8C  Jan Kara <jack@suse.com>
-   3  C73907936B7DF8FC  Coly Li <i@coly.li>
-   4  920C0DBCAABEFD55  Yixun Lan <dlan@gentoo.org>
-

@@ -1,22 +1,12 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
-   3  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  A84E7FB9A5F2E36C  Rafael J. Wysocki <rjw@sisk.pl>
-   2  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
-   3  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
-   3  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
+   3  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    4  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>
-   2  8411100723B2B915  Bob Copeland <me@bobcopeland.com>
-   3  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
+   3  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
    4  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
 

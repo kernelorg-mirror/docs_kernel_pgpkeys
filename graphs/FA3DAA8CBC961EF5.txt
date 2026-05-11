@@ -1,7 +1,8 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>
-   2  A1479CA21A3CC5FA  Luciano Roth Coelho (Luca) <luca@coelho.fi>
-   3  FA3DAA8CBC961EF5  Tomi Valkeinen <tomi.valkeinen@iki.fi>
+   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
+   2  29887E377DC2A2B4  Artem Bityutskiy <dedekind1@gmail.com>
+   3  A1479CA21A3CC5FA  Luciano Roth Coelho (Luca) <luca@coelho.fi>
+   4  FA3DAA8CBC961EF5  Tomi Valkeinen <tomi.valkeinen@iki.fi>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  20D04E5A713660A7  Junio C Hamano <gitster@pobox.com>

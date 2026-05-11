@@ -1,11 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
-   3  8FF4B8D271675527  Daniel Lezcano <daniel.lezcano@linaro.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  FBB7576BA7CB0B6B  David Howells <dhowells@redhat.com>
-   2  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
-   3  7647E1A44BC0E4BA  Peter Zijlstra <peterz@infradead.org>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
+   3  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
    4  8FF4B8D271675527  Daniel Lezcano <daniel.lezcano@linaro.org>
 

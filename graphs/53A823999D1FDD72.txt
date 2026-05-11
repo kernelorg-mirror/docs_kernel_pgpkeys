@@ -1,4 +1,0 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  A84E7FB9A5F2E36C  Rafael J. Wysocki <rjw@sisk.pl>
-   2  53A823999D1FDD72  Krzysztof Halasa <khc@pm.waw.pl>
-

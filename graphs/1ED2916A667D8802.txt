@@ -1,13 +1,4 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  C83B0745DF188DFE  Dirk Hohndel <dirkhh@vmware.com>
-   2  1ED2916A667D8802  Dan Williams (djbw) <dan.j.williams@intel.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
-   3  1ED2916A667D8802  Dan Williams (djbw) <dan.j.williams@intel.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  C0ADFFFAB1FB1C18  Andi Kleen <ak@linux.intel.com>
    2  46A3C53C3D727E07  Robert Love <robert.w.love@intel.com>
    3  1ED2916A667D8802  Dan Williams (djbw) <dan.j.williams@intel.com>
@@ -16,5 +7,11 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
    3  6835953070C992B0  David Christopher Hansen <dave@sr71.net>
+   4  1ED2916A667D8802  Dan Williams (djbw) <dan.j.williams@intel.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
+   3  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
    4  1ED2916A667D8802  Dan Williams (djbw) <dan.j.williams@intel.com>
 

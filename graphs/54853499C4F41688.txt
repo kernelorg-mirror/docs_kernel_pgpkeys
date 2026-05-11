@@ -3,16 +3,13 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  54853499C4F41688  Jonathan Cameron (Personal email address) <jic23@jic23.retrosnub.co.uk>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  FBB7576BA7CB0B6B  David Howells <dhowells@redhat.com>
-   2  54853499C4F41688  Jonathan Cameron (Personal email address) <jic23@jic23.retrosnub.co.uk>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
-   3  54853499C4F41688  Jonathan Cameron (Personal email address) <jic23@jic23.retrosnub.co.uk>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
    2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
    3  54853499C4F41688  Jonathan Cameron (Personal email address) <jic23@jic23.retrosnub.co.uk>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  C78FB10D0BBD2A4B  Paul Walmsley <pjw@kernel.org>
+   3  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
+   4  54853499C4F41688  Jonathan Cameron (Personal email address) <jic23@jic23.retrosnub.co.uk>
 

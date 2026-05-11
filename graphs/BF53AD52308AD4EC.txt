@@ -9,9 +9,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  04B08C8F1524FAF8  Alexandre Courbot <gnurou@gmail.com>
    4  BF53AD52308AD4EC  Sakari Ailus <sakari.ailus@iki.fi>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   3  0B0244C40D0D431C  Shuah Khan <shuah@gonehiking.org>
-   4  BF53AD52308AD4EC  Sakari Ailus <sakari.ailus@iki.fi>
-

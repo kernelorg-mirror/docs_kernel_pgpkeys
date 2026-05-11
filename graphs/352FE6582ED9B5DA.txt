@@ -4,20 +4,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  352FE6582ED9B5DA  Niklas Cassel <cassel@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  0F9E536552045183  Christoph Hellwig <hch@kernel.org>
-   3  CD57E35C5BA20660  Damien Le Moal <dlemoal@kernel.org>
-   4  352FE6582ED9B5DA  Niklas Cassel <cassel@kernel.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  5D3C6CC76ACAFA02  Davidlohr Bueso (kernel.org) <dave@stgolabs.net>
    2  5895FAAC338C6E77  Joel Granados (Linux Kernel Key) <joel.granados@kernel.org>
    3  376EB100563EF7A7  Andreas Hindborg <a.hindborg@kernel.org>
-   4  352FE6582ED9B5DA  Niklas Cassel <cassel@kernel.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  FBB7576BA7CB0B6B  David Howells <dhowells@redhat.com>
-   2  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
-   3  0393969D2D760850  Johannes Thumshirn <jth@kernel.org>
    4  352FE6582ED9B5DA  Niklas Cassel <cassel@kernel.org>
 

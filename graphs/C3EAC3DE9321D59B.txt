@@ -5,12 +5,6 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    4  C3EAC3DE9321D59B  Ahmad Fatoum <ahmad@a3f.at>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   3  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
-   4  C3EAC3DE9321D59B  Ahmad Fatoum <ahmad@a3f.at>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
    2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
    3  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>

@@ -1,13 +1,4 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  FBB7576BA7CB0B6B  David Howells <dhowells@redhat.com>
-   2  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
-   3  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
    3  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
@@ -15,7 +6,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
-   3  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
+   2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
+   3  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
    4  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
 

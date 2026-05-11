@@ -4,8 +4,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  D9D98003B060B92D  Naveen N Rao <naveen@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  0F9E536552045183  Christoph Hellwig <hch@kernel.org>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  32247FBB40AD1FA6  Nobuhiro Iwamatsu <iwamatsu@kernel.org>
    3  DBFB07BF052B3F1B  Masami Hiramatsu (www.hitachi.co.jp) <masami.hiramatsu.pt@hitachi.com>
    4  D9D98003B060B92D  Naveen N Rao <naveen@kernel.org>
 

@@ -1,6 +1,0 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
-   3  C523F10A2D9D035A  Mike Snitzer <snitzer@kernel.org>
-   4  FB5D7F88D8C5D5D8  Benjamin E. Marzinski (nimh) <bmarzins@redhat.com>
-

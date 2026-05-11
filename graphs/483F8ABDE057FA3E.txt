@@ -1,5 +1,0 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>
-   2  B826A3330E572FDD  Doug Ledford <doug.ledford@hpe.com>
-   3  483F8ABDE057FA3E  Saeed Mahameed <saeedm@mellanox.com>
-

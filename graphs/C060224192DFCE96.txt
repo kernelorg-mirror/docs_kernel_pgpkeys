@@ -3,15 +3,16 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  C060224192DFCE96  Pavel Machek (2011) <pavel@ucw.cz>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  A84E7FB9A5F2E36C  Rafael J. Wysocki <rjw@sisk.pl>
-   2  C060224192DFCE96  Pavel Machek (2011) <pavel@ucw.cz>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  C0ADFFFAB1FB1C18  Andi Kleen <ak@linux.intel.com>
    2  C060224192DFCE96  Pavel Machek (2011) <pavel@ucw.cz>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  15BC833443038D8C  Jan Kara <jack@suse.com>
+   1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
+   2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
+   3  C060224192DFCE96  Pavel Machek (2011) <pavel@ucw.cz>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
    3  C060224192DFCE96  Pavel Machek (2011) <pavel@ucw.cz>
 

@@ -4,9 +4,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  726C1CE741A7973F  Santosh Shilimkar <ssantosh@kernel.org>
    4  CAFABD3179501A11  Tero Kristo <tero.kristo@gmail.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>
-   2  A1479CA21A3CC5FA  Luciano Roth Coelho (Luca) <luca@coelho.fi>
-   3  FA3DAA8CBC961EF5  Tomi Valkeinen <tomi.valkeinen@iki.fi>
-   4  CAFABD3179501A11  Tero Kristo <tero.kristo@gmail.com>
-

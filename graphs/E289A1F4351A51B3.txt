@@ -1,10 +1,4 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
-   3  E63EDCA9329DD07E  Konstantin Ryabitsev <mricon@kernel.org>
-   4  E289A1F4351A51B3  Oleksij Rempel <linux@rempel-privat.de>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
    3  993DFFF377394B2D  Andriy Shevchenko <andriy.shevchenko@linux.intel.com>
@@ -14,11 +8,5 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
    2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
    3  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
-   4  E289A1F4351A51B3  Oleksij Rempel <linux@rempel-privat.de>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>
-   2  06CA9F5D1DCF2659  Marcel Holtmann <marcel@holtmann.org>
-   3  2B5EE211C58AEA54  Marc Kleine-Budde <mkl@blackshift.org>
    4  E289A1F4351A51B3  Oleksij Rempel <linux@rempel-privat.de>
 

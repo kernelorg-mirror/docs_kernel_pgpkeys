@@ -1,6 +1,0 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   3  9CCDDF2CDEEBCF53  Chanwoo Choi (Personal) <cwchoi00@gmail.com>
-   4  670BFB0351442108  Namjae Jeon <linkinjeon@gmail.com>
-

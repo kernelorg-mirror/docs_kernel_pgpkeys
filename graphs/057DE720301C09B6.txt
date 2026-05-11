@@ -3,9 +3,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  D7CF64696A374FBE  Simon Horman <horms@debian.org>
    3  057DE720301C09B6  Quentin Monnet (Isovalent) <quentin@isovalent.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  A84E7FB9A5F2E36C  Rafael J. Wysocki <rjw@sisk.pl>
-   2  A662F38F6BED6049  Jiri Kosina <jkosina@suse.com>
-   3  F66A512056077B3D  Jiri Olsa (Red Hat) <jolsa@redhat.com>
-   4  057DE720301C09B6  Quentin Monnet (Isovalent) <quentin@isovalent.com>
-

@@ -1,15 +1,5 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  0F9E536552045183  Christoph Hellwig <hch@kernel.org>
-   3  8352E32F03C2DFEC  Bart Van Assche <bart.vanassche@sandisk.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  41DD4B18780D59C4  Arjan van de Ven (work related key) <arjan@linux.intel.com>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    2  EEE9601A75C5DE3D  Martin K. Petersen <mkp@mkp.net>
-   3  8352E32F03C2DFEC  Bart Van Assche <bart.vanassche@sandisk.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>
-   2  B826A3330E572FDD  Doug Ledford <doug.ledford@hpe.com>
    3  8352E32F03C2DFEC  Bart Van Assche <bart.vanassche@sandisk.com>
 

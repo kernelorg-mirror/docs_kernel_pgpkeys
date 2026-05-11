@@ -1,18 +1,17 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  FBB7576BA7CB0B6B  David Howells <dhowells@redhat.com>
-   2  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  41DD4B18780D59C4  Arjan van de Ven (work related key) <arjan@linux.intel.com>
-   2  6C3180543D2929A4  Takashi Iwai <tiwai@suse.de>
-   3  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
    2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
    3  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
+   2  8A803CDD4F566C4A  Samuel Ortiz <sameo@linux.intel.com>
+   3  98E5DCC81647B72A  Lennert Buijtenhek <buytenh@wantstofly.org>
+   4  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
+   3  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
+   4  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
 

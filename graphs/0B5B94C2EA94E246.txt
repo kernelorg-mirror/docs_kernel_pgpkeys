@@ -1,5 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
-   2  55E45A5AE8CA7C8A  Paul Moore <paul@paul-moore.com>
-   3  0B5B94C2EA94E246  Mickaël Salaün <mic@digikod.net>
+   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
+   2  8EF2103794CACC65  Avi Kivity <avi@scylladb.com>
+   3  55E45A5AE8CA7C8A  Paul Moore <paul@paul-moore.com>
+   4  0B5B94C2EA94E246  Mickaël Salaün <mic@digikod.net>
 

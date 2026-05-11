@@ -8,12 +8,12 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  0ED9A3DF8AFF873D  Josh Triplett <josh@joshtriplett.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
+   1  362D16C8D693AF2A  Keith Packard (4096 bit RSA key) <keithp@keithp.com>
+   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
    3  0ED9A3DF8AFF873D  Josh Triplett <josh@joshtriplett.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  362D16C8D693AF2A  Keith Packard (4096 bit RSA key) <keithp@keithp.com>
-   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
    3  0ED9A3DF8AFF873D  Josh Triplett <josh@joshtriplett.org>
 

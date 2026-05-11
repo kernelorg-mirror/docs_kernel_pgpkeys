@@ -1,14 +1,10 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
-   2  3740FB1F7C5474E7  Gleb Natapov <gleb@redhat.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
    2  8EF2103794CACC65  Avi Kivity <avi@scylladb.com>
    3  3740FB1F7C5474E7  Gleb Natapov <gleb@redhat.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    2  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
    3  7E15100CCD3669B1  Paolo Bonzini <bonzini@gnu.org>
    4  3740FB1F7C5474E7  Gleb Natapov <gleb@redhat.com>

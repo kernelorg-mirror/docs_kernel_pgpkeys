@@ -5,12 +5,6 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    4  A250D8303357AD7F  Kris Chaplin <kris@linux.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
-   3  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
-   4  A250D8303357AD7F  Kris Chaplin <kris@linux.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    2  AD5BE090C6AF2275  Benoit Cousson <bcousson@baylibre.com>
    3  11A72EA01471D772  Bartosz Golaszewski <brgl@bgdev.pl>

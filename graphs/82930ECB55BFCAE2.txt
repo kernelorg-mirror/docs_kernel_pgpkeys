@@ -1,10 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
-   3  82930ECB55BFCAE2  Nick Terrell <nickrterrell@gmail.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
-   2  7FD9FCCB000BEEEE  Jim Meyering <jim@meyering.net>
-   3  82930ECB55BFCAE2  Nick Terrell <nickrterrell@gmail.com>
+   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
+   2  8EF2103794CACC65  Avi Kivity <avi@scylladb.com>
+   3  7FD9FCCB000BEEEE  Jim Meyering <jim@meyering.net>
+   4  82930ECB55BFCAE2  Nick Terrell <nickrterrell@gmail.com>
 

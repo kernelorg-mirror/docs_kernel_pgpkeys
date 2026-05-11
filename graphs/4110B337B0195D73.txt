@@ -4,7 +4,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
-   3  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
+   3  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   4  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
 

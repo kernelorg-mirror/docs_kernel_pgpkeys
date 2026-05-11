@@ -1,11 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
-   3  0393969D2D760850  Johannes Thumshirn <jth@kernel.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  41DD4B18780D59C4  Arjan van de Ven (work related key) <arjan@linux.intel.com>
-   2  6C3180543D2929A4  Takashi Iwai <tiwai@suse.de>
-   3  C73907936B7DF8FC  Coly Li <i@coly.li>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
+   3  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
    4  0393969D2D760850  Johannes Thumshirn <jth@kernel.org>
 

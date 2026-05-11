@@ -1,9 +1,4 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>
-   2  B826A3330E572FDD  Doug Ledford <doug.ledford@hpe.com>
-   3  E4637B88367258A7  Leon Romanovsky <leon@leon.nu>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
    3  993DFFF377394B2D  Andriy Shevchenko <andriy.shevchenko@linux.intel.com>

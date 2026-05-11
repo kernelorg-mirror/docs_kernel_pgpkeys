@@ -9,7 +9,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  7C64768D3DE334E7  Krzysztof Wilczynski <kw@linux.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    2  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
    3  828B39A6A2D1367F  Lorenzo Pieralisi <lorenzo.pieralisi@linaro.org>
    4  7C64768D3DE334E7  Krzysztof Wilczynski <kw@linux.com>

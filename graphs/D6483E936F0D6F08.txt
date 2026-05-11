@@ -4,9 +4,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  5057585A87B07CCE  Shawn Guo <shawn.gsc@gmail.com>
    4  D6483E936F0D6F08  Jisheng Zhang <jszhang3@gmail.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
-   3  B5DB5D8FDCFA2BF6  Haojian Zhuang <haojian.zhuang@linaro.org>
-   4  D6483E936F0D6F08  Jisheng Zhang <jszhang3@gmail.com>
-
