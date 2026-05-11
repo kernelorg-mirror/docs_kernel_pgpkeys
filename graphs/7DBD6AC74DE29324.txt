@@ -1,6 +1,9 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
-   3  D8EED7F3C83BFA9A  Sebastian Reichel <sre@ring0.de>
-   4  7DBD6AC74DE29324  Andreas Kemnade <andreas@kemnade.info>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  1BD43EC95CABA573  Tony Lindgren <tony@atomide.com>
+   2  7DBD6AC74DE29324  Andreas Kemnade <andreas@kemnade.info>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  A6CD9F096F642CB3  Alexandre Belloni <alexandre.belloni@piout.net>
+   2  D8EED7F3C83BFA9A  Sebastian Reichel <sre@ring0.de>
+   3  7DBD6AC74DE29324  Andreas Kemnade <andreas@kemnade.info>
 

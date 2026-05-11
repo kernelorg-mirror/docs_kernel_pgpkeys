@@ -1,6 +1,16 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   3  000E684119568215  Jeff Layton <jlayton@poochiereds.net>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  000E684119568215  Jeff Layton <jlayton@poochiereds.net>
+   3  336AB3336F667F97  Chuck Lever <cel@kernel.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
+   2  EEE9601A75C5DE3D  Martin K. Petersen <mkp@mkp.net>
+   3  336AB3336F667F97  Chuck Lever <cel@kernel.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>
+   2  B826A3330E572FDD  Doug Ledford <doug.ledford@hpe.com>
+   3  A5F46BDD553C74FA  Jason Gunthorpe <jgg@nvidia.com>
    4  336AB3336F667F97  Chuck Lever <cel@kernel.org>
 

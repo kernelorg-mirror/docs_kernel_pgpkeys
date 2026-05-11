@@ -1,6 +1,16 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  5D3C6CC76ACAFA02  Davidlohr Bueso (kernel.org) <dave@stgolabs.net>
-   2  5895FAAC338C6E77  Joel Granados (Linux Kernel Key) <joel.granados@kernel.org>
-   3  376EB100563EF7A7  Andreas Hindborg <a.hindborg@kernel.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
+   2  197C8B73686D216D  Miguel Ojeda <ojeda@kernel.org>
+   3  63291AE98A867C23  Benno Lossin <lossin@kernel.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  DC553250F8FE7407  Luis Chamberlain <mcgrof@kernel.org>
+   2  376EB100563EF7A7  Andreas Hindborg <a.hindborg@kernel.org>
+   3  63291AE98A867C23  Benno Lossin <lossin@kernel.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
+   2  254BCFC56BF6CE8D  Maxime Ripard <maxime.ripard@anandra.org>
+   3  4594778ED6AACA2E  Danilo Krummrich <me@dakr.org>
    4  63291AE98A867C23  Benno Lossin <lossin@kernel.org>
 

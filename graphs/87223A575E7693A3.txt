@@ -1,6 +1,9 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   3  2637F0CC00B67682  Ralf Baechle <ralf@linux-mips.org>
-   4  87223A575E7693A3  Jason Wessel <jason.wessel@windriver.com>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
+   2  87223A575E7693A3  Jason Wessel <jason.wessel@windriver.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
+   2  2637F0CC00B67682  Ralf Baechle <ralf@linux-mips.org>
+   3  87223A575E7693A3  Jason Wessel <jason.wessel@windriver.com>
 

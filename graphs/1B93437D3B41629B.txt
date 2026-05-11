@@ -1,18 +1,18 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
-   3  169AB7B1A4CFF8AE  Neil Armstrong <neil.armstrong@linaro.org>
-   4  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  377C7F21FE3D1F91  Michal Simek <monstr@monstr.eu>
+   2  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  5D3C6CC76ACAFA02  Davidlohr Bueso (kernel.org) <dave@stgolabs.net>
-   2  224FA7E7CC82A664  Vlastimil Babka <vbabka@suse.com>
-   3  7C64768D3DE334E7  Krzysztof Wilczynski <kw@linux.com>
-   4  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+   2  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  EC63699779074FA8  Ian Campbell <ijc@hellion.org.uk>
-   3  3D200E9CA6329909  Adriaan (Ard) Biesheuvel <ard.biesheuvel@gmail.com>
-   4  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  13A1BABBD606808A  MyungJoo Ham (Office @ SEC) <myungjoo.ham@samsung.com>
+   2  38DE270552497C47  Marek Szyprowski <m.szyprowski@samsung.com>
+   3  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  224FA7E7CC82A664  Vlastimil Babka <vbabka@suse.com>
+   2  7C64768D3DE334E7  Krzysztof Wilczynski <kw@linux.com>
+   3  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
 

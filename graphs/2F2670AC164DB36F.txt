@@ -1,0 +1,12 @@
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  A662F38F6BED6049  Jiri Kosina <jkosina@suse.com>
+   2  2F2670AC164DB36F  Benjamin Tissoires <benjamin.tissoires@gmail.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
+   2  2F2670AC164DB36F  Benjamin Tissoires <benjamin.tissoires@gmail.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
+   2  2F2670AC164DB36F  Benjamin Tissoires <benjamin.tissoires@gmail.com>
+

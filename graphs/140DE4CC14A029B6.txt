@@ -1,6 +1,20 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
-   3  F045C2B96991256E  Laurent Pinchart <laurent.pinchart@ideasonboard.com>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
+   2  140DE4CC14A029B6  Wolfram Sang <wsa@kernel.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  F045C2B96991256E  Laurent Pinchart <laurent.pinchart@ideasonboard.com>
+   2  140DE4CC14A029B6  Wolfram Sang <wsa@kernel.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  0B0244C40D0D431C  Shuah Khan <shuah@gonehiking.org>
+   2  BF53AD52308AD4EC  Sakari Ailus <sakari.ailus@iki.fi>
+   3  F1591ABD9588DA5F  Niklas Söderlund <niklas.soderlund@ragnatech.se>
+   4  140DE4CC14A029B6  Wolfram Sang <wsa@kernel.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
+   3  993DFFF377394B2D  Andriy Shevchenko <andriy.shevchenko@linux.intel.com>
    4  140DE4CC14A029B6  Wolfram Sang <wsa@kernel.org>
 

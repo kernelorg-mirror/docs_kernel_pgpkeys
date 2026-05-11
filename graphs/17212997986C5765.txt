@@ -1,3 +1,3 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
 

@@ -1,11 +1,18 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
+   2  51F9CC91F83FA044  Max Filippov <filippov@cadence.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
+   2  51F9CC91F83FA044  Max Filippov <filippov@cadence.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  2F0B37F9CC8D8E16  Eugene Teo <eugeneteo@kernel.sg>
+   2  1E9A3B5F854083B6  Amit Shah <amit@amitshah.net>
    3  51F9CC91F83FA044  Max Filippov <filippov@cadence.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   3  F92D73C9A31A1C17  Mark Gross <markgross@kernel.org>
-   4  51F9CC91F83FA044  Max Filippov <filippov@cadence.com>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
+   2  1994040B81A328F4  Dinh Nguyen <dinguyen@kernel.org>
+   3  51F9CC91F83FA044  Max Filippov <filippov@cadence.com>
 

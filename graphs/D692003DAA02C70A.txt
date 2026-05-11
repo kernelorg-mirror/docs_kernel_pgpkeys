@@ -1,5 +1,13 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  052F367018D5C3D8  John Johansen <john@jjmx.net>
+   2  D692003DAA02C70A  Tyler Hicks <tyhicks@tyhicks.net>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   2  D692003DAA02C70A  Tyler Hicks <tyhicks@tyhicks.net>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
+   2  E4209B8C8AE8A9D1  Jon Masters (Jonathan Charles Masters) <jcm@kernel.org>
    3  D692003DAA02C70A  Tyler Hicks <tyhicks@tyhicks.net>
 

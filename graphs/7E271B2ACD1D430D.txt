@@ -1,5 +1,21 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
    2  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
    3  7E271B2ACD1D430D  Puranjay Mohan <puranjay@kernel.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  8BC68E994040912F  SeongJae Park <sjpark@amazon.de>
+   3  7E271B2ACD1D430D  Puranjay Mohan <puranjay@kernel.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
+   2  733AD9848B744C5E  Benjamin Herrenschmidt <benh@kernel.crashing.org>
+   3  7E271B2ACD1D430D  Puranjay Mohan <puranjay@kernel.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  A6CD9F096F642CB3  Alexandre Belloni <alexandre.belloni@piout.net>
+   2  256AEA1847BD5684  Miquel RAYNAL <mraynal@kernel.org>
+   3  F6503556C11B1CCD  Pratyush Yadav <me@yadavpratyush.com>
+   4  7E271B2ACD1D430D  Puranjay Mohan <puranjay@kernel.org>
 

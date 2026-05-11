@@ -1,6 +1,19 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  C78FB10D0BBD2A4B  Paul Walmsley <pjw@kernel.org>
-   3  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
-   4  828B39A6A2D1367F  Lorenzo Pieralisi <lorenzo.pieralisi@linaro.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  6BD6B12D00C85EF1  Catalin Marinas <catalin.marinas@arm.com>
+   2  828B39A6A2D1367F  Lorenzo Pieralisi <lorenzo.pieralisi@linaro.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  1BD43EC95CABA573  Tony Lindgren <tony@atomide.com>
+   2  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
+   3  828B39A6A2D1367F  Lorenzo Pieralisi <lorenzo.pieralisi@linaro.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
+   2  DF7B9865F1496248  Mark Rutland <mark@kernel.org>
+   3  828B39A6A2D1367F  Lorenzo Pieralisi <lorenzo.pieralisi@linaro.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  3A8F3B2F5A7C9849  Michael Turquette <mturquette@baylibre.com>
+   2  39CFD4755FE2D5B4  Sudeep Holla <sudeep.holla@kernel.org>
+   3  828B39A6A2D1367F  Lorenzo Pieralisi <lorenzo.pieralisi@linaro.org>
 

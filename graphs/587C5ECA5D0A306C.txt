@@ -1,11 +1,16 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   3  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  41633B9FE837F581  Mike Frysinger <vapier@gentoo.org>
-   3  856199113A35CE5E  Michael Kerrisk (public mail/TLPI) <mtk@man7.org>
-   4  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  6C3180543D2929A4  Takashi Iwai <tiwai@suse.de>
+   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  856199113A35CE5E  Michael Kerrisk (public mail/TLPI) <mtk@man7.org>
+   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
+   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
 

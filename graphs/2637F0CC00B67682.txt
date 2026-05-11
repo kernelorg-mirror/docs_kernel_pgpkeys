@@ -1,11 +1,16 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   3  2637F0CC00B67682  Ralf Baechle <ralf@linux-mips.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
+   2  2637F0CC00B67682  Ralf Baechle <ralf@linux-mips.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  C78FB10D0BBD2A4B  Paul Walmsley <pjw@kernel.org>
-   3  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
-   4  2637F0CC00B67682  Ralf Baechle <ralf@linux-mips.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  2637F0CC00B67682  Ralf Baechle <ralf@linux-mips.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  6BD6B12D00C85EF1  Catalin Marinas <catalin.marinas@arm.com>
+   2  2637F0CC00B67682  Ralf Baechle <ralf@linux-mips.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
+   2  2637F0CC00B67682  Ralf Baechle <ralf@linux-mips.org>
 

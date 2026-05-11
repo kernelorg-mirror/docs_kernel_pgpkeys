@@ -1,5 +1,15 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  D7CF64696A374FBE  Simon Horman <horms@debian.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  D7CF64696A374FBE  Simon Horman <horms@debian.org>
+   2  057DE720301C09B6  Quentin Monnet (Isovalent) <quentin@isovalent.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  A662F38F6BED6049  Jiri Kosina <jkosina@suse.com>
+   2  F66A512056077B3D  Jiri Olsa (Red Hat) <jolsa@redhat.com>
    3  057DE720301C09B6  Quentin Monnet (Isovalent) <quentin@isovalent.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  7EF4F96F2BE9962A  Dmitry Torokhov <dmitry.torokhov@gmail.com>
+   2  EAB99A773DAF6D3A  Alexei Starovoitov <alexei.starovoitov@gmail.com>
+   3  31466D6DFE5222BB  Jakub Kicinski <kubakici@wp.pl>
+   4  057DE720301C09B6  Quentin Monnet (Isovalent) <quentin@isovalent.com>
 

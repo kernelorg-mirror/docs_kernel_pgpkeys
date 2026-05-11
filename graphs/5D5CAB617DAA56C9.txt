@@ -1,6 +1,22 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
-   3  C7271D0A49B18BA7  Herbert Xu <herbert@gondor.apana.org.au>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  517667E5996EE6AA  Gao Xiang <xiang@kernel.org>
+   2  7E7F91E0323C69AF  Guo Ren <guoren@linux.alibaba.com>
+   3  5D5CAB617DAA56C9  Bob Liu (Bob) <lliubbo@gmail.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
+   2  C7271D0A49B18BA7  Herbert Xu <herbert@gondor.apana.org.au>
+   3  5D5CAB617DAA56C9  Bob Liu (Bob) <lliubbo@gmail.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
+   2  322FE1A0B5F75461  Barry Song <Baohua.Song@csr.com>
+   3  49E8BE8E5E23FC2A  Sonic Zhang <sonic.adi@gmail.com>
+   4  5D5CAB617DAA56C9  Bob Liu (Bob) <lliubbo@gmail.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+   2  B5DB5D8FDCFA2BF6  Haojian Zhuang <haojian.zhuang@linaro.org>
+   3  9A2698CDCF8E49C7  Steven Miao (Steven Miao) <realmz6@gmail.com>
    4  5D5CAB617DAA56C9  Bob Liu (Bob) <lliubbo@gmail.com>
 

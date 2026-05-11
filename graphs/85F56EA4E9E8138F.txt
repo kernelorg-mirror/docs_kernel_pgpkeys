@@ -1,11 +1,10 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  5D3C6CC76ACAFA02  Davidlohr Bueso (kernel.org) <dave@stgolabs.net>
-   2  5895FAAC338C6E77  Joel Granados (Linux Kernel Key) <joel.granados@kernel.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
+   2  56A0D81F9F782DA9  Ricardo Ribalda Delgado <ricardo@ribalda.com>
    3  85F56EA4E9E8138F  Daniel Gomez <da.gomez@kernel.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
-   3  56A0D81F9F782DA9  Ricardo Ribalda Delgado <ricardo@ribalda.com>
-   4  85F56EA4E9E8138F  Daniel Gomez <da.gomez@kernel.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  DC553250F8FE7407  Luis Chamberlain <mcgrof@kernel.org>
+   2  5895FAAC338C6E77  Joel Granados (Linux Kernel Key) <joel.granados@kernel.org>
+   3  85F56EA4E9E8138F  Daniel Gomez <da.gomez@kernel.org>
 

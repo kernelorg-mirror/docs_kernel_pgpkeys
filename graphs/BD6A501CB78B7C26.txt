@@ -1,6 +1,20 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   3  9B9B776EFF335C26  Bryan Wu (Peng Wu) <cooloney@gmail.com>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
+   2  BD6A501CB78B7C26  Jacek Anaszewski <jacek.anaszewski@gmail.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  052F367018D5C3D8  John Johansen <john@jjmx.net>
+   2  9B9B776EFF335C26  Bryan Wu (Peng Wu) <cooloney@gmail.com>
+   3  BD6A501CB78B7C26  Jacek Anaszewski <jacek.anaszewski@gmail.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  377C7F21FE3D1F91  Michal Simek <monstr@monstr.eu>
+   2  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
+   3  BD6A501CB78B7C26  Jacek Anaszewski <jacek.anaszewski@gmail.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  1BD43EC95CABA573  Tony Lindgren <tony@atomide.com>
+   2  2423F6FBF9A8D412  Johan Hedberg <johan.hedberg@intel.com>
+   3  130387AC5F0AFE3F  Szymon Janc <szymon.janc@gmail.com>
    4  BD6A501CB78B7C26  Jacek Anaszewski <jacek.anaszewski@gmail.com>
 

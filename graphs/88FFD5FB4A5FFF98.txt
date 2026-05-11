@@ -1,6 +1,10 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
-   3  DF7B9865F1496248  Mark Rutland <mark@kernel.org>
-   4  88FFD5FB4A5FFF98  Eric Van Hensbergen <ericvh@gmail.com>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
+   2  DF7B9865F1496248  Mark Rutland <mark@kernel.org>
+   3  88FFD5FB4A5FFF98  Eric Van Hensbergen <ericvh@gmail.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+   2  C5902F8F7A7362CD  Grant Likely <glikely@gmail.com>
+   3  88FFD5FB4A5FFF98  Eric Van Hensbergen <ericvh@gmail.com>
 

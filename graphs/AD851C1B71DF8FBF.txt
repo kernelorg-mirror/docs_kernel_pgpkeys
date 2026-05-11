@@ -1,6 +1,5 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   3  E8675DEECBEECEA3  Stefan Bader (Canonical) <stefan.bader@canonical.com>
-   4  AD851C1B71DF8FBF  Andrea Righi <andrea.righi@linux.dev>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  052F367018D5C3D8  John Johansen <john@jjmx.net>
+   2  E8675DEECBEECEA3  Stefan Bader (Canonical) <stefan.bader@canonical.com>
+   3  AD851C1B71DF8FBF  Andrea Righi <andrea.righi@linux.dev>
 

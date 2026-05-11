@@ -1,11 +1,15 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
+   2  6833ABB5BEBAF7B7  AngeloGioacchino Del Regno <kholk11@gmail.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  A6CD9F096F642CB3  Alexandre Belloni <alexandre.belloni@piout.net>
+   2  D8EED7F3C83BFA9A  Sebastian Reichel <sre@ring0.de>
    3  6833ABB5BEBAF7B7  AngeloGioacchino Del Regno <kholk11@gmail.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
-   3  D8EED7F3C83BFA9A  Sebastian Reichel <sre@ring0.de>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  377C7F21FE3D1F91  Michal Simek <monstr@monstr.eu>
+   2  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
+   3  478701720E5D7C58  Konrad Dybcio <konradybcio@gmail.com>
    4  6833ABB5BEBAF7B7  AngeloGioacchino Del Regno <kholk11@gmail.com>
 

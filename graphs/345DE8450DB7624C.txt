@@ -1,6 +1,11 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  C78FB10D0BBD2A4B  Paul Walmsley <pjw@kernel.org>
-   3  5057585A87B07CCE  Shawn Guo <shawn.gsc@gmail.com>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  1BD43EC95CABA573  Tony Lindgren <tony@atomide.com>
+   2  5057585A87B07CCE  Shawn Guo <shawn.gsc@gmail.com>
+   3  345DE8450DB7624C  Frank Li <frank.li@kernel.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
+   2  EAE3C15E593117F6  Jean-Christophe PLAGNIOL-VILLARD <plagnioj@jcrosoft.com>
+   3  4859298150D671BB  Peter Chen (Peter) <peter.chen@freescale.com>
    4  345DE8450DB7624C  Frank Li <frank.li@kernel.org>
 

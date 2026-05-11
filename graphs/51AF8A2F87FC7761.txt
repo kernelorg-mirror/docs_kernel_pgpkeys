@@ -1,12 +1,16 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
-   3  3A8F3B2F5A7C9849  Michael Turquette <mturquette@baylibre.com>
-   4  51AF8A2F87FC7761  Lee Jones <lee.jones@linaro.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  3A8F3B2F5A7C9849  Michael Turquette <mturquette@baylibre.com>
+   2  51AF8A2F87FC7761  Lee Jones <lee.jones@linaro.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
-   3  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
-   4  51AF8A2F87FC7761  Lee Jones <lee.jones@linaro.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  410DE44FDEE1B495  Johan Hovold <jhovold@gmail.com>
+   2  51AF8A2F87FC7761  Lee Jones <lee.jones@linaro.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
+   2  51AF8A2F87FC7761  Lee Jones <lee.jones@linaro.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+   2  51AF8A2F87FC7761  Lee Jones <lee.jones@linaro.org>
 

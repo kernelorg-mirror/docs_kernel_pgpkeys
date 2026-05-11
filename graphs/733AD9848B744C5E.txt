@@ -1,6 +1,16 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
-   3  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
-   4  733AD9848B744C5E  Benjamin Herrenschmidt <benh@kernel.crashing.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
+   2  733AD9848B744C5E  Benjamin Herrenschmidt <benh@kernel.crashing.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
+   2  733AD9848B744C5E  Benjamin Herrenschmidt <benh@kernel.crashing.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
+   2  733AD9848B744C5E  Benjamin Herrenschmidt <benh@kernel.crashing.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
+   2  733AD9848B744C5E  Benjamin Herrenschmidt <benh@kernel.crashing.org>
 

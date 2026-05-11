@@ -1,6 +1,21 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
-   3  254BCFC56BF6CE8D  Maxime Ripard <maxime.ripard@anandra.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
+   2  E0D3C9EF07D2F8B4  Justin M. Forbes (kernel.org) <jforbes@kernel.org>
+   3  B7D2DD275D7EC087  Brian Masney <bmasney@redhat.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
+   2  254BCFC56BF6CE8D  Maxime Ripard <maxime.ripard@anandra.org>
+   3  B7D2DD275D7EC087  Brian Masney <bmasney@redhat.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
+   2  13B55DD07C53B851  Clark Williams (Kernel Correspondence) <clrkwllms@kernel.org>
+   3  B7D2DD275D7EC087  Brian Masney <bmasney@redhat.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  377C7F21FE3D1F91  Michal Simek <monstr@monstr.eu>
+   2  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
+   3  FC974D585706DA43  Robert Foss <rfoss@redhat.com>
    4  B7D2DD275D7EC087  Brian Masney <bmasney@redhat.com>
 

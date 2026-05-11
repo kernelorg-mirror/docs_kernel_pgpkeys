@@ -1,6 +1,9 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
-   3  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
-   4  B5A586C7D66FD341  Takashi Sakamoto <o-takashi@sakamocchi.jp>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  6C3180543D2929A4  Takashi Iwai <tiwai@suse.de>
+   2  B5A586C7D66FD341  Takashi Sakamoto <o-takashi@sakamocchi.jp>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
+   2  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
+   3  B5A586C7D66FD341  Takashi Sakamoto <o-takashi@sakamocchi.jp>
 

@@ -1,5 +1,18 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   2  F83DB89E129D1255  Laura Abbott <laura@oxidecomputer.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  C86F629E2382C5E2  Rob Herring (Rob Herring's PGP Key) <robherring2@gmail.com>
+   2  F83DB89E129D1255  Laura Abbott <laura@oxidecomputer.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
+   2  DF7B9865F1496248  Mark Rutland <mark@kernel.org>
+   3  F83DB89E129D1255  Laura Abbott <laura@oxidecomputer.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  3A8F3B2F5A7C9849  Michael Turquette <mturquette@baylibre.com>
+   2  52A205B1F1D915D5  Andy Gross <andy.gross@linaro.org>
    3  F83DB89E129D1255  Laura Abbott <laura@oxidecomputer.com>
 

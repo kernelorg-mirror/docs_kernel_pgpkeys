@@ -1,6 +1,18 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
-   3  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
-   4  6E17245526EB6D9B  Kalle Valo <kalle.valo@iki.fi>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>
+   2  6E17245526EB6D9B  Kalle Valo <kalle.valo@iki.fi>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
+   2  6E17245526EB6D9B  Kalle Valo <kalle.valo@iki.fi>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  1BD43EC95CABA573  Tony Lindgren <tony@atomide.com>
+   2  2423F6FBF9A8D412  Johan Hedberg <johan.hedberg@intel.com>
+   3  6E17245526EB6D9B  Kalle Valo <kalle.valo@iki.fi>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  B2E894C953448A0C  Ohad Ben-Cohen <ohad@wizery.com>
+   2  A1479CA21A3CC5FA  Luciano Roth Coelho (Luca) <luca@coelho.fi>
+   3  6E17245526EB6D9B  Kalle Valo <kalle.valo@iki.fi>
 

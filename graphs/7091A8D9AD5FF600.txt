@@ -1,12 +1,21 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   3  3A554D033B37BCED  Jesper Dangaard Brouer (cloudflare) <jesper@cloudflare.com>
-   4  7091A8D9AD5FF600  Florian Westphal <fw@strlen.de>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
+   2  3A554D033B37BCED  Jesper Dangaard Brouer (cloudflare) <jesper@cloudflare.com>
+   3  7091A8D9AD5FF600  Florian Westphal <fw@strlen.de>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
-   3  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  49FC7012A5DE03AE  Jason A. Donenfeld <Jason@zx2c4.com>
+   2  4A55C497F744F705  Toke Høiland-Jørgensen <toke@toke.dk>
+   3  7091A8D9AD5FF600  Florian Westphal <fw@strlen.de>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+   2  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
+   3  7091A8D9AD5FF600  Florian Westphal <fw@strlen.de>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
+   2  1B52E30D2FA29DB8  Radim Krčmář <radim@krcmar.dev>
+   3  1A53BC68A06E022E  Lorenzo Bianconi <lorenzo.bianconi@redhat.com>
    4  7091A8D9AD5FF600  Florian Westphal <fw@strlen.de>
 

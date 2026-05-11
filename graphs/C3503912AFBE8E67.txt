@@ -1,6 +1,18 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
-   3  51F9CC91F83FA044  Max Filippov <filippov@cadence.com>
-   4  C3503912AFBE8E67  Michael S. Tsirkin <mst@kernel.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  B2E894C953448A0C  Ohad Ben-Cohen <ohad@wizery.com>
+   2  C3503912AFBE8E67  Michael S. Tsirkin <mst@kernel.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
+   2  C3503912AFBE8E67  Michael S. Tsirkin <mst@kernel.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
+   2  8EF2103794CACC65  Avi Kivity <avi@scylladb.com>
+   3  C3503912AFBE8E67  Michael S. Tsirkin <mst@kernel.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
+   2  51F9CC91F83FA044  Max Filippov <filippov@cadence.com>
+   3  C3503912AFBE8E67  Michael S. Tsirkin <mst@kernel.org>
 

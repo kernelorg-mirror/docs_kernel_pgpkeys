@@ -1,6 +1,15 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   3  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
-   4  29F7239293EF1A2C  Denis Kenzior <denkenz@gmail.com>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
+   2  06CA9F5D1DCF2659  Marcel Holtmann <marcel@holtmann.org>
+   3  29F7239293EF1A2C  Denis Kenzior <denkenz@gmail.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
+   3  29F7239293EF1A2C  Denis Kenzior <denkenz@gmail.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
+   3  29F7239293EF1A2C  Denis Kenzior <denkenz@gmail.com>
 

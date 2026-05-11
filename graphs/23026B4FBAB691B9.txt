@@ -1,6 +1,9 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   3  51EBEA3CC8E1A580  Michael Ellerman <mpe@ellerman.id.au>
-   4  23026B4FBAB691B9  Michael Ellerman <mpe@ellerman.id.au>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
+   2  23026B4FBAB691B9  Michael Ellerman <mpe@ellerman.id.au>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  51EBEA3CC8E1A580  Michael Ellerman <mpe@ellerman.id.au>
+   3  23026B4FBAB691B9  Michael Ellerman <mpe@ellerman.id.au>
 

@@ -1,11 +1,19 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
-   3  254BCFC56BF6CE8D  Maxime Ripard <maxime.ripard@anandra.org>
-   4  C3EAC3DE9321D59B  Ahmad Fatoum <ahmad@a3f.at>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+   2  C3EAC3DE9321D59B  Ahmad Fatoum <ahmad@a3f.at>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
+   2  254BCFC56BF6CE8D  Maxime Ripard <maxime.ripard@anandra.org>
+   3  C3EAC3DE9321D59B  Ahmad Fatoum <ahmad@a3f.at>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  F045C2B96991256E  Laurent Pinchart <laurent.pinchart@ideasonboard.com>
+   2  570338B018144F28  Mattijs Korpershoek <mkorpershoek@kernel.org>
+   3  C3EAC3DE9321D59B  Ahmad Fatoum <ahmad@a3f.at>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
    2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
    3  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
    4  C3EAC3DE9321D59B  Ahmad Fatoum <ahmad@a3f.at>

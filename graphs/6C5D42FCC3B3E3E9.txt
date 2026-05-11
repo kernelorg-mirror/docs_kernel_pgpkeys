@@ -1,5 +1,17 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  C78FB10D0BBD2A4B  Paul Walmsley <pjw@kernel.org>
    3  6C5D42FCC3B3E3E9  Samuel Holland <samuel@sholland.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  A6CD9F096F642CB3  Alexandre Belloni <alexandre.belloni@piout.net>
+   2  4DB1B079AD29CF3D  Tudor Ambarus <tudor.ambarus@linaro.org>
+   3  22E2C55B37CF380C  Conor Dooley <mail@conchuod.ie>
+   4  6C5D42FCC3B3E3E9  Samuel Holland <samuel@sholland.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
+   2  254BCFC56BF6CE8D  Maxime Ripard <maxime.ripard@anandra.org>
+   3  76691E98F228D396  Jernej Skrabec <jernej.skrabec@gmail.com>
+   4  6C5D42FCC3B3E3E9  Samuel Holland <samuel@sholland.org>
 

@@ -1,11 +1,9 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   3  4CB5F6848BBC56EE  Sami Tolvanen <samitolvanen@google.com>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   2  4CB5F6848BBC56EE  Sami Tolvanen <samitolvanen@google.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
-   3  02C7A73D84B0447C  Eric Biggers <ebiggers@kernel.org>
-   4  4CB5F6848BBC56EE  Sami Tolvanen <samitolvanen@google.com>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
+   2  02C7A73D84B0447C  Eric Biggers <ebiggers@kernel.org>
+   3  4CB5F6848BBC56EE  Sami Tolvanen <samitolvanen@google.com>
 

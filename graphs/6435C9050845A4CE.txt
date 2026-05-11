@@ -1,6 +1,15 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
-   3  8C1AE73CDE841C77  Olof Johansson <olof@lixom.net>
-   4  6435C9050845A4CE  Eric Van Hensbergen <ericvh@gmail.com>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
+   2  04C216B7287C1BA1  Chris Mason <clm@fb.com>
+   3  6435C9050845A4CE  Eric Van Hensbergen <ericvh@gmail.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
+   2  8C1AE73CDE841C77  Olof Johansson <olof@lixom.net>
+   3  6435C9050845A4CE  Eric Van Hensbergen <ericvh@gmail.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  48E209A2B310E347  Michal Hocko (SUSE key) <mhocko@suse.cz>
+   2  1E7B4B632179E5B2  Jeffrey Mahoney <jeffm@suse.com>
+   3  6435C9050845A4CE  Eric Van Hensbergen <ericvh@gmail.com>
 

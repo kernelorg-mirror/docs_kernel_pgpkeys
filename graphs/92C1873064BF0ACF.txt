@@ -1,6 +1,9 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  D7CF64696A374FBE  Simon Horman <horms@debian.org>
-   3  31466D6DFE5222BB  Jakub Kicinski <kubakici@wp.pl>
-   4  92C1873064BF0ACF  Iwona Winiarska <iwona@hardline.pl>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
+   2  92C1873064BF0ACF  Iwona Winiarska <iwona@hardline.pl>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  D7CF64696A374FBE  Simon Horman <horms@debian.org>
+   2  31466D6DFE5222BB  Jakub Kicinski <kubakici@wp.pl>
+   3  92C1873064BF0ACF  Iwona Winiarska <iwona@hardline.pl>
 

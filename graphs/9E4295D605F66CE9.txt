@@ -1,5 +1,15 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
+   2  9E4295D605F66CE9  Paul Mackerras (Signing key) <paulus@samba.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
    2  D9200E6CD1ADB8F1  Rusty Russell <rusty@rustcorp.com.au>
    3  9E4295D605F66CE9  Paul Mackerras (Signing key) <paulus@samba.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  51EBEA3CC8E1A580  Michael Ellerman <mpe@ellerman.id.au>
+   3  5E442088ED632E87  Tony Breeds (Signing Key) <tony@bakeyournoodle.com>
+   4  9E4295D605F66CE9  Paul Mackerras (Signing key) <paulus@samba.org>
 

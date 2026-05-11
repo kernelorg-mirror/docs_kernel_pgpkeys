@@ -1,6 +1,16 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  C78FB10D0BBD2A4B  Paul Walmsley <pjw@kernel.org>
-   3  5057585A87B07CCE  Shawn Guo <shawn.gsc@gmail.com>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  1BD43EC95CABA573  Tony Lindgren <tony@atomide.com>
+   2  5057585A87B07CCE  Shawn Guo <shawn.gsc@gmail.com>
+   3  825EE51D2D4E5DD2  Huang Rui <ray.huang@amd.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
+   2  B5DB5D8FDCFA2BF6  Haojian Zhuang <haojian.zhuang@linaro.org>
+   3  825EE51D2D4E5DD2  Huang Rui <ray.huang@amd.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
+   2  B4269A3D1FCF7DAD  Shaohua Li (shli) <shaohua.li@intel.com>
+   3  9A2698CDCF8E49C7  Steven Miao (Steven Miao) <realmz6@gmail.com>
    4  825EE51D2D4E5DD2  Huang Rui <ray.huang@amd.com>
 

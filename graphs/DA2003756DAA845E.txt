@@ -1,0 +1,19 @@
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  48E209A2B310E347  Michal Hocko (SUSE key) <mhocko@suse.cz>
+   2  DA2003756DAA845E  Filipe David Borba Manana <fmanana@suse.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  A662F38F6BED6049  Jiri Kosina <jkosina@suse.com>
+   2  DA2003756DAA845E  Filipe David Borba Manana <fmanana@suse.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
+   2  2BF0442D97011AE3  Joerg Roedel (SUSE Work Email Address) <jroedel@suse.de>
+   3  DA2003756DAA845E  Filipe David Borba Manana <fmanana@suse.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  BD25B10406B47049  Jiri Slaby <jirislaby@gmail.com>
+   2  52A00C47488094F2  Petr Mladek <pmladek@suse.com>
+   3  C565D5F9D76D583B  David Sterba <dsterba@suse.cz>
+   4  DA2003756DAA845E  Filipe David Borba Manana <fmanana@suse.com>
+

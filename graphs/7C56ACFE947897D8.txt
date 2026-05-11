@@ -1,3 +1,16 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  32247FBB40AD1FA6  Nobuhiro Iwamatsu <iwamatsu@kernel.org>
+   2  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   2  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   2  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
 

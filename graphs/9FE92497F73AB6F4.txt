@@ -1,10 +1,15 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  5D3C6CC76ACAFA02  Davidlohr Bueso (kernel.org) <dave@stgolabs.net>
-   2  224FA7E7CC82A664  Vlastimil Babka <vbabka@suse.com>
-   3  9FE92497F73AB6F4  Michel Lespinasse <michel@lespinasse.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  224FA7E7CC82A664  Vlastimil Babka <vbabka@suse.com>
+   2  9FE92497F73AB6F4  Michel Lespinasse <michel@lespinasse.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
    2  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
    3  9FE92497F73AB6F4  Michel Lespinasse <michel@lespinasse.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  D7CF64696A374FBE  Simon Horman <horms@debian.org>
+   2  31466D6DFE5222BB  Jakub Kicinski <kubakici@wp.pl>
+   3  8744DC1EB26B5A9A  Tejun Heo <tj@kernel.org>
+   4  9FE92497F73AB6F4  Michel Lespinasse <michel@lespinasse.org>
 

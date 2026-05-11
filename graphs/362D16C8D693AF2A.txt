@@ -1,3 +1,8 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  362D16C8D693AF2A  Keith Packard (4096 bit RSA key) <keithp@keithp.com>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   2  362D16C8D693AF2A  Keith Packard (4096 bit RSA key) <keithp@keithp.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   2  362D16C8D693AF2A  Keith Packard (4096 bit RSA key) <keithp@keithp.com>
 

@@ -1,4 +1,18 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  F045C2B96991256E  Laurent Pinchart <laurent.pinchart@ideasonboard.com>
+   2  F1591ABD9588DA5F  Niklas Söderlund <niklas.soderlund@ragnatech.se>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  0B0244C40D0D431C  Shuah Khan <shuah@gonehiking.org>
+   2  BF53AD52308AD4EC  Sakari Ailus <sakari.ailus@iki.fi>
+   3  F1591ABD9588DA5F  Niklas Söderlund <niklas.soderlund@ragnatech.se>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
+   2  085F3EBD8EE4E115  Mauro Carvalho Chehab <mauro.chehab@linux.intel.com>
+   3  F1591ABD9588DA5F  Niklas Söderlund <niklas.soderlund@ragnatech.se>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  C78FB10D0BBD2A4B  Paul Walmsley <pjw@kernel.org>
    3  04B08C8F1524FAF8  Alexandre Courbot <gnurou@gmail.com>

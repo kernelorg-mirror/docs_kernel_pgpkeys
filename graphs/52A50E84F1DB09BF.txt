@@ -1,5 +1,15 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
+   2  52A50E84F1DB09BF  Konrad Rzeszutek Wilk <konrad@darnok.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
+   2  894F8F4870E1AE90  Stefano Stabellini <stefano.stabellini@eu.citrix.com>
    3  52A50E84F1DB09BF  Konrad Rzeszutek Wilk <konrad@darnok.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  32247FBB40AD1FA6  Nobuhiro Iwamatsu <iwamatsu@kernel.org>
+   2  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   3  EC63699779074FA8  Ian Campbell <ijc@hellion.org.uk>
+   4  52A50E84F1DB09BF  Konrad Rzeszutek Wilk <konrad@darnok.org>
 

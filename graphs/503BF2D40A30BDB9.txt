@@ -1,6 +1,18 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  7EF4F96F2BE9962A  Dmitry Torokhov <dmitry.torokhov@gmail.com>
-   3  EAB99A773DAF6D3A  Alexei Starovoitov <alexei.starovoitov@gmail.com>
-   4  503BF2D40A30BDB9  Jesse Gross <jesse@jessegross.com>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   2  503BF2D40A30BDB9  Jesse Gross <jesse@jessegross.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
+   2  503BF2D40A30BDB9  Jesse Gross <jesse@jessegross.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
+   2  ABAB231F97DF5881  Tony Luck <tony.luck@intel.com>
+   3  503BF2D40A30BDB9  Jesse Gross <jesse@jessegross.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  7EF4F96F2BE9962A  Dmitry Torokhov <dmitry.torokhov@gmail.com>
+   2  EAB99A773DAF6D3A  Alexei Starovoitov <alexei.starovoitov@gmail.com>
+   3  503BF2D40A30BDB9  Jesse Gross <jesse@jessegross.com>
 

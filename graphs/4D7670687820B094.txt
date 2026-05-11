@@ -1,6 +1,19 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
-   3  D8EED7F3C83BFA9A  Sebastian Reichel <sre@ring0.de>
-   4  4D7670687820B094  Martyn Welch (Private) <martyn@welchs.me.uk>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  410DE44FDEE1B495  Johan Hovold <jhovold@gmail.com>
+   2  4D7670687820B094  Martyn Welch (Private) <martyn@welchs.me.uk>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
+   3  4D7670687820B094  Martyn Welch (Private) <martyn@welchs.me.uk>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  A6CD9F096F642CB3  Alexandre Belloni <alexandre.belloni@piout.net>
+   2  D8EED7F3C83BFA9A  Sebastian Reichel <sre@ring0.de>
+   3  4D7670687820B094  Martyn Welch (Private) <martyn@welchs.me.uk>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  F99E2237E0E1469A  Richard Weinberger (kernel.org) <richard@nod.at>
+   2  6BBF9F19873B518D  Luis de Bethencourt (luisbg) <luis@debethencourt.com>
+   3  4D7670687820B094  Martyn Welch (Private) <martyn@welchs.me.uk>
 

@@ -1,6 +1,19 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  7EF4F96F2BE9962A  Dmitry Torokhov <dmitry.torokhov@gmail.com>
-   3  EAB99A773DAF6D3A  Alexei Starovoitov <alexei.starovoitov@gmail.com>
-   4  332A881F5F0CF93C  Omar Sandoval <osandov@osandov.com>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
+   2  332A881F5F0CF93C  Omar Sandoval <osandov@osandov.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
+   2  8C1AE73CDE841C77  Olof Johansson <olof@lixom.net>
+   3  332A881F5F0CF93C  Omar Sandoval <osandov@osandov.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  7EF4F96F2BE9962A  Dmitry Torokhov <dmitry.torokhov@gmail.com>
+   2  EAB99A773DAF6D3A  Alexei Starovoitov <alexei.starovoitov@gmail.com>
+   3  332A881F5F0CF93C  Omar Sandoval <osandov@osandov.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   2  397D82E0531A9C91  Jes Sorensen <Jes.Sorensen@gmail.com>
+   3  332A881F5F0CF93C  Omar Sandoval <osandov@osandov.com>
 

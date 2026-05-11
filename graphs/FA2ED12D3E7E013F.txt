@@ -1,6 +1,20 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
-   3  51F9CC91F83FA044  Max Filippov <filippov@cadence.com>
-   4  FA2ED12D3E7E013F  Andreas Färber <afaerber@suse.de>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   2  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
+   3  FA2ED12D3E7E013F  Andreas Färber <afaerber@suse.de>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  9AFB7B8C9A5F5BBC  Heiko Stuebner <heiko@sntech.de>
+   2  D9140BB2561302F1  Matthias Brugger <matthias.bgg@gmail.com>
+   3  FA2ED12D3E7E013F  Andreas Färber <afaerber@suse.de>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
+   2  51F9CC91F83FA044  Max Filippov <filippov@cadence.com>
+   3  FA2ED12D3E7E013F  Andreas Färber <afaerber@suse.de>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
+   2  D1FF024A4AA920D7  Scott Wood <oss@buserror.net>
+   3  FA2ED12D3E7E013F  Andreas Färber <afaerber@suse.de>
 

@@ -1,6 +1,19 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   3  15BC833443038D8C  Jan Kara <jack@suse.com>
-   4  52A00C47488094F2  Petr Mladek <pmladek@suse.com>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  BD25B10406B47049  Jiri Slaby <jirislaby@gmail.com>
+   2  52A00C47488094F2  Petr Mladek <pmladek@suse.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
+   2  15BC833443038D8C  Jan Kara <jack@suse.com>
+   3  52A00C47488094F2  Petr Mladek <pmladek@suse.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  48E209A2B310E347  Michal Hocko (SUSE key) <mhocko@suse.cz>
+   2  1E7B4B632179E5B2  Jeffrey Mahoney <jeffm@suse.com>
+   3  52A00C47488094F2  Petr Mladek <pmladek@suse.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  A662F38F6BED6049  Jiri Kosina <jkosina@suse.com>
+   2  C565D5F9D76D583B  David Sterba <dsterba@suse.cz>
+   3  52A00C47488094F2  Petr Mladek <pmladek@suse.com>
 

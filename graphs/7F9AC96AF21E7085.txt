@@ -1,6 +1,9 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
-   3  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
-   4  7F9AC96AF21E7085  Alexandre Torgue <alexandre.torgue@st.com>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
+   2  7F9AC96AF21E7085  Alexandre Torgue <alexandre.torgue@st.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  3A8F3B2F5A7C9849  Michael Turquette <mturquette@baylibre.com>
+   2  51AF8A2F87FC7761  Lee Jones <lee.jones@linaro.org>
+   3  7F9AC96AF21E7085  Alexandre Torgue <alexandre.torgue@st.com>
 

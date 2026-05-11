@@ -1,11 +1,18 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  1BD43EC95CABA573  Tony Lindgren <tony@atomide.com>
+   2  4CE2B02898B958D7  Liam Girdwood (korg) <lgirdwood@gmail.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  901C87F0F57DB1D4  Phillip Lougher <phillip@squashfs.org.uk>
+   2  4CE2B02898B958D7  Liam Girdwood (korg) <lgirdwood@gmail.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  C78FB10D0BBD2A4B  Paul Walmsley <pjw@kernel.org>
    3  4CE2B02898B958D7  Liam Girdwood (korg) <lgirdwood@gmail.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   3  AD5BE090C6AF2275  Benoit Cousson <bcousson@baylibre.com>
-   4  4CE2B02898B958D7  Liam Girdwood (korg) <lgirdwood@gmail.com>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
+   2  AD5BE090C6AF2275  Benoit Cousson <bcousson@baylibre.com>
+   3  4CE2B02898B958D7  Liam Girdwood (korg) <lgirdwood@gmail.com>
 

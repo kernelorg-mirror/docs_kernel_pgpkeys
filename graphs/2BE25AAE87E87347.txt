@@ -1,6 +1,10 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
-   3  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
+   2  2BE25AAE87E87347  Imre Kaloz <kaloz@dune.hu>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
+   2  3A554D033B37BCED  Jesper Dangaard Brouer (cloudflare) <jesper@cloudflare.com>
+   3  1A53BC68A06E022E  Lorenzo Bianconi <lorenzo.bianconi@redhat.com>
    4  2BE25AAE87E87347  Imre Kaloz <kaloz@dune.hu>
 

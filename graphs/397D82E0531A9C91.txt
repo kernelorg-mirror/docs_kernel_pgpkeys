@@ -1,6 +1,14 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   3  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
-   4  397D82E0531A9C91  Jes Sorensen <Jes.Sorensen@gmail.com>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   2  397D82E0531A9C91  Jes Sorensen <Jes.Sorensen@gmail.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
+   2  7FD9FCCB000BEEEE  Jim Meyering <jim@meyering.net>
+   3  397D82E0531A9C91  Jes Sorensen <Jes.Sorensen@gmail.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
+   2  4A1BEAB7BF729AB7  Dennis Zhou <dennis@kernel.org>
+   3  397D82E0531A9C91  Jes Sorensen <Jes.Sorensen@gmail.com>
 

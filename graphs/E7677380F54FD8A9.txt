@@ -1,6 +1,9 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   3  000E684119568215  Jeff Layton <jlayton@poochiereds.net>
-   4  E7677380F54FD8A9  Ian Kent <raven@themaw.net>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  FBB7576BA7CB0B6B  David Howells <dhowells@redhat.com>
+   2  E7677380F54FD8A9  Ian Kent <raven@themaw.net>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  000E684119568215  Jeff Layton <jlayton@poochiereds.net>
+   3  E7677380F54FD8A9  Ian Kent <raven@themaw.net>
 

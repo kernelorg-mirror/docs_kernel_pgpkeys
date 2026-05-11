@@ -1,5 +1,15 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   2  18D18F1BC464DCA3  Tycho Andersen <tycho@tycho.pizza>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
+   2  55E45A5AE8CA7C8A  Paul Moore <paul@paul-moore.com>
    3  18D18F1BC464DCA3  Tycho Andersen <tycho@tycho.pizza>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
+   2  51EBEA3CC8E1A580  Michael Ellerman <mpe@ellerman.id.au>
+   3  0312492D661EC3B8  Tobin C. Harding (kernel dev) <tobin@kernel.org>
+   4  18D18F1BC464DCA3  Tycho Andersen <tycho@tycho.pizza>
 

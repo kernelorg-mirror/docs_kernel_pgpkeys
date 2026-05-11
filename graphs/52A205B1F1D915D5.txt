@@ -1,11 +1,16 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
-   3  52A205B1F1D915D5  Andy Gross <andy.gross@linaro.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  3A8F3B2F5A7C9849  Michael Turquette <mturquette@baylibre.com>
+   2  52A205B1F1D915D5  Andy Gross <andy.gross@linaro.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   3  AD5BE090C6AF2275  Benoit Cousson <bcousson@baylibre.com>
-   4  52A205B1F1D915D5  Andy Gross <andy.gross@linaro.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
+   2  52A205B1F1D915D5  Andy Gross <andy.gross@linaro.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+   2  52A205B1F1D915D5  Andy Gross <andy.gross@linaro.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  E6BA9F5C5E54DF82  David Brown <davidb@davidb.org>
+   2  52A205B1F1D915D5  Andy Gross <andy.gross@linaro.org>
 

@@ -1,14 +1,17 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  0ED9A3DF8AFF873D  Josh Triplett <josh@joshtriplett.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  362D16C8D693AF2A  Keith Packard (4096 bit RSA key) <keithp@keithp.com>
-   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   3  0ED9A3DF8AFF873D  Josh Triplett <josh@joshtriplett.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   2  0ED9A3DF8AFF873D  Josh Triplett <josh@joshtriplett.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
+   2  0ED9A3DF8AFF873D  Josh Triplett <josh@joshtriplett.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
    2  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
    3  0ED9A3DF8AFF873D  Josh Triplett <josh@joshtriplett.org>
 

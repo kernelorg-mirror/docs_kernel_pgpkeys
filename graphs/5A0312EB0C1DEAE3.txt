@@ -1,11 +1,14 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  5D3C6CC76ACAFA02  Davidlohr Bueso (kernel.org) <dave@stgolabs.net>
-   2  224FA7E7CC82A664  Vlastimil Babka <vbabka@suse.com>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  224FA7E7CC82A664  Vlastimil Babka <vbabka@suse.com>
+   2  5A0312EB0C1DEAE3  Harry Yoo <harry@kernel.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  8BC68E994040912F  SeongJae Park <sjpark@amazon.de>
    3  5A0312EB0C1DEAE3  Harry Yoo <harry@kernel.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   3  8BC68E994040912F  SeongJae Park <sjpark@amazon.de>
-   4  5A0312EB0C1DEAE3  Harry Yoo <harry@kernel.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   2  C532392DE6DA7CE9  Mike Rapoport <mike.rapoport@gmail.com>
+   3  5A0312EB0C1DEAE3  Harry Yoo <harry@kernel.org>
 

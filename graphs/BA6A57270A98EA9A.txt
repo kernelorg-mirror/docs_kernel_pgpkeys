@@ -1,0 +1,14 @@
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  A662F38F6BED6049  Jiri Kosina <jkosina@suse.com>
+   2  BA6A57270A98EA9A  Petr Pavlu <petr.pavlu@suse.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  48E209A2B310E347  Michal Hocko (SUSE key) <mhocko@suse.cz>
+   2  FF98A38DA80834DA  Miroslav Benes <mbenes@suse.cz>
+   3  BA6A57270A98EA9A  Petr Pavlu <petr.pavlu@suse.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  BD25B10406B47049  Jiri Slaby <jirislaby@gmail.com>
+   2  52A00C47488094F2  Petr Mladek <pmladek@suse.com>
+   3  BA6A57270A98EA9A  Petr Pavlu <petr.pavlu@suse.com>
+

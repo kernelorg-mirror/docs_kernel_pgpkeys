@@ -1,0 +1,10 @@
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
+   2  488550E901166008  Manivannan Sadhasivam <manivannan.sadhasivam@linaro.org>
+   3  7FD9647FC7983F95  Jassi Brar <jaswinder.singh@linaro.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  6C3180543D2929A4  Takashi Iwai <tiwai@suse.de>
+   2  7C14070F25238347  Vinod Koul <vkoul@kernel.org>
+   3  7FD9647FC7983F95  Jassi Brar <jaswinder.singh@linaro.org>
+

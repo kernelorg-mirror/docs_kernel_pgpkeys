@@ -1,11 +1,9 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   3  EEE9601A75C5DE3D  Martin K. Petersen <mkp@mkp.net>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
+   2  EEE9601A75C5DE3D  Martin K. Petersen <mkp@mkp.net>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  41633B9FE837F581  Mike Frysinger <vapier@gentoo.org>
-   3  EAE3C15E593117F6  Jean-Christophe PLAGNIOL-VILLARD <plagnioj@jcrosoft.com>
-   4  EEE9601A75C5DE3D  Martin K. Petersen <mkp@mkp.net>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
+   2  15BC833443038D8C  Jan Kara <jack@suse.com>
+   3  EEE9601A75C5DE3D  Martin K. Petersen <mkp@mkp.net>
 

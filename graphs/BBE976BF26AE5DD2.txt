@@ -1,17 +1,9 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
+   2  BBE976BF26AE5DD2  Martin Schwidefsky <schwidefsky@de.ibm.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
+   2  15BC833443038D8C  Jan Kara <jack@suse.com>
    3  BBE976BF26AE5DD2  Martin Schwidefsky <schwidefsky@de.ibm.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  41633B9FE837F581  Mike Frysinger <vapier@gentoo.org>
-   3  EAE3C15E593117F6  Jean-Christophe PLAGNIOL-VILLARD <plagnioj@jcrosoft.com>
-   4  BBE976BF26AE5DD2  Martin Schwidefsky <schwidefsky@de.ibm.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  362D16C8D693AF2A  Keith Packard (4096 bit RSA key) <keithp@keithp.com>
-   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   3  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
-   4  BBE976BF26AE5DD2  Martin Schwidefsky <schwidefsky@de.ibm.com>
 

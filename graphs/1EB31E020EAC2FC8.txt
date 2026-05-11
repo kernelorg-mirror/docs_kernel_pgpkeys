@@ -1,6 +1,20 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
-   3  6833ABB5BEBAF7B7  AngeloGioacchino Del Regno <kholk11@gmail.com>
-   4  1EB31E020EAC2FC8  Eugen Hristev <ehristev@kernel.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
+   2  488550E901166008  Manivannan Sadhasivam <manivannan.sadhasivam@linaro.org>
+   3  1EB31E020EAC2FC8  Eugen Hristev <ehristev@kernel.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+   2  FE26842573588C29  Ulf Hansson <ulf.c.hansson@gmail.com>
+   3  1EB31E020EAC2FC8  Eugen Hristev <ehristev@kernel.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  6C3180543D2929A4  Takashi Iwai <tiwai@suse.de>
+   2  7C14070F25238347  Vinod Koul <vkoul@kernel.org>
+   3  1EB31E020EAC2FC8  Eugen Hristev <ehristev@kernel.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
+   2  6833ABB5BEBAF7B7  AngeloGioacchino Del Regno <kholk11@gmail.com>
+   3  1EB31E020EAC2FC8  Eugen Hristev <ehristev@kernel.org>
 

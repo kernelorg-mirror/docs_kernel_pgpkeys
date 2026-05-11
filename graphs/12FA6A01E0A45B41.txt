@@ -1,11 +1,13 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
-   3  3A8F3B2F5A7C9849  Michael Turquette <mturquette@baylibre.com>
-   4  12FA6A01E0A45B41  Markus Schneider-Pargmann <mail@markussp.com>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  3A8F3B2F5A7C9849  Michael Turquette <mturquette@baylibre.com>
+   2  12FA6A01E0A45B41  Markus Schneider-Pargmann <mail@markussp.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+   2  12FA6A01E0A45B41  Markus Schneider-Pargmann <mail@markussp.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
    2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
    3  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
    4  12FA6A01E0A45B41  Markus Schneider-Pargmann <mail@markussp.com>

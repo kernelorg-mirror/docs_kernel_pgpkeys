@@ -1,6 +1,19 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   3  9B9B776EFF335C26  Bryan Wu (Peng Wu) <cooloney@gmail.com>
-   4  322FE1A0B5F75461  Barry Song <Baohua.Song@csr.com>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
+   2  322FE1A0B5F75461  Barry Song <Baohua.Song@csr.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  052F367018D5C3D8  John Johansen <john@jjmx.net>
+   2  9B9B776EFF335C26  Bryan Wu (Peng Wu) <cooloney@gmail.com>
+   3  322FE1A0B5F75461  Barry Song <Baohua.Song@csr.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  1BD43EC95CABA573  Tony Lindgren <tony@atomide.com>
+   2  5057585A87B07CCE  Shawn Guo <shawn.gsc@gmail.com>
+   3  322FE1A0B5F75461  Barry Song <Baohua.Song@csr.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+   2  B5DB5D8FDCFA2BF6  Haojian Zhuang <haojian.zhuang@linaro.org>
+   3  322FE1A0B5F75461  Barry Song <Baohua.Song@csr.com>
 

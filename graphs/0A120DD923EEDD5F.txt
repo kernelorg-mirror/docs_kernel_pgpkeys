@@ -1,12 +1,14 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
-   3  52A205B1F1D915D5  Andy Gross <andy.gross@linaro.org>
-   4  0A120DD923EEDD5F  Julia J. Cartwright (Julia Cartwright) <juliac@eso.teric.us>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
+   2  0A120DD923EEDD5F  Julia J. Cartwright (Julia Cartwright) <juliac@eso.teric.us>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   3  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
-   4  0A120DD923EEDD5F  Julia J. Cartwright (Julia Cartwright) <juliac@eso.teric.us>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  3A8F3B2F5A7C9849  Michael Turquette <mturquette@baylibre.com>
+   2  52A205B1F1D915D5  Andy Gross <andy.gross@linaro.org>
+   3  0A120DD923EEDD5F  Julia J. Cartwright (Julia Cartwright) <juliac@eso.teric.us>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
+   3  0A120DD923EEDD5F  Julia J. Cartwright (Julia Cartwright) <juliac@eso.teric.us>
 

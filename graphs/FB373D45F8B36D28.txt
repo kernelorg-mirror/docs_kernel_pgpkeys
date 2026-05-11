@@ -1,12 +1,16 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   3  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
-   4  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   3  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
-   4  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>
+   2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  B2E894C953448A0C  Ohad Ben-Cohen <ohad@wizery.com>
+   2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
+   2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
 

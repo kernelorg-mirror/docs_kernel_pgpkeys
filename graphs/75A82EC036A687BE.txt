@@ -1,5 +1,8 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  5D3C6CC76ACAFA02  Davidlohr Bueso (kernel.org) <dave@stgolabs.net>
-   2  224FA7E7CC82A664  Vlastimil Babka <vbabka@suse.com>
-   3  75A82EC036A687BE  Oscar Salvador <osalvador@suse.de>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  224FA7E7CC82A664  Vlastimil Babka <vbabka@suse.com>
+   2  75A82EC036A687BE  Oscar Salvador <osalvador@suse.de>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  A662F38F6BED6049  Jiri Kosina <jkosina@suse.com>
+   2  75A82EC036A687BE  Oscar Salvador <osalvador@suse.de>
 

@@ -1,6 +1,17 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  5D3C6CC76ACAFA02  Davidlohr Bueso (kernel.org) <dave@stgolabs.net>
-   2  224FA7E7CC82A664  Vlastimil Babka <vbabka@suse.com>
-   3  7C64768D3DE334E7  Krzysztof Wilczynski <kw@linux.com>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  224FA7E7CC82A664  Vlastimil Babka <vbabka@suse.com>
+   2  7C64768D3DE334E7  Krzysztof Wilczynski <kw@linux.com>
+   3  072BC27992AE1E2E  Philipp Stanner (private) <stanner@posteo.de>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  377C7F21FE3D1F91  Michal Simek <monstr@monstr.eu>
+   2  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
+   3  FC974D585706DA43  Robert Foss <rfoss@redhat.com>
+   4  072BC27992AE1E2E  Philipp Stanner (private) <stanner@posteo.de>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
+   2  197C8B73686D216D  Miguel Ojeda <ojeda@kernel.org>
+   3  4594778ED6AACA2E  Danilo Krummrich <me@dakr.org>
    4  072BC27992AE1E2E  Philipp Stanner (private) <stanner@posteo.de>
 

@@ -1,6 +1,4 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
-   3  A6CD9F096F642CB3  Alexandre Belloni <alexandre.belloni@piout.net>
-   4  E332995F09DCC11A  Ludovic Desroches <ludovic.desroches@microchip.com>
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  A6CD9F096F642CB3  Alexandre Belloni <alexandre.belloni@piout.net>
+   2  E332995F09DCC11A  Ludovic Desroches <ludovic.desroches@microchip.com>
 
