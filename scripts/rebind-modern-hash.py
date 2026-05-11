@@ -572,6 +572,26 @@ def _primary_uid_label(items: list[_Item]) -> str | None:
     return None
 
 
+def _format_cmd(
+    flags: list[str], positionals: list[str], trailing: str = ""
+) -> str:
+    """Format a gpg invocation as a multi-line, reviewable shell command.
+
+    First line carries 'gpg' plus all flags; each positional arg
+    (fingerprint, UID label, expiration, subkey fingerprint, ...)
+    follows on its own continuation line, indented 4 spaces. The
+    optional trailing string (e.g. '  # never expires') is appended
+    to the last positional so it stays visually attached.
+    """
+    flag_str = " ".join(shlex.quote(a) for a in flags)
+    quoted = [shlex.quote(p) for p in positionals]
+    out = ["gpg %s \\" % flag_str]
+    for i, p in enumerate(quoted):
+        suffix = " \\" if i < len(quoted) - 1 else trailing
+        out.append("    %s%s" % (p, suffix))
+    return "\n".join(out)
+
+
 def _print_recipe(
     primary_fp: str,
     weak_uids: list[_Item],
@@ -600,10 +620,10 @@ def _print_recipe(
         # primary back where it belongs.
         print("# Rebind UIDs (%d weak)." % len(weak_real_uids))
         for u in weak_real_uids:
-            print(
-                "gpg --cert-digest-algo %s --quick-set-primary-uid %s %s"
-                % (TARGET_HASH, fpr, shlex.quote(u["label"]))
-            )
+            print(_format_cmd(
+                ["--cert-digest-algo", TARGET_HASH, "--quick-set-primary-uid"],
+                [fpr, u["label"]],
+            ))
         print()
 
     if weak_attrs:
@@ -615,7 +635,10 @@ def _print_recipe(
             "# %d weak image/user-attribute binding(s) need an interactive rebind:"
             % len(weak_attrs)
         )
-        print("gpg --cert-digest-algo %s --edit-key %s" % (TARGET_HASH, fpr))
+        print(_format_cmd(
+            ["--cert-digest-algo", TARGET_HASH, "--edit-key"],
+            [fpr],
+        ))
         for u in weak_attrs:
             print(
                 "#   then at the gpg> prompt: uid %d ; primary ; save" % u["gpg_index"]
@@ -630,10 +653,11 @@ def _print_recipe(
         for sk in weak_subkeys:
             exp = _expire_arg(sk)
             label = "expires %s" % exp if exp != "0" else "never expires"
-            print(
-                "gpg --cert-digest-algo %s --quick-set-expire %s %s %s  # %s"
-                % (TARGET_HASH, fpr, exp, sk["fingerprint"], label)
-            )
+            print(_format_cmd(
+                ["--cert-digest-algo", TARGET_HASH, "--quick-set-expire"],
+                [fpr, exp, sk["fingerprint"]],
+                trailing="  # %s" % label,
+            ))
         print()
 
     if (weak_real_uids or weak_attrs) and primary_uid_label is not None:
@@ -644,10 +668,10 @@ def _print_recipe(
         # Idempotent in the unusual edge case where the original
         # primary was already last in the rebind list.
         print("# Restore the original primary UID flag.")
-        print(
-            "gpg --cert-digest-algo %s --quick-set-primary-uid %s %s"
-            % (TARGET_HASH, fpr, shlex.quote(primary_uid_label))
-        )
+        print(_format_cmd(
+            ["--cert-digest-algo", TARGET_HASH, "--quick-set-primary-uid"],
+            [fpr, primary_uid_label],
+        ))
         print()
 
     print("Then verify the result:")

@@ -804,8 +804,14 @@ def _key_strength_skip(entry: Entry) -> str | None:
     return None
 
 
-def _recipe_args(entry: Entry, analysis: Analysis) -> Iterator[list[str]]:
-    """Yield gpg args list(s) for re-signing this key's exportable weak certs.
+def _recipe_args(
+    entry: Entry, analysis: Analysis
+) -> Iterator[tuple[list[str], str, list[str]]]:
+    """Yield (flags, fpr, uids) tuples for re-signing this key's exportable weak certs.
+
+    The split lets the caller format each invocation as a multi-line,
+    reviewable shell command: flags on the first line, fingerprint and
+    each UID on their own indented continuation lines.
 
     UIDs are always listed explicitly and prefixed with '=' so gpg matches
     them exactly. Two safety properties hinge on this:
@@ -821,20 +827,31 @@ def _recipe_args(entry: Entry, analysis: Analysis) -> Iterator[list[str]]:
     if not analysis["has_weak_exportable"]:
         return
     fpr = entry["primary_fpr"].upper()
-    cmd = [
+    flags = [
         "--cert-digest-algo", TARGET_HASH,
         "--default-cert-level", str(analysis["max_level"]),
         "--force-sign-key",
         "--quick-sign-key",
-        fpr,
     ]
-    cmd.extend(f"={uid}" for uid in analysis["weak_exportable_uids"])
-    yield cmd
+    uids = [f"={uid}" for uid in analysis["weak_exportable_uids"]]
+    yield (flags, fpr, uids)
 
 
-def _args_to_cmd(gpg_args: list[str]) -> str:
-    """Format a gpg args list as a printable shell command string."""
-    return "gpg " + " ".join(shlex.quote(a) for a in gpg_args)
+def _args_to_cmd(flags: list[str], fpr: str, uids: list[str]) -> str:
+    """Format a gpg invocation as a multi-line, reviewable shell command.
+
+    First line carries 'gpg' plus all flags; the fingerprint and each UID
+    follow on their own continuation lines, indented 4 spaces, so a
+    maintainer reviewing the generated script can easily skip individual
+    UIDs or the whole key by commenting / deleting lines.
+    """
+    flag_str = " ".join(shlex.quote(a) for a in flags)
+    positionals = [shlex.quote(p) for p in (fpr, *uids)]
+    out = [f"gpg {flag_str} \\"]
+    for i, p in enumerate(positionals):
+        suffix = " \\" if i < len(positionals) - 1 else ""
+        out.append(f"    {p}{suffix}")
+    return "\n".join(out)
 
 
 def _shell_safe(s: str) -> str:
@@ -958,8 +975,8 @@ def _write_batch_file(
             label = _shell_safe(raw_label)
             lines.append(f"# {raw_label}, originally signed on {date}")
             lines.append(f'echo "    {keyid}  {label} (orig {date})"')
-            for gpg_args in _recipe_args(entry, analysis):
-                lines.append(_args_to_cmd(gpg_args))
+            for flags, fpr, uids in _recipe_args(entry, analysis):
+                lines.append(_args_to_cmd(flags, fpr, uids))
             lines.append("")
 
     if n_export_only:
