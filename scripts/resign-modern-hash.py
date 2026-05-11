@@ -8,11 +8,11 @@
 # result for submission to keys@linux.kernel.org.
 #
 # Background: OpenPGP cross-signatures (certifications) made before
-# ~2018 typically used SHA-1. Modern Sequoia-based tools (e.g. sq)
-# reject these under StandardPolicy, so trust paths through affected
-# keys break silently. This tool fixes YOUR exportable certifications
-# on OTHER maintainers' keys; for your own key's UID/subkey self-sigs
-# see the keyholder-side rebind-modern-hash.py tool elsewhere.
+# ~2018 typically used SHA-1. Modern OpenPGP tooling rejects these,
+# so trust paths through affected keys break silently. This tool
+# fixes YOUR exportable certifications on OTHER maintainers' keys;
+# for your own key's UID/subkey self-sigs see the keyholder-side
+# rebind-modern-hash.py tool elsewhere.
 #
 # Two sources are consulted: the keys/ directory of pgpkeys.git, and
 # your default gpg keyring. Some old SHA-1 sigs that you once issued
@@ -125,8 +125,8 @@ ActionTuple = tuple[Entry, Analysis, ActionKind]
 # OpenPGP fingerprints are 40 hex chars (V4) or 64 hex chars (V5).
 _FPR_RE = re.compile(r"^(?:0x)?[0-9a-fA-F]{40}(?:[0-9a-fA-F]{24})?$")
 
-# RFC 4880 §9.4 hash algorithm IDs that Sequoia's StandardPolicy
-# rejects on binding signatures. Anything not in this set is modern.
+# RFC 4880 §9.4 hash algorithm IDs that modern OpenPGP tooling rejects
+# on binding signatures. Anything not in this set is modern.
 WEAK_HASH_IDS = {1, 2, 3}  # MD5, SHA-1, RIPEMD-160
 HASH_NAMES = {
     1: "MD5",

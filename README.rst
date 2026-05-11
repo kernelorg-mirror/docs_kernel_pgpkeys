@@ -91,11 +91,10 @@ Re-signing legacy SHA-1 certifications
 --------------------------------------
 
 A lot of third-party signatures in this keyring were made back when SHA-1
-was still the default hash. Modern Sequoia-based tooling (e.g. ``sq``)
-rejects SHA-1 binding signatures, which silently breaks trust paths
-through affected keys. If you are a maintainer with sigs in this keyring,
-you can find and re-issue your own SHA-1 certifications using
-``./scripts/resign-modern-hash.py``.
+was still the default hash. Modern OpenPGP tooling rejects SHA-1 binding
+signatures, which silently breaks trust paths through affected keys. If
+you are a maintainer with sigs in this keyring, you can find and re-issue
+your own SHA-1 certifications using ``./scripts/resign-modern-hash.py``.
 
 The workflow assumes your Certify ([C]) secret key lives on a separate
 offline workstation, away from your everyday gpg keyring -- the
@@ -150,13 +149,13 @@ Rebinding your own UIDs with a modern hash
 ------------------------------------------
 
 If your key was generated before roughly 2018, its UID self-signatures
-and subkey binding signatures are most likely SHA-1, which Sequoia's
-``StandardPolicy`` rejects. This shows up as your UIDs and email
-addresses appearing "missing" from the key when seen through modern
-tooling, and as encryption to your subkeys failing with "no suitable
-encryption subkey". The keyholder-side fix is to rebind your UIDs and
-subkeys with a modern hash; ``./scripts/rebind-modern-hash.py`` prints
-the exact ``gpg(1)`` command sequence to do that.
+and subkey binding signatures are most likely SHA-1, which modern
+OpenPGP tooling rejects. This shows up as your UIDs and email addresses
+appearing "missing" from the key when seen through modern tooling, and
+as encryption to your subkeys failing with "no suitable encryption
+subkey". The keyholder-side fix is to rebind your UIDs and subkeys
+with a modern hash; ``./scripts/rebind-modern-hash.py`` prints the
+exact ``gpg(1)`` command sequence to do that.
 
 By default the script auto-detects which key to inspect by looking
 for one of your secret keys that has a public copy in this
@@ -213,9 +212,10 @@ complementary reports:
 
 - ``--uids`` lists every key in ``keys/`` that has at least one live
   UID whose self-binding is still SHA-1 / MD5 / RIPEMD-160. These
-  UIDs are rejected by Sequoia regardless of any third-party
-  certifications on them; the keyholder must rebind from their own
-  ``[C]`` secret key (using ``rebind-modern-hash.py`` above).
+  UIDs are rejected by modern OpenPGP tooling regardless of any
+  third-party certifications on them; the keyholder must rebind
+  from their own ``[C]`` secret key (using ``rebind-modern-hash.py``
+  above).
 
 - ``--cross-sigs`` lists, per certifier, the count of keys on which
   the certifier's latest exportable certification of a live UID is

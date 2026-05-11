@@ -6,7 +6,7 @@
 # selectable via --uids and --cross-sigs (both run by default):
 #
 #   --uids        Keys whose UID self-bindings still use a weak hash.
-#                 These UIDs are rejected by Sequoia's StandardPolicy
+#                 These UIDs are rejected by modern OpenPGP tooling
 #                 regardless of any third-party certs on them, so any
 #                 cross-cert pointing at them is moot until the
 #                 keyholder rebinds from their own [C] secret key.
@@ -245,7 +245,7 @@ def main() -> int:
         action="store_true",
         help=(
             "Report keys whose UID self-bindings still use a weak hash "
-            "(SHA-1/MD5/RIPEMD-160). Sequoia's StandardPolicy rejects "
+            "(SHA-1/MD5/RIPEMD-160). Modern OpenPGP tooling rejects "
             "such UIDs regardless of any third-party certs on them; the "
             "keyholder must rebind from their own [C] secret key to fix."
         ),

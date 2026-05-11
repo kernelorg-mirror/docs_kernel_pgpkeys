@@ -7,10 +7,9 @@
 #
 # A key generated in the GnuPG era (typically pre-2018) usually has its
 # UID self-signatures and subkey binding signatures made with SHA-1.
-# Modern Sequoia-based OpenPGP tools reject those bindings under
-# StandardPolicy, so trust paths through the cert break silently and
-# encryption to it can quietly fail ("no suitable encryption subkey",
-# addresses appear missing from the cert).
+# Modern OpenPGP tooling rejects those bindings, so trust paths through
+# the cert break silently and encryption to it can quietly fail ("no
+# suitable encryption subkey", addresses appear missing from the cert).
 #
 # This is the keyholder-side companion to scripts/resign-modern-hash.py
 # (which re-signs YOUR third-party certifications on OTHER maintainers'
@@ -77,9 +76,9 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 _FPR_RE = re.compile(r"^(?:0x)?[0-9a-fA-F]{40}(?:[0-9a-fA-F]{24})?$")
 _KEYID_RE = re.compile(r"^(?:0x)?[0-9a-fA-F]{16}$")
 
-# RFC 4880 §9.4 hash algorithm IDs that Sequoia's StandardPolicy
-# rejects on binding signatures. Anything not in this set is treated
-# as "modern enough".
+# RFC 4880 §9.4 hash algorithm IDs that modern OpenPGP tooling rejects
+# on binding signatures. Anything not in this set is treated as
+# "modern enough".
 WEAK_HASH_IDS = {1, 2, 3}  # MD5, SHA-1, RIPEMD-160
 HASH_NAMES = {
     1: "MD5",
@@ -673,8 +672,8 @@ def main() -> NoReturn:
         ),
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=(
-            "Modern Sequoia-based OpenPGP tools reject UID and subkey\n"
-            "binding signatures made with SHA-1 (typical for keys from the\n"
+            "Modern OpenPGP tooling rejects UID and subkey binding\n"
+            "signatures made with SHA-1 (typical for keys from the\n"
             "pre-2018 GnuPG era). This tool reports which bindings on a\n"
             "key still use a weak hash, and prints the gpg(1) command\n"
             "sequence the keyholder should run to rebind them with SHA-512.\n"
