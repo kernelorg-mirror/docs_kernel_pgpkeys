@@ -1,8 +1,4 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7CC6FC3344B247E2  Mel Gorman <mgorman@techsingularity.net>
-   2  DC553250F8FE7407  Luis Chamberlain <mcgrof@kernel.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>
    2  DC553250F8FE7407  Luis Chamberlain <mcgrof@kernel.org>
 
@@ -14,5 +10,10 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    2  15BC833443038D8C  Jan Kara <jack@suse.com>
+   3  DC553250F8FE7407  Luis Chamberlain <mcgrof@kernel.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
+   2  06CA9F5D1DCF2659  Marcel Holtmann <marcel@holtmann.org>
    3  DC553250F8FE7407  Luis Chamberlain <mcgrof@kernel.org>
 

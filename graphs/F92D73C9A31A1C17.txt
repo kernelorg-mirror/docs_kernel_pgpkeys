@@ -9,7 +9,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  F92D73C9A31A1C17  Mark Gross <markgross@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
-   2  C73907936B7DF8FC  Coly Li <i@coly.li>
-   3  F92D73C9A31A1C17  Mark Gross <markgross@kernel.org>
+   1  41DD4B18780D59C4  Arjan van de Ven (work related key) <arjan@linux.intel.com>
+   2  6C3180543D2929A4  Takashi Iwai <tiwai@suse.de>
+   3  C73907936B7DF8FC  Coly Li <i@coly.li>
+   4  F92D73C9A31A1C17  Mark Gross <markgross@kernel.org>
 

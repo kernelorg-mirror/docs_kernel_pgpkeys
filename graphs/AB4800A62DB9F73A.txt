@@ -8,12 +8,13 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  AB4800A62DB9F73A  Seth Forshee <seth.forshee@canonical.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7CC6FC3344B247E2  Mel Gorman <mgorman@techsingularity.net>
-   2  DC553250F8FE7407  Luis Chamberlain <mcgrof@kernel.org>
-   3  AB4800A62DB9F73A  Seth Forshee <seth.forshee@canonical.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  FBB7576BA7CB0B6B  David Howells <dhowells@redhat.com>
    2  7B3C391EFEA93624  Christian Brauner <christian@brauner.io>
    3  AB4800A62DB9F73A  Seth Forshee <seth.forshee@canonical.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   2  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
+   3  DC553250F8FE7407  Luis Chamberlain <mcgrof@kernel.org>
+   4  AB4800A62DB9F73A  Seth Forshee <seth.forshee@canonical.com>
 

@@ -3,14 +3,14 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  6CBA8A24391968FE  Miklos Szeredi <miklos@szeredi.hu>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7647E1A44BC0E4BA  Peter Zijlstra <peterz@infradead.org>
-   2  6CBA8A24391968FE  Miklos Szeredi <miklos@szeredi.hu>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
    2  6CBA8A24391968FE  Miklos Szeredi <miklos@szeredi.hu>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  A84E7FB9A5F2E36C  Rafael J. Wysocki <rjw@sisk.pl>
+   2  6CBA8A24391968FE  Miklos Szeredi <miklos@szeredi.hu>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  C0ADFFFAB1FB1C18  Andi Kleen <ak@linux.intel.com>
    2  6CBA8A24391968FE  Miklos Szeredi <miklos@szeredi.hu>
 

@@ -7,11 +7,12 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  6F8FF29FC7329261  Geoff Levand <geoff@infradead.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
-   2  6F8FF29FC7329261  Geoff Levand <geoff@infradead.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  7EF4F96F2BE9962A  Dmitry Torokhov <dmitry.torokhov@gmail.com>
+   3  6F8FF29FC7329261  Geoff Levand <geoff@infradead.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  41DD4B18780D59C4  Arjan van de Ven (work related key) <arjan@linux.intel.com>
+   2  6C3180543D2929A4  Takashi Iwai <tiwai@suse.de>
    3  6F8FF29FC7329261  Geoff Levand <geoff@infradead.org>
 

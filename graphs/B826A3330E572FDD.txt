@@ -9,8 +9,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    4  B826A3330E572FDD  Doug Ledford <doug.ledford@hpe.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
-   2  B0CB3F9FA2DE2552  Dave Jones <davej@redhat.com>
+   1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
+   2  E0D3C9EF07D2F8B4  Justin M. Forbes (kernel.org) <jforbes@kernel.org>
    3  A31B6BD72486CFD6  Josh Boyer <jwboyer@kernel.org>
    4  B826A3330E572FDD  Doug Ledford <doug.ledford@hpe.com>
 

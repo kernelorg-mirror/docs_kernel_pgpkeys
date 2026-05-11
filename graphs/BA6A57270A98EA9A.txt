@@ -10,7 +10,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    4  BA6A57270A98EA9A  Petr Pavlu <petr.pavlu@suse.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7CC6FC3344B247E2  Mel Gorman <mgorman@techsingularity.net>
+   1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
    2  48E209A2B310E347  Michal Hocko (SUSE key) <mhocko@suse.cz>
    3  FF98A38DA80834DA  Miroslav Benes <mbenes@suse.cz>
    4  BA6A57270A98EA9A  Petr Pavlu <petr.pavlu@suse.com>

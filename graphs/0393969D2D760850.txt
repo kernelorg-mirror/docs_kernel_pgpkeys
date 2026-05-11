@@ -4,19 +4,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  0393969D2D760850  Johannes Thumshirn <jth@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
-   2  C73907936B7DF8FC  Coly Li <i@coly.li>
-   3  0393969D2D760850  Johannes Thumshirn <jth@kernel.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
-   3  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
-   4  0393969D2D760850  Johannes Thumshirn <jth@kernel.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7647E1A44BC0E4BA  Peter Zijlstra <peterz@infradead.org>
-   2  6CBA8A24391968FE  Miklos Szeredi <miklos@szeredi.hu>
-   3  1E7B4B632179E5B2  Jeffrey Mahoney <jeffm@suse.com>
+   1  41DD4B18780D59C4  Arjan van de Ven (work related key) <arjan@linux.intel.com>
+   2  6C3180543D2929A4  Takashi Iwai <tiwai@suse.de>
+   3  C73907936B7DF8FC  Coly Li <i@coly.li>
    4  0393969D2D760850  Johannes Thumshirn <jth@kernel.org>
 

@@ -1,11 +1,12 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
-   2  86CC4303D870877E  Boqun Feng <boqun.feng@gmail.com>
-   3  EE7A392FDE96209F  Alice Ryhl <alice@ryhl.io>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
    2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
    3  56A0D81F9F782DA9  Ricardo Ribalda Delgado <ricardo@ribalda.com>
+   4  EE7A392FDE96209F  Alice Ryhl <alice@ryhl.io>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
+   3  86CC4303D870877E  Boqun Feng <boqun.feng@gmail.com>
    4  EE7A392FDE96209F  Alice Ryhl <alice@ryhl.io>
 

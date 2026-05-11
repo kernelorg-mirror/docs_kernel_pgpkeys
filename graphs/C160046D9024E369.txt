@@ -10,9 +10,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  BC617823EE0B0057  Sinan Kaya <okaya@kernel.org>
    4  C160046D9024E369  Timur Tabi <timur@tabi.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
-   2  0A120DD923EEDD5F  Julia J. Cartwright (Julia Cartwright) <juliac@eso.teric.us>
-   3  77035451C19642DA  Richard Kuo <rkuo@codeaurora.org>
-   4  C160046D9024E369  Timur Tabi <timur@tabi.org>
-

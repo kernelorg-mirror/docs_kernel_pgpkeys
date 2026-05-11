@@ -3,14 +3,14 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  856199113A35CE5E  Michael Kerrisk (public mail/TLPI) <mtk@man7.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7647E1A44BC0E4BA  Peter Zijlstra <peterz@infradead.org>
-   2  856199113A35CE5E  Michael Kerrisk (public mail/TLPI) <mtk@man7.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7CC6FC3344B247E2  Mel Gorman <mgorman@techsingularity.net>
-   2  856199113A35CE5E  Michael Kerrisk (public mail/TLPI) <mtk@man7.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>
+   2  856199113A35CE5E  Michael Kerrisk (public mail/TLPI) <mtk@man7.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  C0ADFFFAB1FB1C18  Andi Kleen <ak@linux.intel.com>
+   2  856199113A35CE5E  Michael Kerrisk (public mail/TLPI) <mtk@man7.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  FBB7576BA7CB0B6B  David Howells <dhowells@redhat.com>
    2  856199113A35CE5E  Michael Kerrisk (public mail/TLPI) <mtk@man7.org>
 

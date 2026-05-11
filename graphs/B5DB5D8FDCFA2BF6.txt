@@ -15,9 +15,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  9B9B776EFF335C26  Bryan Wu (Peng Wu) <cooloney@gmail.com>
    4  B5DB5D8FDCFA2BF6  Haojian Zhuang <haojian.zhuang@linaro.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
-   2  B4269A3D1FCF7DAD  Shaohua Li (shli) <shaohua.li@intel.com>
-   3  9A2698CDCF8E49C7  Steven Miao (Steven Miao) <realmz6@gmail.com>
-   4  B5DB5D8FDCFA2BF6  Haojian Zhuang <haojian.zhuang@linaro.org>
-

@@ -4,9 +4,10 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  2B5EE211C58AEA54  Marc Kleine-Budde <mkl@blackshift.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
-   2  140DE4CC14A029B6  Wolfram Sang <wsa@kernel.org>
-   3  2B5EE211C58AEA54  Marc Kleine-Budde <mkl@blackshift.org>
+   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   2  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
+   3  140DE4CC14A029B6  Wolfram Sang <wsa@kernel.org>
+   4  2B5EE211C58AEA54  Marc Kleine-Budde <mkl@blackshift.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>

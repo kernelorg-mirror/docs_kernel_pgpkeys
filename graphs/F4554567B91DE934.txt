@@ -9,8 +9,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  F4554567B91DE934  Michal Kubecek <mkubecek@suse.cz>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7CC6FC3344B247E2  Mel Gorman <mgorman@techsingularity.net>
-   2  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
+   1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
+   2  48E209A2B310E347  Michal Hocko (SUSE key) <mhocko@suse.cz>
    3  FF98A38DA80834DA  Miroslav Benes <mbenes@suse.cz>
    4  F4554567B91DE934  Michal Kubecek <mkubecek@suse.cz>
 

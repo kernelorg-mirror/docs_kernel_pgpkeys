@@ -1,8 +1,4 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
-   2  140DE4CC14A029B6  Wolfram Sang <wsa@kernel.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
    2  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
    3  140DE4CC14A029B6  Wolfram Sang <wsa@kernel.org>
@@ -11,4 +7,10 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
    2  D7CF64696A374FBE  Simon Horman <horms@debian.org>
    3  140DE4CC14A029B6  Wolfram Sang <wsa@kernel.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  A84E7FB9A5F2E36C  Rafael J. Wysocki <rjw@sisk.pl>
+   2  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
+   3  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
+   4  140DE4CC14A029B6  Wolfram Sang <wsa@kernel.org>
 

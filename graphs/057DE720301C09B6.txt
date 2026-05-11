@@ -9,9 +9,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  F66A512056077B3D  Jiri Olsa (Red Hat) <jolsa@redhat.com>
    4  057DE720301C09B6  Quentin Monnet (Isovalent) <quentin@isovalent.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
-   2  EAB99A773DAF6D3A  Alexei Starovoitov <alexei.starovoitov@gmail.com>
-   3  31466D6DFE5222BB  Jakub Kicinski <kubakici@wp.pl>
-   4  057DE720301C09B6  Quentin Monnet (Isovalent) <quentin@isovalent.com>
-

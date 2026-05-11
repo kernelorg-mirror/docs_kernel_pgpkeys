@@ -3,14 +3,16 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7CC6FC3344B247E2  Mel Gorman <mgorman@techsingularity.net>
+   1  FBB7576BA7CB0B6B  David Howells <dhowells@redhat.com>
    2  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
-   2  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
+   1  41DD4B18780D59C4  Arjan van de Ven (work related key) <arjan@linux.intel.com>
+   2  6C3180543D2929A4  Takashi Iwai <tiwai@suse.de>
+   3  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
-   2  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
+   3  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
 

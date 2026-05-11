@@ -3,6 +3,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  FAF3337956F28814  Joern Engel (2011 key) <joern@purestorage.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
-   2  FAF3337956F28814  Joern Engel (2011 key) <joern@purestorage.com>
+   1  A84E7FB9A5F2E36C  Rafael J. Wysocki <rjw@sisk.pl>
+   2  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
+   3  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
+   4  FAF3337956F28814  Joern Engel (2011 key) <joern@purestorage.com>
 

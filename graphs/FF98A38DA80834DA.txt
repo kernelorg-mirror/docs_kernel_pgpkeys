@@ -4,17 +4,17 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  FF98A38DA80834DA  Miroslav Benes <mbenes@suse.cz>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7CC6FC3344B247E2  Mel Gorman <mgorman@techsingularity.net>
-   2  48E209A2B310E347  Michal Hocko (SUSE key) <mhocko@suse.cz>
-   3  FF98A38DA80834DA  Miroslav Benes <mbenes@suse.cz>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  A84E7FB9A5F2E36C  Rafael J. Wysocki <rjw@sisk.pl>
    2  A662F38F6BED6049  Jiri Kosina <jkosina@suse.com>
    3  FF98A38DA80834DA  Miroslav Benes <mbenes@suse.cz>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
+   2  48E209A2B310E347  Michal Hocko (SUSE key) <mhocko@suse.cz>
+   3  FF98A38DA80834DA  Miroslav Benes <mbenes@suse.cz>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  FBB7576BA7CB0B6B  David Howells <dhowells@redhat.com>
    2  BD25B10406B47049  Jiri Slaby <jirislaby@gmail.com>
    3  FF98A38DA80834DA  Miroslav Benes <mbenes@suse.cz>
 

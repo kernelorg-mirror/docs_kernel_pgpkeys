@@ -4,9 +4,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  376EB100563EF7A7  Andreas Hindborg <a.hindborg@kernel.org>
    4  19D6FF6092365380  Tamir Duberstein <tamird@kernel.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
-   2  86CC4303D870877E  Boqun Feng <boqun.feng@gmail.com>
-   3  EE7A392FDE96209F  Alice Ryhl <alice@ryhl.io>
-   4  19D6FF6092365380  Tamir Duberstein <tamird@kernel.org>
-

@@ -1,8 +1,4 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
-   2  A6A2316573C0A672  Jesse Brandeburg <jesse.brandeburg@gmail.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
    2  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
    3  A6A2316573C0A672  Jesse Brandeburg <jesse.brandeburg@gmail.com>
@@ -11,4 +7,10 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  C83B0745DF188DFE  Dirk Hohndel <dirkhh@vmware.com>
    2  1ED2916A667D8802  Dan Williams (djbw) <dan.j.williams@intel.com>
    3  A6A2316573C0A672  Jesse Brandeburg <jesse.brandeburg@gmail.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  A84E7FB9A5F2E36C  Rafael J. Wysocki <rjw@sisk.pl>
+   2  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
+   3  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
+   4  A6A2316573C0A672  Jesse Brandeburg <jesse.brandeburg@gmail.com>
 

@@ -1,9 +1,11 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
-   2  EF4A6C4958784DF2  Gabriele Monaco <gmonaco@redhat.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
    2  D65016F35352AA40  Arnaldo Carvalho de Melo <acme@kernel.org>
    3  EF4A6C4958784DF2  Gabriele Monaco <gmonaco@redhat.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   2  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
+   3  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
+   4  EF4A6C4958784DF2  Gabriele Monaco <gmonaco@redhat.com>
 

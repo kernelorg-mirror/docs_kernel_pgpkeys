@@ -11,6 +11,6 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  98E5DCC81647B72A  Lennert Buijtenhek <buytenh@wantstofly.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
+   1  FBB7576BA7CB0B6B  David Howells <dhowells@redhat.com>
    2  98E5DCC81647B72A  Lennert Buijtenhek <buytenh@wantstofly.org>
 

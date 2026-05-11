@@ -4,11 +4,6 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  59FF77874E89E813  Namhyung Kim (Linux kernel developer) <namhyung@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
-   2  85245447508E8C77  Frederic Weisbecker <fweisbec@gmail.com>
-   3  59FF77874E89E813  Namhyung Kim (Linux kernel developer) <namhyung@gmail.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  C78FB10D0BBD2A4B  Paul Walmsley <pjw@kernel.org>
    3  0D0297E9158B6C6A  Kukjin Kim <kgene@kernel.org>

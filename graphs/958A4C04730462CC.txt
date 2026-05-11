@@ -4,18 +4,20 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  958A4C04730462CC  Moritz Fischer <moritz@pure-entropy.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
-   2  171B27A8ED7F924E  Geoff Levand <geoff@infradead.org>
-   3  958A4C04730462CC  Moritz Fischer <moritz@pure-entropy.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
-   2  0A120DD923EEDD5F  Julia J. Cartwright (Julia Cartwright) <juliac@eso.teric.us>
-   3  958A4C04730462CC  Moritz Fischer <moritz@pure-entropy.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
    3  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
+   4  958A4C04730462CC  Moritz Fischer <moritz@pure-entropy.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  20D04E5A713660A7  Junio C Hamano <gitster@pobox.com>
+   2  6F8FF29FC7329261  Geoff Levand <geoff@infradead.org>
+   3  171B27A8ED7F924E  Geoff Levand <geoff@infradead.org>
+   4  958A4C04730462CC  Moritz Fischer <moritz@pure-entropy.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
+   3  0A120DD923EEDD5F  Julia J. Cartwright (Julia Cartwright) <juliac@eso.teric.us>
    4  958A4C04730462CC  Moritz Fischer <moritz@pure-entropy.org>
 

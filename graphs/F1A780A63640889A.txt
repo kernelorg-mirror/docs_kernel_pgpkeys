@@ -1,9 +1,4 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
-   2  140DE4CC14A029B6  Wolfram Sang <wsa@kernel.org>
-   3  F1A780A63640889A  Kuninori Morimoto <kuninori.morimoto.gx@renesas.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
    3  A5826A2587AD026B  Jacopo Mondi <jacopo@jmondi.org>
@@ -19,5 +14,11 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
    2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    3  F045C2B96991256E  Laurent Pinchart <laurent.pinchart@ideasonboard.com>
+   4  F1A780A63640889A  Kuninori Morimoto <kuninori.morimoto.gx@renesas.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  32247FBB40AD1FA6  Nobuhiro Iwamatsu <iwamatsu@kernel.org>
+   3  4804B4BC3F55EEFB  Geert Uytterhoeven <geert@linux-m68k.org>
    4  F1A780A63640889A  Kuninori Morimoto <kuninori.morimoto.gx@renesas.com>
 

@@ -8,14 +8,13 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  FBB7576BA7CB0B6B  David Howells <dhowells@redhat.com>
+   2  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
+   3  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
    3  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
-   4  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7CC6FC3344B247E2  Mel Gorman <mgorman@techsingularity.net>
-   2  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
-   3  0393969D2D760850  Johannes Thumshirn <jth@kernel.org>
    4  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
 

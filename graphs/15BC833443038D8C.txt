@@ -7,10 +7,10 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  15BC833443038D8C  Jan Kara <jack@suse.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7CC6FC3344B247E2  Mel Gorman <mgorman@techsingularity.net>
+   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
    2  15BC833443038D8C  Jan Kara <jack@suse.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
+   1  A84E7FB9A5F2E36C  Rafael J. Wysocki <rjw@sisk.pl>
    2  15BC833443038D8C  Jan Kara <jack@suse.com>
 

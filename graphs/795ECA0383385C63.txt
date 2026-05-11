@@ -4,7 +4,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  795ECA0383385C63  Johannes Weiner <hannes@cmpxchg.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
-   2  8744DC1EB26B5A9A  Tejun Heo <tj@kernel.org>
-   3  795ECA0383385C63  Johannes Weiner <hannes@cmpxchg.org>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
+   3  8744DC1EB26B5A9A  Tejun Heo <tj@kernel.org>
+   4  795ECA0383385C63  Johannes Weiner <hannes@cmpxchg.org>
 

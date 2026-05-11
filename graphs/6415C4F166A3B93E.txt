@@ -4,7 +4,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  6415C4F166A3B93E  Dave Jiang (Work) <dave.jiang@intel.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
+   1  C83B0745DF188DFE  Dirk Hohndel <dirkhh@vmware.com>
    2  1ED2916A667D8802  Dan Williams (djbw) <dan.j.williams@intel.com>
    3  6415C4F166A3B93E  Dave Jiang (Work) <dave.jiang@intel.com>
 
@@ -12,11 +12,5 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  41DD4B18780D59C4  Arjan van de Ven (work related key) <arjan@linux.intel.com>
    2  6C3180543D2929A4  Takashi Iwai <tiwai@suse.de>
    3  7C14070F25238347  Vinod Koul <vkoul@kernel.org>
-   4  6415C4F166A3B93E  Dave Jiang (Work) <dave.jiang@intel.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
-   2  6835953070C992B0  David Christopher Hansen <dave@sr71.net>
-   3  7AFA61BEA3B84DFF  Vishal Verma <vishal@stellar.sh>
    4  6415C4F166A3B93E  Dave Jiang (Work) <dave.jiang@intel.com>
 

@@ -7,10 +7,10 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  6C3180543D2929A4  Takashi Iwai <tiwai@suse.de>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7647E1A44BC0E4BA  Peter Zijlstra <peterz@infradead.org>
+   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
    2  6C3180543D2929A4  Takashi Iwai <tiwai@suse.de>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7CC6FC3344B247E2  Mel Gorman <mgorman@techsingularity.net>
+   1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>
    2  6C3180543D2929A4  Takashi Iwai <tiwai@suse.de>
 

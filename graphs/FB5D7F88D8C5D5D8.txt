@@ -4,9 +4,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  C523F10A2D9D035A  Mike Snitzer <snitzer@kernel.org>
    4  FB5D7F88D8C5D5D8  Benjamin E. Marzinski (nimh) <bmarzins@redhat.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
-   2  AD96D6A6C01E3D67  Alasdair G Kergon <agk@redhat.com>
-   3  0876A7C2DEA77FED  Mikulas Patocka <mikulas@twibright.com>
-   4  FB5D7F88D8C5D5D8  Benjamin E. Marzinski (nimh) <bmarzins@redhat.com>
-

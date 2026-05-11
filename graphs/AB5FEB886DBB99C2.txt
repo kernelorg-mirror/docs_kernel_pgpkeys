@@ -3,10 +3,6 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  AB5FEB886DBB99C2  Vincent Mailhol <mailhol@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
-   2  AB5FEB886DBB99C2  Vincent Mailhol <mailhol@kernel.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
    2  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    3  AB5FEB886DBB99C2  Vincent Mailhol <mailhol@kernel.org>
@@ -15,5 +11,11 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
    3  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   4  AB5FEB886DBB99C2  Vincent Mailhol <mailhol@kernel.org>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  A84E7FB9A5F2E36C  Rafael J. Wysocki <rjw@sisk.pl>
+   2  EF1F7EB8765E435D  Rafael J. Wysocki <rjw@rjwysocki.net>
+   3  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
    4  AB5FEB886DBB99C2  Vincent Mailhol <mailhol@kernel.org>
 

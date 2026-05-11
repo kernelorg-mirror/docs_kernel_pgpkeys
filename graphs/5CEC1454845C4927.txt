@@ -4,7 +4,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  5CEC1454845C4927  Andrii Nakryiko <andrii.nakryiko@gmail.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
-   2  EAB99A773DAF6D3A  Alexei Starovoitov <alexei.starovoitov@gmail.com>
-   3  5CEC1454845C4927  Andrii Nakryiko <andrii.nakryiko@gmail.com>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  7EF4F96F2BE9962A  Dmitry Torokhov <dmitry.torokhov@gmail.com>
+   3  EAB99A773DAF6D3A  Alexei Starovoitov <alexei.starovoitov@gmail.com>
+   4  5CEC1454845C4927  Andrii Nakryiko <andrii.nakryiko@gmail.com>
 

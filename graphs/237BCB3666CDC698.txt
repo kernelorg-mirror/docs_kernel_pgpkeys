@@ -1,5 +1,5 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
+   1  C83B0745DF188DFE  Dirk Hohndel <dirkhh@vmware.com>
    2  1ED2916A667D8802  Dan Williams (djbw) <dan.j.williams@intel.com>
    3  237BCB3666CDC698  Tony Nguyen <anthony.l.nguyen@intel.com>
 

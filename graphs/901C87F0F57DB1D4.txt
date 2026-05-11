@@ -3,12 +3,13 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  901C87F0F57DB1D4  Phillip Lougher <phillip@squashfs.org.uk>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
+   1  FBB7576BA7CB0B6B  David Howells <dhowells@redhat.com>
    2  901C87F0F57DB1D4  Phillip Lougher <phillip@squashfs.org.uk>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  FBB7576BA7CB0B6B  David Howells <dhowells@redhat.com>
-   2  901C87F0F57DB1D4  Phillip Lougher <phillip@squashfs.org.uk>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
+   3  901C87F0F57DB1D4  Phillip Lougher <phillip@squashfs.org.uk>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>

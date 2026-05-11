@@ -1,5 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
-   2  86CC4303D870877E  Boqun Feng <boqun.feng@gmail.com>
-   3  9D8C6F14E3E60652  Gary Guo <gary@kernel.org>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
+   3  86CC4303D870877E  Boqun Feng <boqun.feng@gmail.com>
+   4  9D8C6F14E3E60652  Gary Guo <gary@kernel.org>
 
