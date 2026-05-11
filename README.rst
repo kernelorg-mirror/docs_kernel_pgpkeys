@@ -141,3 +141,90 @@ already has a strong (SHA-256/SHA-512) certification on a key, but that
 sig hasn't propagated back to the repo. No re-sign is needed; the
 generated batch script will simply re-export the key so the existing
 strong sig reaches the keyring maintainer.
+
+See ``rebind-modern-hash.py`` (below) if your own key's UID
+self-signatures or subkey bindings use a weak hash, and
+``weak-hash-audit.py`` (below) for a per-keyring overview.
+
+Rebinding your own UIDs with a modern hash
+------------------------------------------
+
+If your key was generated before roughly 2018, its UID self-signatures
+and subkey binding signatures are most likely SHA-1, which Sequoia's
+``StandardPolicy`` rejects. This shows up as your UIDs and email
+addresses appearing "missing" from the key when seen through modern
+tooling, and as encryption to your subkeys failing with "no suitable
+encryption subkey". The keyholder-side fix is to rebind your UIDs and
+subkeys with a modern hash; ``./scripts/rebind-modern-hash.py`` prints
+the exact ``gpg(1)`` command sequence to do that.
+
+By default the script auto-detects which key to inspect by looking
+for one of your secret keys that has a public copy in this
+repository's ``keys/`` directory. You can also point it at a specific
+key explicitly::
+
+    $ ./scripts/rebind-modern-hash.py                       # auto-detect
+    $ ./scripts/rebind-modern-hash.py --fpr <FPR>           # your keyring
+    $ ./scripts/rebind-modern-hash.py --from-repo <KEYID>   # canonical pgpkeys.git copy
+    $ ./scripts/rebind-modern-hash.py /path/to/key.asc      # arbitrary file
+    $ gpg --export <FPR> | ./scripts/rebind-modern-hash.py  # stdin
+
+The script never modifies your real keyring during inspection (file,
+stdin and ``--from-repo`` input go through a temporary ``GNUPGHOME``);
+the printed rebind commands are what actually modify your keyring,
+and only when you choose to run them. Copy-paste them into your
+shell and they'll do the right thing:
+
+- ``--quick-set-primary-uid`` re-signs each weak UID self-signature
+  with SHA-512.
+- ``--quick-set-expire`` (preserving the existing expiration date)
+  re-signs each weak subkey binding signature with SHA-512.
+- A final ``--quick-set-primary-uid`` line restores your original
+  primary UID, since the per-UID rebind calls above shuffle the
+  primary flag around as a side effect.
+
+Image / user-attribute (uat) packets can't be addressed by
+``--quick-set-primary-uid`` and need an interactive ``--edit-key``
+session; the recipe walks you through that case too.
+
+Once the commands have run, re-run with ``--verify`` to confirm
+everything reads ``[ OK ]``::
+
+    $ ./scripts/rebind-modern-hash.py --verify --fpr <FPR>
+
+Then mail the rebound public key to keys@linux.kernel.org so the
+canonical keyring picks it up::
+
+    $ gpg --export --armor <FPR> | mail -s your@email.addr keys@linux.kernel.org
+
+This is the keyholder-side companion to ``resign-modern-hash.py``
+(above): the rebind script fixes your own UID and subkey
+self-signatures; the resign script fixes the third-party
+certifications you've issued on *other* maintainers' keys. Whether
+you need one or both is visible at a glance via the audit script
+below.
+
+Auditing weak-hash usage in the keyring
+---------------------------------------
+
+For a bird's-eye view of where weak hashes still appear in this
+repository, ``./scripts/weak-hash-audit.py`` produces two
+complementary reports:
+
+- ``--uids`` lists every key in ``keys/`` that has at least one live
+  UID whose self-binding is still SHA-1 / MD5 / RIPEMD-160. These
+  UIDs are rejected by Sequoia regardless of any third-party
+  certifications on them; the keyholder must rebind from their own
+  ``[C]`` secret key (using ``rebind-modern-hash.py`` above).
+
+- ``--cross-sigs`` lists, per certifier, the count of keys on which
+  the certifier's latest exportable certification of a live UID is
+  still a weak hash. Sorted by count descending, so the largest
+  sources of legacy weak certifications float to the top.
+
+With no arguments both reports run; pass ``--uids`` or
+``--cross-sigs`` to scope to a single section.
+
+The script is read-only and operates on a fresh, temporary
+``GNUPGHOME`` built from the ``keys/`` directory -- it does not touch
+your real keyring.
