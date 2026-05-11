@@ -1,17 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
-   2  8EF2103794CACC65  Avi Kivity <avi@scylladb.com>
-   3  3740FB1F7C5474E7  Gleb Natapov <gleb@redhat.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
-   3  7E15100CCD3669B1  Paolo Bonzini <bonzini@gnu.org>
-   4  3740FB1F7C5474E7  Gleb Natapov <gleb@redhat.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  733AD9848B744C5E  Benjamin Herrenschmidt <benh@kernel.crashing.org>
-   2  D1FF024A4AA920D7  Scott Wood <oss@buserror.net>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
    3  1E9A3B5F854083B6  Amit Shah <amit@amitshah.net>
    4  3740FB1F7C5474E7  Gleb Natapov <gleb@redhat.com>
 

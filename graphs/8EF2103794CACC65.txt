@@ -1,16 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
-   2  8EF2103794CACC65  Avi Kivity <avi@scylladb.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
-   2  8EF2103794CACC65  Avi Kivity <avi@scylladb.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  C0ADFFFAB1FB1C18  Andi Kleen <ak@linux.intel.com>
-   2  8EF2103794CACC65  Avi Kivity <avi@scylladb.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  EB751458FA118320  James Morris <jmorris@namei.org>
-   2  8EF2103794CACC65  Avi Kivity <avi@scylladb.com>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
+   3  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
+   4  8EF2103794CACC65  Avi Kivity <avi@scylladb.com>
 

@@ -1,9 +1,4 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  15BC833443038D8C  Jan Kara <jack@suse.com>
-   3  8549F1144D045D36  Jérôme Glisse <glisse@freedesktop.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
    2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
    3  8549F1144D045D36  Jérôme Glisse <glisse@freedesktop.org>

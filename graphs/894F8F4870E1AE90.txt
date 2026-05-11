@@ -3,15 +3,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  EC63699779074FA8  Ian Campbell <ijc@hellion.org.uk>
    3  894F8F4870E1AE90  Stefano Stabellini <stefano.stabellini@eu.citrix.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  20D04E5A713660A7  Junio C Hamano <gitster@pobox.com>
-   2  8C1AE73CDE841C77  Olof Johansson <olof@lixom.net>
-   3  4B693A2CEDE9D772  Christoffer Dall <christoffer.dall@arm.com>
-   4  894F8F4870E1AE90  Stefano Stabellini <stefano.stabellini@eu.citrix.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
-   3  7E15100CCD3669B1  Paolo Bonzini <bonzini@gnu.org>
-   4  894F8F4870E1AE90  Stefano Stabellini <stefano.stabellini@eu.citrix.com>
-

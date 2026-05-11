@@ -4,9 +4,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
    4  7F9AC96AF21E7085  Alexandre Torgue <alexandre.torgue@st.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  C93A8F10916BCA39  Jesse Sayer Barnes <jbarnes@virtuousgeek.org>
-   2  7CD1E6192FF9F435  Alex Elder <elder@linux.com>
-   3  51AF8A2F87FC7761  Lee Jones <lee.jones@linaro.org>
-   4  7F9AC96AF21E7085  Alexandre Torgue <alexandre.torgue@st.com>
-

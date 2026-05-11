@@ -1,21 +1,11 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  20D04E5A713660A7  Junio C Hamano <gitster@pobox.com>
-   2  8C1AE73CDE841C77  Olof Johansson <olof@lixom.net>
-   3  4B693A2CEDE9D772  Christoffer Dall <christoffer.dall@arm.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
-   3  4B693A2CEDE9D772  Christoffer Dall <christoffer.dall@arm.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  733AD9848B744C5E  Benjamin Herrenschmidt <benh@kernel.crashing.org>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
    2  D9200E6CD1ADB8F1  Rusty Russell <rusty@rustcorp.com.au>
    3  4B693A2CEDE9D772  Christoffer Dall <christoffer.dall@arm.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
-   3  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+   2  C78FB10D0BBD2A4B  Paul Walmsley <pjw@kernel.org>
+   3  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
    4  4B693A2CEDE9D772  Christoffer Dall <christoffer.dall@arm.com>
 

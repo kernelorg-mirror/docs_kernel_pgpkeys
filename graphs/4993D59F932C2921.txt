@@ -1,11 +1,12 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  EEE9601A75C5DE3D  Martin K. Petersen <mkp@mkp.net>
-   3  4993D59F932C2921  Anand S. Jain <asj@u.nus.edu>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
    3  F87F7719344AB4EB  Darrick J. Wong (Portland) <djwong@djwong.org>
+   4  4993D59F932C2921  Anand S. Jain <asj@u.nus.edu>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   3  EEE9601A75C5DE3D  Martin K. Petersen <mkp@mkp.net>
    4  4993D59F932C2921  Anand S. Jain <asj@u.nus.edu>
 

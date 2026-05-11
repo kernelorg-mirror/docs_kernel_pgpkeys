@@ -1,6 +1,0 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
-   2  8EF2103794CACC65  Avi Kivity <avi@scylladb.com>
-   3  E0D3C9EF07D2F8B4  Justin M. Forbes (kernel.org) <jforbes@kernel.org>
-   4  A31B6BD72486CFD6  Josh Boyer <jwboyer@kernel.org>
-

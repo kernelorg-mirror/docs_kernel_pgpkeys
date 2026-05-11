@@ -1,10 +1,4 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  7341619ED337160C  Chris Ball <chris@printf.net>
-   3  0FDD682D974CA72A  Matt Turner <mattst88@gmail.com>
-   4  D8691BE378ACBBBE  Magnus Lindholm <linmag7@gmail.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
    2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
    3  74263B37F5B5F913  John Paul Adrian Glaubitz (Freie Universitaet Berlin) <glaubitz@physik.fu-berlin.de>

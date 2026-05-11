@@ -1,9 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  C93A8F10916BCA39  Jesse Sayer Barnes <jbarnes@virtuousgeek.org>
-   2  D68BC9ACD5ABA64E  Ben Myers <bpm@sgi.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  15BC833443038D8C  Jan Kara <jack@suse.com>
-   3  D68BC9ACD5ABA64E  Ben Myers <bpm@sgi.com>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   3  15BC833443038D8C  Jan Kara <jack@suse.com>
+   4  D68BC9ACD5ABA64E  Ben Myers <bpm@sgi.com>
 

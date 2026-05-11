@@ -4,9 +4,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  856199113A35CE5E  Michael Kerrisk (public mail/TLPI) <mtk@man7.org>
    4  04C216B7287C1BA1  Chris Mason <clm@fb.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  20D04E5A713660A7  Junio C Hamano <gitster@pobox.com>
-   2  8C1AE73CDE841C77  Olof Johansson <olof@lixom.net>
-   3  6435C9050845A4CE  Eric Van Hensbergen <ericvh@gmail.com>
-   4  04C216B7287C1BA1  Chris Mason <clm@fb.com>
-

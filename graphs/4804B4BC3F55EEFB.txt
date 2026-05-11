@@ -15,9 +15,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  8B5880AFAC0218C7  Geert Uytterhoeven (Signing key) <geert@linux-m68k.org>
    4  4804B4BC3F55EEFB  Geert Uytterhoeven <geert@linux-m68k.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
-   3  F045C2B96991256E  Laurent Pinchart <laurent.pinchart@ideasonboard.com>
-   4  4804B4BC3F55EEFB  Geert Uytterhoeven <geert@linux-m68k.org>
-

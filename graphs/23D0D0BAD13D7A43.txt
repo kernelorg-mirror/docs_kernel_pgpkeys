@@ -1,19 +1,10 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  C78FB10D0BBD2A4B  Paul Walmsley <pjw@kernel.org>
    3  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  20D04E5A713660A7  Junio C Hamano <gitster@pobox.com>
-   2  8C1AE73CDE841C77  Olof Johansson <olof@lixom.net>
-   3  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
+   2  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    3  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
 

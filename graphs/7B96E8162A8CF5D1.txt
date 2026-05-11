@@ -1,9 +1,4 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
-   3  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
    3  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
@@ -11,7 +6,7 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
-   3  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
+   2  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   3  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
    4  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
 

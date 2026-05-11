@@ -8,9 +8,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  9EBF12F372D9FB8C  Paul E. McKenney <paulmck@linux.vnet.ibm.com>
    3  6835953070C992B0  David Christopher Hansen <dave@sr71.net>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  C0ADFFFAB1FB1C18  Andi Kleen <ak@linux.intel.com>
-   2  46A3C53C3D727E07  Robert Love <robert.w.love@intel.com>
-   3  1ED2916A667D8802  Dan Williams (djbw) <dan.j.williams@intel.com>
-   4  6835953070C992B0  David Christopher Hansen <dave@sr71.net>
-

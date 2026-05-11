@@ -2,9 +2,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  5D3C6CC76ACAFA02  Davidlohr Bueso (kernel.org) <dave@stgolabs.net>
    2  5895FAAC338C6E77  Joel Granados (Linux Kernel Key) <joel.granados@kernel.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  15BC833443038D8C  Jan Kara <jack@suse.com>
-   3  DC553250F8FE7407  Luis Chamberlain <mcgrof@kernel.org>
-   4  5895FAAC338C6E77  Joel Granados (Linux Kernel Key) <joel.granados@kernel.org>
-

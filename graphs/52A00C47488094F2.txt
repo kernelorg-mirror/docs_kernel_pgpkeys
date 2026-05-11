@@ -1,17 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  15BC833443038D8C  Jan Kara <jack@suse.com>
-   3  52A00C47488094F2  Petr Mladek <pmladek@suse.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
-   3  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
-   4  52A00C47488094F2  Petr Mladek <pmladek@suse.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  C0ADFFFAB1FB1C18  Andi Kleen <ak@linux.intel.com>
-   2  6CBA8A24391968FE  Miklos Szeredi <miklos@szeredi.hu>
-   3  1E7B4B632179E5B2  Jeffrey Mahoney <jeffm@suse.com>
+   2  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   3  15BC833443038D8C  Jan Kara <jack@suse.com>
    4  52A00C47488094F2  Petr Mladek <pmladek@suse.com>
 

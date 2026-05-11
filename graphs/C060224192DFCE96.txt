@@ -1,18 +1,17 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  C060224192DFCE96  Pavel Machek (2011) <pavel@ucw.cz>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  C0ADFFFAB1FB1C18  Andi Kleen <ak@linux.intel.com>
-   2  C060224192DFCE96  Pavel Machek (2011) <pavel@ucw.cz>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
-   2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
-   3  C060224192DFCE96  Pavel Machek (2011) <pavel@ucw.cz>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
+   2  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    3  C060224192DFCE96  Pavel Machek (2011) <pavel@ucw.cz>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  41633B9FE837F581  Mike Frysinger <vapier@gentoo.org>
+   3  EAE3C15E593117F6  Jean-Christophe PLAGNIOL-VILLARD <plagnioj@jcrosoft.com>
+   4  C060224192DFCE96  Pavel Machek (2011) <pavel@ucw.cz>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  362D16C8D693AF2A  Keith Packard (4096 bit RSA key) <keithp@keithp.com>
+   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   3  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   4  C060224192DFCE96  Pavel Machek (2011) <pavel@ucw.cz>
 

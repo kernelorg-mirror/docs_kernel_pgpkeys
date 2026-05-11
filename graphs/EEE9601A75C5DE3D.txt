@@ -1,19 +1,11 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  EEE9601A75C5DE3D  Martin K. Petersen <mkp@mkp.net>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  C0ADFFFAB1FB1C18  Andi Kleen <ak@linux.intel.com>
-   2  EEE9601A75C5DE3D  Martin K. Petersen <mkp@mkp.net>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
+   2  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    3  EEE9601A75C5DE3D  Martin K. Petersen <mkp@mkp.net>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
-   2  8A803CDD4F566C4A  Samuel Ortiz <sameo@linux.intel.com>
-   3  98E5DCC81647B72A  Lennert Buijtenhek <buytenh@wantstofly.org>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  41633B9FE837F581  Mike Frysinger <vapier@gentoo.org>
+   3  EAE3C15E593117F6  Jean-Christophe PLAGNIOL-VILLARD <plagnioj@jcrosoft.com>
    4  EEE9601A75C5DE3D  Martin K. Petersen <mkp@mkp.net>
 

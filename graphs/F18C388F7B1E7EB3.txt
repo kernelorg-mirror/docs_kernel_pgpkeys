@@ -1,4 +1,0 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  C93A8F10916BCA39  Jesse Sayer Barnes <jbarnes@virtuousgeek.org>
-   2  F18C388F7B1E7EB3  Bjorn Helgaas <bjorn@helgaas.com>
-

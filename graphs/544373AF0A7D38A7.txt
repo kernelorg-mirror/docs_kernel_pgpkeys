@@ -1,9 +1,4 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
-   2  D65016F35352AA40  Arnaldo Carvalho de Melo <acme@kernel.org>
-   3  544373AF0A7D38A7  David Ahern <dsahern@gmail.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
    2  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
    3  544373AF0A7D38A7  David Ahern <dsahern@gmail.com>

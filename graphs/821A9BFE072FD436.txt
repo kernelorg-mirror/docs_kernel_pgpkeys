@@ -1,11 +1,12 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
-   3  821A9BFE072FD436  Vincenzo Frascino <vincenzo.frascino@arm.com>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  C78FB10D0BBD2A4B  Paul Walmsley <pjw@kernel.org>
+   3  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
+   4  821A9BFE072FD436  Vincenzo Frascino <vincenzo.frascino@arm.com>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  17212997986C5765  Benson Leung <bleung@chromium.org>
-   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
    3  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
    4  821A9BFE072FD436  Vincenzo Frascino <vincenzo.frascino@arm.com>
 

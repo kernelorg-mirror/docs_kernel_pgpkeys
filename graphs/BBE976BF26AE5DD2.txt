@@ -1,17 +1,17 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
-   2  BBE976BF26AE5DD2  Martin Schwidefsky <schwidefsky@de.ibm.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
-   2  BBE976BF26AE5DD2  Martin Schwidefsky <schwidefsky@de.ibm.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  C0ADFFFAB1FB1C18  Andi Kleen <ak@linux.intel.com>
-   2  BBE976BF26AE5DD2  Martin Schwidefsky <schwidefsky@de.ibm.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  20D04E5A713660A7  Junio C Hamano <gitster@pobox.com>
-   2  8C1AE73CDE841C77  Olof Johansson <olof@lixom.net>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
    3  BBE976BF26AE5DD2  Martin Schwidefsky <schwidefsky@de.ibm.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  41633B9FE837F581  Mike Frysinger <vapier@gentoo.org>
+   3  EAE3C15E593117F6  Jean-Christophe PLAGNIOL-VILLARD <plagnioj@jcrosoft.com>
+   4  BBE976BF26AE5DD2  Martin Schwidefsky <schwidefsky@de.ibm.com>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  362D16C8D693AF2A  Keith Packard (4096 bit RSA key) <keithp@keithp.com>
+   2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
+   3  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   4  BBE976BF26AE5DD2  Martin Schwidefsky <schwidefsky@de.ibm.com>
 

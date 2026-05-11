@@ -4,7 +4,8 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  5A0312EB0C1DEAE3  Harry Yoo <harry@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  8BC68E994040912F  SeongJae Park <sjpark@amazon.de>
-   3  5A0312EB0C1DEAE3  Harry Yoo <harry@kernel.org>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   3  8BC68E994040912F  SeongJae Park <sjpark@amazon.de>
+   4  5A0312EB0C1DEAE3  Harry Yoo <harry@kernel.org>
 

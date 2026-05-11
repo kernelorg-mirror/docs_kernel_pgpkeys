@@ -4,9 +4,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  0B1F393F0D99ADC5  Bjorn Andersson <bjorn@kryo.se>
    4  D77E3FC0562560D6  Srinivas Kandagatla <srinivas.kandagatla@linaro.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  C93A8F10916BCA39  Jesse Sayer Barnes <jbarnes@virtuousgeek.org>
-   2  7CD1E6192FF9F435  Alex Elder <elder@linux.com>
-   3  51AF8A2F87FC7761  Lee Jones <lee.jones@linaro.org>
-   4  D77E3FC0562560D6  Srinivas Kandagatla <srinivas.kandagatla@linaro.org>
-

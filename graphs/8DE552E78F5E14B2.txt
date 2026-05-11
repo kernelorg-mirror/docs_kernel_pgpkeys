@@ -1,6 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
-   2  BBE976BF26AE5DD2  Martin Schwidefsky <schwidefsky@de.ibm.com>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
    3  127310D003E12B58  Ingo Molnar <mingo@kernel.org>
    4  8DE552E78F5E14B2  Oleg Nesterov <oleg@redhat.com>
 

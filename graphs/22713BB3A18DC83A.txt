@@ -4,9 +4,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  169AB7B1A4CFF8AE  Neil Armstrong <neil.armstrong@linaro.org>
    4  22713BB3A18DC83A  Bryan O'Donoghue <bod@nxsw.ie>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  AD5BE090C6AF2275  Benoit Cousson <bcousson@baylibre.com>
-   3  11A72EA01471D772  Bartosz Golaszewski <brgl@bgdev.pl>
-   4  22713BB3A18DC83A  Bryan O'Donoghue <bod@nxsw.ie>
-

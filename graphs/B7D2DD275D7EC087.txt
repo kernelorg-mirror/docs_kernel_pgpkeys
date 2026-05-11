@@ -1,18 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
-   2  8EF2103794CACC65  Avi Kivity <avi@scylladb.com>
-   3  E0D3C9EF07D2F8B4  Justin M. Forbes (kernel.org) <jforbes@kernel.org>
-   4  B7D2DD275D7EC087  Brian Masney <bmasney@redhat.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
    3  254BCFC56BF6CE8D  Maxime Ripard <maxime.ripard@anandra.org>
-   4  B7D2DD275D7EC087  Brian Masney <bmasney@redhat.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
-   2  D65016F35352AA40  Arnaldo Carvalho de Melo <acme@kernel.org>
-   3  13B55DD07C53B851  Clark Williams (Kernel Correspondence) <clrkwllms@kernel.org>
    4  B7D2DD275D7EC087  Brian Masney <bmasney@redhat.com>
 

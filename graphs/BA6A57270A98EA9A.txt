@@ -1,6 +1,0 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  15BC833443038D8C  Jan Kara <jack@suse.com>
-   3  52A00C47488094F2  Petr Mladek <pmladek@suse.com>
-   4  BA6A57270A98EA9A  Petr Pavlu <petr.pavlu@suse.com>
-

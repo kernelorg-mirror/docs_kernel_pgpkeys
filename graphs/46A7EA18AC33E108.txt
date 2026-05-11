@@ -4,9 +4,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  F87F7719344AB4EB  Darrick J. Wong (Portland) <djwong@djwong.org>
    4  46A7EA18AC33E108  Andrey Albershteyn (kernel.org) <aalbersh@redhat.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  C93A8F10916BCA39  Jesse Sayer Barnes <jbarnes@virtuousgeek.org>
-   2  7CD1E6192FF9F435  Alex Elder <elder@linux.com>
-   3  20AE1692E13DDEE0  Eric R. Sandeen <sandeen@sandeen.net>
-   4  46A7EA18AC33E108  Andrey Albershteyn (kernel.org) <aalbersh@redhat.com>
-

@@ -4,9 +4,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    4  9AFB7B8C9A5F5BBC  Heiko Stuebner <heiko@sntech.de>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
-   3  F045C2B96991256E  Laurent Pinchart <laurent.pinchart@ideasonboard.com>
-   4  9AFB7B8C9A5F5BBC  Heiko Stuebner <heiko@sntech.de>
-

@@ -4,9 +4,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  EF4CA1502CCBAB41  Palmer Dabbelt <palmer@dabbelt.com>
    4  395CD9C2DF844075  Viacheslav Dubeyko <slava@dubeyko.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  15BC833443038D8C  Jan Kara <jack@suse.com>
-   3  DC553250F8FE7407  Luis Chamberlain <mcgrof@kernel.org>
-   4  395CD9C2DF844075  Viacheslav Dubeyko <slava@dubeyko.com>
-

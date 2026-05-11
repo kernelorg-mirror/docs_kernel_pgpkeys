@@ -1,5 +1,0 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  C0ADFFFAB1FB1C18  Andi Kleen <ak@linux.intel.com>
-   2  077EA269D5B9D38C  Kirill A. Shutemov <kirill@shutemov.name>
-   3  A45ABA544CFFD434  Alexey Gladkov <legion@kernel.org>
-

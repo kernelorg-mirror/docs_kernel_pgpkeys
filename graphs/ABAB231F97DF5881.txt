@@ -1,6 +1,0 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  733AD9848B744C5E  Benjamin Herrenschmidt <benh@kernel.crashing.org>
-   2  5E442088ED632E87  Tony Breeds (Signing Key) <tony@bakeyournoodle.com>
-   3  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
-   4  ABAB231F97DF5881  Tony Luck <tony.luck@intel.com>
-

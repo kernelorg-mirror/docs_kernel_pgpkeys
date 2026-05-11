@@ -12,9 +12,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
    3  6F8FF29FC7329261  Geoff Levand <geoff@infradead.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
-   2  BBE976BF26AE5DD2  Martin Schwidefsky <schwidefsky@de.ibm.com>
-   3  8C1AE73CDE841C77  Olof Johansson <olof@lixom.net>
-   4  6F8FF29FC7329261  Geoff Levand <geoff@infradead.org>
-

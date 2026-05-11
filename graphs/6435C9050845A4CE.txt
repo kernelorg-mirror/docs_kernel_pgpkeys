@@ -1,11 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  20D04E5A713660A7  Junio C Hamano <gitster@pobox.com>
-   2  8C1AE73CDE841C77  Olof Johansson <olof@lixom.net>
-   3  6435C9050845A4CE  Eric Van Hensbergen <ericvh@gmail.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  C0ADFFFAB1FB1C18  Andi Kleen <ak@linux.intel.com>
-   2  6CBA8A24391968FE  Miklos Szeredi <miklos@szeredi.hu>
-   3  1E7B4B632179E5B2  Jeffrey Mahoney <jeffm@suse.com>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
+   3  8C1AE73CDE841C77  Olof Johansson <olof@lixom.net>
    4  6435C9050845A4CE  Eric Van Hensbergen <ericvh@gmail.com>
 

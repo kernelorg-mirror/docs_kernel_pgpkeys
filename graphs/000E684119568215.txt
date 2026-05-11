@@ -1,4 +1,5 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  000E684119568215  Jeff Layton <jlayton@poochiereds.net>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   3  000E684119568215  Jeff Layton <jlayton@poochiereds.net>
 

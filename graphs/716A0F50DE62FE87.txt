@@ -1,6 +1,0 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
-   3  7CC6FC3344B247E2  Mel Gorman <mgorman@techsingularity.net>
-   4  716A0F50DE62FE87  Johannes Weiner <hannes@cmpxchg.org>
-

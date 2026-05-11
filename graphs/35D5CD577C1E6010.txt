@@ -3,9 +3,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
    3  35D5CD577C1E6010  Drew Fustini <fustini@kernel.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  C0ADFFFAB1FB1C18  Andi Kleen <ak@linux.intel.com>
-   2  46A3C53C3D727E07  Robert Love <robert.w.love@intel.com>
-   3  1ED2916A667D8802  Dan Williams (djbw) <dan.j.williams@intel.com>
-   4  35D5CD577C1E6010  Drew Fustini <fustini@kernel.org>
-

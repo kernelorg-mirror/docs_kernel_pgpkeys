@@ -1,11 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  51EBEA3CC8E1A580  Michael Ellerman <mpe@ellerman.id.au>
-   3  A6712C74F4876494  Madhavan Srinivasan <maddy@linux.ibm.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  733AD9848B744C5E  Benjamin Herrenschmidt <benh@kernel.crashing.org>
-   2  5E442088ED632E87  Tony Breeds (Signing Key) <tony@bakeyournoodle.com>
-   3  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   3  51EBEA3CC8E1A580  Michael Ellerman <mpe@ellerman.id.au>
    4  A6712C74F4876494  Madhavan Srinivasan <maddy@linux.ibm.com>
 

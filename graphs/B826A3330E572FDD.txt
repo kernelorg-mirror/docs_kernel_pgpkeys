@@ -1,6 +1,0 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  EEE9601A75C5DE3D  Martin K. Petersen <mkp@mkp.net>
-   3  8352E32F03C2DFEC  Bart Van Assche <bart.vanassche@sandisk.com>
-   4  B826A3330E572FDD  Doug Ledford <doug.ledford@hpe.com>
-

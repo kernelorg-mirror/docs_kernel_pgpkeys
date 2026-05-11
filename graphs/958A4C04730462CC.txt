@@ -10,9 +10,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    3  171B27A8ED7F924E  Geoff Levand <geoff@infradead.org>
    4  958A4C04730462CC  Moritz Fischer <moritz@pure-entropy.org>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
-   3  0A120DD923EEDD5F  Julia J. Cartwright (Julia Cartwright) <juliac@eso.teric.us>
-   4  958A4C04730462CC  Moritz Fischer <moritz@pure-entropy.org>
-

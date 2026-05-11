@@ -5,12 +5,6 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    4  39CFD4755FE2D5B4  Sudeep Holla <sudeep.holla@kernel.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
-   3  828B39A6A2D1367F  Lorenzo Pieralisi <lorenzo.pieralisi@linaro.org>
-   4  39CFD4755FE2D5B4  Sudeep Holla <sudeep.holla@kernel.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
    2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
    3  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>

@@ -1,5 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
-   3  DE09826778A38521  Tom Zanussi <tom.zanussi@linux.intel.com>
+   1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+   2  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   3  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
+   4  DE09826778A38521  Tom Zanussi <tom.zanussi@linux.intel.com>
 

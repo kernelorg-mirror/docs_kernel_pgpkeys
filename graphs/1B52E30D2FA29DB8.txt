@@ -1,6 +1,0 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
-   3  7E15100CCD3669B1  Paolo Bonzini <bonzini@gnu.org>
-   4  1B52E30D2FA29DB8  Radim Krčmář <radim@krcmar.dev>
-

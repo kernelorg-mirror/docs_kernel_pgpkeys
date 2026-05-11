@@ -1,10 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  2637F0CC00B67682  Ralf Baechle <ralf@linux-mips.org>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
+   2  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    3  2637F0CC00B67682  Ralf Baechle <ralf@linux-mips.org>
 
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>

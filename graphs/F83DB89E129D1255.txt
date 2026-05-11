@@ -3,21 +3,3 @@ from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    2  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
    3  F83DB89E129D1255  Laura Abbott <laura@oxidecomputer.com>
 
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
-   2  8EF2103794CACC65  Avi Kivity <avi@scylladb.com>
-   3  E0D3C9EF07D2F8B4  Justin M. Forbes (kernel.org) <jforbes@kernel.org>
-   4  F83DB89E129D1255  Laura Abbott <laura@oxidecomputer.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  20D04E5A713660A7  Junio C Hamano <gitster@pobox.com>
-   2  8C1AE73CDE841C77  Olof Johansson <olof@lixom.net>
-   3  52A205B1F1D915D5  Andy Gross <andy.gross@linaro.org>
-   4  F83DB89E129D1255  Laura Abbott <laura@oxidecomputer.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
-   3  DF7B9865F1496248  Mark Rutland <mark@kernel.org>
-   4  F83DB89E129D1255  Laura Abbott <laura@oxidecomputer.com>
-

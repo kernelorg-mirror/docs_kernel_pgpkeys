@@ -1,6 +1,0 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
-   2  BBE976BF26AE5DD2  Martin Schwidefsky <schwidefsky@de.ibm.com>
-   3  117BBC80B5A61C7C  Christian Borntraeger (2nd IBM address) <borntraeger@linux.ibm.com>
-   4  467C8ED2716A93D7  Vasily Gorbik <gor@linux.ibm.com>
-

@@ -1,6 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-   2  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
-   3  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
+   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
+   3  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
    4  7647E1A44BC0E4BA  Peter Zijlstra <peterz@infradead.org>
 

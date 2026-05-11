@@ -1,6 +1,0 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
-   3  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
-   4  2E3338786EAB4D8B  Anna-Maria Behnsen <anna-maria@linutronix.de>
-

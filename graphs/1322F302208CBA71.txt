@@ -1,6 +1,0 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
-   3  EB37F6CFEB8352CE  James Morse <james.morse@arm.com>
-   4  1322F302208CBA71  Cristian Marussi <cristian.marussi@arm.com>
-

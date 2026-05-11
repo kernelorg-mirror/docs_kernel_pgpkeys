@@ -1,6 +1,0 @@
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  C0ADFFFAB1FB1C18  Andi Kleen <ak@linux.intel.com>
-   2  6CBA8A24391968FE  Miklos Szeredi <miklos@szeredi.hu>
-   3  1E7B4B632179E5B2  Jeffrey Mahoney <jeffm@suse.com>
-   4  DA2003756DAA845E  Filipe David Borba Manana <fmanana@suse.com>
-
