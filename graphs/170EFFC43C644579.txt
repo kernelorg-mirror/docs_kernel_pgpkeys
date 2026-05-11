@@ -1,17 +1,6 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  07D0453A16B73617  Len Brown <lenb417@gmail.com>
    2  BBE976BF26AE5DD2  Martin Schwidefsky <schwidefsky@de.ibm.com>
-   3  170EFFC43C644579  Janosch Frank <frankja@linux.vnet.ibm.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
-   3  220EC3791B296EC2  Heiko Carstens <hca@linux.ibm.com>
-   4  170EFFC43C644579  Janosch Frank <frankja@linux.vnet.ibm.com>
-
-from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
-   2  7E15100CCD3669B1  Paolo Bonzini <bonzini@gnu.org>
    3  117BBC80B5A61C7C  Christian Borntraeger (2nd IBM address) <borntraeger@linux.ibm.com>
    4  170EFFC43C644579  Janosch Frank <frankja@linux.vnet.ibm.com>
 
