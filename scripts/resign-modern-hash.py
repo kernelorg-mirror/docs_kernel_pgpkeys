@@ -452,15 +452,14 @@ def _local_only_strong_uids(
     """List UID labels where the local keyring has an exportable strong cert
     by signer that's missing from the repo's copy of the key.
 
-    Only UIDs whose merged binding is 'strong' are considered: a strong cert
-    on a UID with a weak self-binding wouldn't be accepted by Sequoia
-    anyway, so there's no point forwarding it until the keyholder fixes
-    their own self-sigs.
+    Only UIDs whose merged latest cert is already 'strong' are
+    considered -- those are the propagation-gap case: the certifier
+    re-signed locally with a modern hash but the new sig hasn't made
+    it back to pgpkeys.git yet, so we just forward it. UIDs whose
+    merged latest is still weak get handled by the regular re-sign
+    path and don't belong here.
 
     Returns [] if local_entry is None or has nothing the repo lacks.
-    Used to detect the propagation-gap case: the certifier already
-    re-signed locally with a modern hash, but the new sig hasn't made
-    it back to pgpkeys.git yet.
     """
     if local_entry is None:
         return []
@@ -683,8 +682,14 @@ def _classify_uid_cert(
       'revoked_by_issuer'     -- certifier has revoked their certification
       'unsigned'              -- certifier has not signed this UID
       'skipped_<reason>'      -- UID is revoked / expired / invalid
-      'skipped_weak_binding'  -- UID's own self-sig uses a weak hash; resigning
-                                 it would be pointless (Sequoia still rejects it)
+
+    The hash of the keyholder's own self-binding plays no part here: a
+    third-party cert is a signature over (primary key, uid packet) with
+    the issuer's chosen hash, independent of how the keyholder bound
+    the UID to their own primary. Re-signing a UID whose self-binding
+    is still SHA-1 pre-stages a strong cert that becomes live the
+    moment the keyholder rebinds (see rebind-modern-hash.py) without
+    the certifier having to act again.
 
     cert_level is the gpg --default-cert-level integer (0..3), only
     meaningful for weak_* and strong statuses.
@@ -692,16 +697,6 @@ def _classify_uid_cert(
     skip = SKIP_VALIDITIES.get(uid.get("validity", ""))
     if skip:
         return (f"skipped_{skip}", None, None)
-
-    self_sigs = [
-        s for s in uid["sigs"]
-        if s["issuer_keyid"].upper() == primary_keyid.upper()
-        and s["sig_class"] in (EXPORTABLE_CERT_CLASSES | LOCAL_CERT_CLASSES)
-    ]
-    if self_sigs:
-        latest_self = max(self_sigs, key=lambda s: s["created"])
-        if latest_self["hash_id"] in WEAK_HASH_IDS:
-            return ("skipped_weak_binding", None, None)
 
     candidates = [
         s
