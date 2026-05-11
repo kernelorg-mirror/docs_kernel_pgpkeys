@@ -1,0 +1,6 @@
+__pycache__/
+
+# resign-modern-hash.py outputs
+resign-weak-keys.sh
+weak-keys.asc
+resigned-keys.asc
