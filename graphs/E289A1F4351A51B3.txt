@@ -1,4 +1,10 @@
 from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
+   3  254BCFC56BF6CE8D  Maxime Ripard <maxime.ripard@anandra.org>
+   4  E289A1F4351A51B3  Oleksij Rempel <linux@rempel-privat.de>
+
+from  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
    1  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
    2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
    3  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
