@@ -3,17 +3,18 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  526A3E2C6E4E387D  Jiří Pírko <jiri@resnulli.us>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  D7CF64696A374FBE  Simon Horman <horms@debian.org>
-   2  526A3E2C6E4E387D  Jiří Pírko <jiri@resnulli.us>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  A662F38F6BED6049  Jiri Kosina <jkosina@suse.com>
-   2  F66A512056077B3D  Jiri Olsa (Red Hat) <jolsa@redhat.com>
+   1  48E209A2B310E347  Michal Hocko (SUSE key) <mhocko@suse.cz>
+   2  FF98A38DA80834DA  Miroslav Benes <mbenes@suse.cz>
    3  526A3E2C6E4E387D  Jiří Pírko <jiri@resnulli.us>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  7EF4F96F2BE9962A  Dmitry Torokhov <dmitry.torokhov@gmail.com>
-   2  EAB99A773DAF6D3A  Alexei Starovoitov <alexei.starovoitov@gmail.com>
-   3  31466D6DFE5222BB  Jakub Kicinski <kubakici@wp.pl>
+   1  D7CF64696A374FBE  Simon Horman <horms@debian.org>
+   2  31466D6DFE5222BB  Jakub Kicinski <kubakici@wp.pl>
+   3  526A3E2C6E4E387D  Jiří Pírko <jiri@resnulli.us>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   2  C523F10A2D9D035A  Mike Snitzer <snitzer@kernel.org>
+   3  D9B0577BD93E98FC  Milan Broz <gmazyland@gmail.com>
    4  526A3E2C6E4E387D  Jiří Pírko <jiri@resnulli.us>
 
