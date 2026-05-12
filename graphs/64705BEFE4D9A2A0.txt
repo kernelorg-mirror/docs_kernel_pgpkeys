@@ -9,14 +9,14 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  64705BEFE4D9A2A0  Patrik Flykt <patrik.flykt@linux.intel.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
-   2  15BC833443038D8C  Jan Kara <jack@suse.com>
-   3  29887E377DC2A2B4  Artem Bityutskiy <dedekind1@gmail.com>
-   4  64705BEFE4D9A2A0  Patrik Flykt <patrik.flykt@linux.intel.com>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
    3  9024244F95CE9E27  Luiz Augusto von Dentz <luiz.dentz@gmail.com>
+   4  64705BEFE4D9A2A0  Patrik Flykt <patrik.flykt@linux.intel.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
+   2  15BC833443038D8C  Jan Kara <jack@suse.com>
+   3  29887E377DC2A2B4  Artem Bityutskiy <dedekind1@gmail.com>
    4  64705BEFE4D9A2A0  Patrik Flykt <patrik.flykt@linux.intel.com>
 

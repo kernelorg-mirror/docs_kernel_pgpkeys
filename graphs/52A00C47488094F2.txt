@@ -3,13 +3,13 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  52A00C47488094F2  Petr Mladek <pmladek@suse.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
-   2  15BC833443038D8C  Jan Kara <jack@suse.com>
+   1  48E209A2B310E347  Michal Hocko (SUSE key) <mhocko@suse.cz>
+   2  1E7B4B632179E5B2  Jeffrey Mahoney <jeffm@suse.com>
    3  52A00C47488094F2  Petr Mladek <pmladek@suse.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  48E209A2B310E347  Michal Hocko (SUSE key) <mhocko@suse.cz>
-   2  1E7B4B632179E5B2  Jeffrey Mahoney <jeffm@suse.com>
+   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
+   2  15BC833443038D8C  Jan Kara <jack@suse.com>
    3  52A00C47488094F2  Petr Mladek <pmladek@suse.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>

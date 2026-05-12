@@ -12,7 +12,7 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  80D8961BAF5C7999  Kristen Carlson Accardi <kaccardi@gmail.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
+   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
    2  07D0453A16B73617  Len Brown <lenb417@gmail.com>
    3  80D8961BAF5C7999  Kristen Carlson Accardi <kaccardi@gmail.com>
 

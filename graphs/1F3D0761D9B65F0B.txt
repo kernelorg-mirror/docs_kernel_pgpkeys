@@ -1,5 +1,5 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
+   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
    2  15BC833443038D8C  Jan Kara <jack@suse.com>
    3  1F3D0761D9B65F0B  Martin Mares <mj@ucw.cz>
 

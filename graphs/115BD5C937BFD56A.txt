@@ -1,10 +1,10 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
-   2  15BC833443038D8C  Jan Kara <jack@suse.com>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  000E684119568215  Jeff Layton <jlayton@poochiereds.net>
    3  115BD5C937BFD56A  Amir Goldstein <amir73il@gmail.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  000E684119568215  Jeff Layton <jlayton@poochiereds.net>
+   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
+   2  15BC833443038D8C  Jan Kara <jack@suse.com>
    3  115BD5C937BFD56A  Amir Goldstein <amir73il@gmail.com>
 

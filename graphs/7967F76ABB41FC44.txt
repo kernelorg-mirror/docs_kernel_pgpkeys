@@ -4,8 +4,8 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  7967F76ABB41FC44  Namhyung Kim <namhyung@kernel.org>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
-   2  08250084639D2D16  John Kacur <jkacur@redhat.com>
+   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
+   2  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
    3  D65016F35352AA40  Arnaldo Carvalho de Melo <acme@kernel.org>
    4  7967F76ABB41FC44  Namhyung Kim <namhyung@kernel.org>
 

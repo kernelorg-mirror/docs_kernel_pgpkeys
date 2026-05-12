@@ -12,8 +12,8 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  C565D5F9D76D583B  David Sterba <dsterba@suse.cz>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
-   2  2BF0442D97011AE3  Joerg Roedel (SUSE Work Email Address) <jroedel@suse.de>
-   3  DA2003756DAA845E  Filipe David Borba Manana <fmanana@suse.com>
+   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
+   2  6CBA8A24391968FE  Miklos Szeredi <miklos@szeredi.hu>
+   3  1E7B4B632179E5B2  Jeffrey Mahoney <jeffm@suse.com>
    4  C565D5F9D76D583B  David Sterba <dsterba@suse.cz>
 

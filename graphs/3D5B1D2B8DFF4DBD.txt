@@ -7,7 +7,7 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  3D5B1D2B8DFF4DBD  Wey-Yi Guy (iwlwifi) <wey-yi.w.guy@intel.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
+   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
    2  C0ADFFFAB1FB1C18  Andi Kleen <ak@linux.intel.com>
    3  3D5B1D2B8DFF4DBD  Wey-Yi Guy (iwlwifi) <wey-yi.w.guy@intel.com>
 

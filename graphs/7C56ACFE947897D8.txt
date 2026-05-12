@@ -3,14 +3,15 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  79BE3E4300411886  Linus Torvalds <torvalds@linux-foundation.org>
-   2  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
    2  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
+   2  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
+   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
+   3  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
 

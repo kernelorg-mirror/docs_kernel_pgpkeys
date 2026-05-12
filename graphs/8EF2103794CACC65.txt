@@ -3,14 +3,14 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  8EF2103794CACC65  Avi Kivity <avi@scylladb.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
+   2  8EF2103794CACC65  Avi Kivity <avi@scylladb.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
    2  8EF2103794CACC65  Avi Kivity <avi@scylladb.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
-   2  8EF2103794CACC65  Avi Kivity <avi@scylladb.com>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
    2  8EF2103794CACC65  Avi Kivity <avi@scylladb.com>
 

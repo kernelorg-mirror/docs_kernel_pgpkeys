@@ -1,6 +1,6 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
-   2  7E15100CCD3669B1  Paolo Bonzini <bonzini@gnu.org>
+   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
+   2  BBE976BF26AE5DD2  Martin Schwidefsky <schwidefsky@de.ibm.com>
    3  117BBC80B5A61C7C  Christian Borntraeger (2nd IBM address) <borntraeger@linux.ibm.com>
    4  DECF6B93C6F02FAF  Cornelia Huck <conny@cornelia-huck.de>
 

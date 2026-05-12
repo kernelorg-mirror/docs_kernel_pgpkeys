@@ -3,3 +3,9 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  13B55DD07C53B851  Clark Williams (Kernel Correspondence) <clrkwllms@kernel.org>
    3  6374F0D2C06E1700  Daniel Bristot de Oliveira <bristot@kernel.org>
 
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
+   2  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
+   3  D65016F35352AA40  Arnaldo Carvalho de Melo <acme@kernel.org>
+   4  6374F0D2C06E1700  Daniel Bristot de Oliveira <bristot@kernel.org>
+

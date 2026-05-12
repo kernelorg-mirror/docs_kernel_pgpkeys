@@ -4,7 +4,7 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  D8691BE378ACBBBE  Magnus Lindholm <linmag7@gmail.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  1BD43EC95CABA573  Tony Lindgren <tony@atomide.com>
+   1  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
    2  7341619ED337160C  Chris Ball <chris@printf.net>
    3  0FDD682D974CA72A  Matt Turner <mattst88@gmail.com>
    4  D8691BE378ACBBBE  Magnus Lindholm <linmag7@gmail.com>

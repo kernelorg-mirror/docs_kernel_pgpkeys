@@ -12,8 +12,8 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  DA2003756DAA845E  Filipe David Borba Manana <fmanana@suse.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  BD25B10406B47049  Jiri Slaby <jirislaby@gmail.com>
-   2  52A00C47488094F2  Petr Mladek <pmladek@suse.com>
-   3  C565D5F9D76D583B  David Sterba <dsterba@suse.cz>
+   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
+   2  6CBA8A24391968FE  Miklos Szeredi <miklos@szeredi.hu>
+   3  1E7B4B632179E5B2  Jeffrey Mahoney <jeffm@suse.com>
    4  DA2003756DAA845E  Filipe David Borba Manana <fmanana@suse.com>
 

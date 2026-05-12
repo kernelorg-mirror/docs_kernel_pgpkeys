@@ -1,4 +1,8 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
+   2  C0ADFFFAB1FB1C18  Andi Kleen <ak@linux.intel.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
    2  C0ADFFFAB1FB1C18  Andi Kleen <ak@linux.intel.com>
 
@@ -9,9 +13,4 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
    2  C0ADFFFAB1FB1C18  Andi Kleen <ak@linux.intel.com>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
-   2  15BC833443038D8C  Jan Kara <jack@suse.com>
-   3  C0ADFFFAB1FB1C18  Andi Kleen <ak@linux.intel.com>
 
