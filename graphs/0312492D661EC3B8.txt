@@ -1,8 +1,4 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   2  0312492D661EC3B8  Tobin C. Harding (kernel dev) <tobin@kernel.org>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
    2  51EBEA3CC8E1A580  Michael Ellerman <mpe@ellerman.id.au>
    3  0312492D661EC3B8  Tobin C. Harding (kernel dev) <tobin@kernel.org>

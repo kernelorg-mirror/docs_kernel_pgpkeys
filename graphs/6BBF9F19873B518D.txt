@@ -7,8 +7,3 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
    3  6BBF9F19873B518D  Luis de Bethencourt (luisbg) <luis@debethencourt.com>
 
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  D7CF64696A374FBE  Simon Horman <horms@debian.org>
-   2  A65940A576719983  Stefan Schmidt <stefan@datenfreihafen.org>
-   3  6BBF9F19873B518D  Luis de Bethencourt (luisbg) <luis@debethencourt.com>
-
