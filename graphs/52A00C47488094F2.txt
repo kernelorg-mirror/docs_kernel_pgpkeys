@@ -13,7 +13,7 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  52A00C47488094F2  Petr Mladek <pmladek@suse.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  A662F38F6BED6049  Jiri Kosina <jkosina@suse.com>
-   2  C565D5F9D76D583B  David Sterba <dsterba@suse.cz>
+   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
+   2  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
    3  52A00C47488094F2  Petr Mladek <pmladek@suse.com>
 

@@ -3,12 +3,12 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  F4554567B91DE934  Michal Kubecek <mkubecek@suse.cz>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  48E209A2B310E347  Michal Hocko (SUSE key) <mhocko@suse.cz>
-   2  FF98A38DA80834DA  Miroslav Benes <mbenes@suse.cz>
+   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
+   2  15BC833443038D8C  Jan Kara <jack@suse.com>
    3  F4554567B91DE934  Michal Kubecek <mkubecek@suse.cz>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
-   2  15BC833443038D8C  Jan Kara <jack@suse.com>
+   1  BD25B10406B47049  Jiri Slaby <jirislaby@gmail.com>
+   2  FF98A38DA80834DA  Miroslav Benes <mbenes@suse.cz>
    3  F4554567B91DE934  Michal Kubecek <mkubecek@suse.cz>
 

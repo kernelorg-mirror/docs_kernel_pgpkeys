@@ -3,12 +3,13 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  BA6A57270A98EA9A  Petr Pavlu <petr.pavlu@suse.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  48E209A2B310E347  Michal Hocko (SUSE key) <mhocko@suse.cz>
-   2  FF98A38DA80834DA  Miroslav Benes <mbenes@suse.cz>
-   3  BA6A57270A98EA9A  Petr Pavlu <petr.pavlu@suse.com>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  BD25B10406B47049  Jiri Slaby <jirislaby@gmail.com>
    2  52A00C47488094F2  Petr Mladek <pmladek@suse.com>
    3  BA6A57270A98EA9A  Petr Pavlu <petr.pavlu@suse.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
+   2  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
+   3  FF98A38DA80834DA  Miroslav Benes <mbenes@suse.cz>
+   4  BA6A57270A98EA9A  Petr Pavlu <petr.pavlu@suse.com>
 

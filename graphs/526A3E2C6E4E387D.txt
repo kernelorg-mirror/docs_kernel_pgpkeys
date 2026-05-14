@@ -3,7 +3,7 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  526A3E2C6E4E387D  Jiří Pírko <jiri@resnulli.us>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  48E209A2B310E347  Michal Hocko (SUSE key) <mhocko@suse.cz>
+   1  BD25B10406B47049  Jiri Slaby <jirislaby@gmail.com>
    2  FF98A38DA80834DA  Miroslav Benes <mbenes@suse.cz>
    3  526A3E2C6E4E387D  Jiří Pírko <jiri@resnulli.us>
 
