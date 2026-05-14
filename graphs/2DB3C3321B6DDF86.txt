@@ -11,7 +11,7 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  2DB3C3321B6DDF86  H. Peter Anvin (signature key) <hpa@zytor.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
+   1  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
    2  E63EDCA9329DD07E  Konstantin Ryabitsev <mricon@kernel.org>
    3  2DB3C3321B6DDF86  H. Peter Anvin (signature key) <hpa@zytor.com>
 

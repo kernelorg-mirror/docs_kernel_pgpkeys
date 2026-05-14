@@ -7,11 +7,10 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
+   1  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
    2  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
-   3  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
+   1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
+   2  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
 
