@@ -8,3 +8,9 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  7C14070F25238347  Vinod Koul <vkoul@kernel.org>
    3  7FD9647FC7983F95  Jassi Brar <jaswinder.singh@linaro.org>
 
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  377C7F21FE3D1F91  Michal Simek <monstr@monstr.eu>
+   2  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
+   3  B54856CABE12232B  William Breathitt Gray <william.gray@ishicorp.com>
+   4  7FD9647FC7983F95  Jassi Brar <jaswinder.singh@linaro.org>
+

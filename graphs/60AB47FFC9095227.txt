@@ -6,3 +6,8 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    1  A6CD9F096F642CB3  Alexandre Belloni <alexandre.belloni@piout.net>
    2  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
 
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  377C7F21FE3D1F91  Michal Simek <monstr@monstr.eu>
+   2  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
+   3  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
+

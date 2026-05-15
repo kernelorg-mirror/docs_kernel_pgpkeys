@@ -1,15 +1,6 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  6BD6B12D00C85EF1  Catalin Marinas <catalin.marinas@arm.com>
-   2  828B39A6A2D1367F  Lorenzo Pieralisi <lorenzo.pieralisi@linaro.org>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  1BD43EC95CABA573  Tony Lindgren <tony@atomide.com>
-   2  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
-   3  828B39A6A2D1367F  Lorenzo Pieralisi <lorenzo.pieralisi@linaro.org>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
-   2  DF7B9865F1496248  Mark Rutland <mark@kernel.org>
+   1  377C7F21FE3D1F91  Michal Simek <monstr@monstr.eu>
+   2  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
    3  828B39A6A2D1367F  Lorenzo Pieralisi <lorenzo.pieralisi@linaro.org>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>

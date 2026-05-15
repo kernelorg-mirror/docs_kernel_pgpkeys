@@ -13,7 +13,7 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
-   2  11A72EA01471D772  Bartosz Golaszewski <brgl@bgdev.pl>
+   1  4804B4BC3F55EEFB  Geert Uytterhoeven <geert@linux-m68k.org>
+   2  05FE503E47DDDE57  Andreas Larsson <andreas@gaisler.com>
    3  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
 

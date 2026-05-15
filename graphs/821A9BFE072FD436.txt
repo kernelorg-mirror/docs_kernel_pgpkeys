@@ -13,8 +13,8 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  821A9BFE072FD436  Vincenzo Frascino <vincenzo.frascino@arm.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  3A8F3B2F5A7C9849  Michael Turquette <mturquette@baylibre.com>
-   2  39CFD4755FE2D5B4  Sudeep Holla <sudeep.holla@kernel.org>
+   1  377C7F21FE3D1F91  Michal Simek <monstr@monstr.eu>
+   2  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
    3  828B39A6A2D1367F  Lorenzo Pieralisi <lorenzo.pieralisi@linaro.org>
    4  821A9BFE072FD436  Vincenzo Frascino <vincenzo.frascino@arm.com>
 

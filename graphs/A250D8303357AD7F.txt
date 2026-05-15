@@ -4,12 +4,13 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  A250D8303357AD7F  Kris Chaplin <kris@linux.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  3A8F3B2F5A7C9849  Michael Turquette <mturquette@baylibre.com>
-   2  169AB7B1A4CFF8AE  Neil Armstrong <neil.armstrong@linaro.org>
+   1  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+   2  11A72EA01471D772  Bartosz Golaszewski <brgl@bgdev.pl>
    3  A250D8303357AD7F  Kris Chaplin <kris@linux.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
-   2  11A72EA01471D772  Bartosz Golaszewski <brgl@bgdev.pl>
-   3  A250D8303357AD7F  Kris Chaplin <kris@linux.com>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
+   3  169AB7B1A4CFF8AE  Neil Armstrong <neil.armstrong@linaro.org>
+   4  A250D8303357AD7F  Kris Chaplin <kris@linux.com>
 

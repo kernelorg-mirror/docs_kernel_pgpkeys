@@ -1,13 +1,9 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
-   2  11A72EA01471D772  Bartosz Golaszewski <brgl@bgdev.pl>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
    2  11A72EA01471D772  Bartosz Golaszewski <brgl@bgdev.pl>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  1BD43EC95CABA573  Tony Lindgren <tony@atomide.com>
-   2  AD5BE090C6AF2275  Benoit Cousson <bcousson@baylibre.com>
+   1  377C7F21FE3D1F91  Michal Simek <monstr@monstr.eu>
+   2  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
    3  11A72EA01471D772  Bartosz Golaszewski <brgl@bgdev.pl>
 

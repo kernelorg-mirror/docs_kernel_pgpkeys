@@ -3,14 +3,15 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  C3C92AAF3E60AED9  Jerome Brunet <jbrunet@baylibre.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  3A8F3B2F5A7C9849  Michael Turquette <mturquette@baylibre.com>
-   2  169AB7B1A4CFF8AE  Neil Armstrong <neil.armstrong@linaro.org>
-   3  C3C92AAF3E60AED9  Jerome Brunet <jbrunet@baylibre.com>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  F045C2B96991256E  Laurent Pinchart <laurent.pinchart@ideasonboard.com>
    2  570338B018144F28  Mattijs Korpershoek <mkorpershoek@kernel.org>
    3  C3C92AAF3E60AED9  Jerome Brunet <jbrunet@baylibre.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
+   2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
+   3  169AB7B1A4CFF8AE  Neil Armstrong <neil.armstrong@linaro.org>
+   4  C3C92AAF3E60AED9  Jerome Brunet <jbrunet@baylibre.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  2DFBF4523E542FD9  Will Deacon <will@kernel.org>

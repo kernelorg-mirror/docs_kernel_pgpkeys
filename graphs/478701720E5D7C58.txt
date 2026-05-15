@@ -4,13 +4,7 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  478701720E5D7C58  Konrad Dybcio <konradybcio@gmail.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
+   1  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
    2  11A72EA01471D772  Bartosz Golaszewski <brgl@bgdev.pl>
    3  478701720E5D7C58  Konrad Dybcio <konradybcio@gmail.com>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  3A8F3B2F5A7C9849  Michael Turquette <mturquette@baylibre.com>
-   2  169AB7B1A4CFF8AE  Neil Armstrong <neil.armstrong@linaro.org>
-   3  22713BB3A18DC83A  Bryan O'Donoghue <bod@nxsw.ie>
-   4  478701720E5D7C58  Konrad Dybcio <konradybcio@gmail.com>
 

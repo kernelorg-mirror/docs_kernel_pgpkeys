@@ -1,4 +1,9 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  377C7F21FE3D1F91  Michal Simek <monstr@monstr.eu>
+   2  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
+   3  3D200E9CA6329909  Adriaan (Ard) Biesheuvel <ard.biesheuvel@gmail.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  32247FBB40AD1FA6  Nobuhiro Iwamatsu <iwamatsu@kernel.org>
    2  7C56ACFE947897D8  Anibal Monsalve Salazar <anibal@debian.org>
    3  EC63699779074FA8  Ian Campbell <ijc@hellion.org.uk>

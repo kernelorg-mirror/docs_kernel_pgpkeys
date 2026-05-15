@@ -6,3 +6,9 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    1  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
    2  C5902F8F7A7362CD  Grant Likely <glikely@gmail.com>
 
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  377C7F21FE3D1F91  Michal Simek <monstr@monstr.eu>
+   2  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
+   3  3D200E9CA6329909  Adriaan (Ard) Biesheuvel <ard.biesheuvel@gmail.com>
+   4  C5902F8F7A7362CD  Grant Likely <glikely@gmail.com>
+
