@@ -4,6 +4,7 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
-   2  7FD9FCCB000BEEEE  Jim Meyering <jim@meyering.net>
-   3  82930ECB55BFCAE2  Nick Terrell <nickrterrell@gmail.com>
+   2  55E45A5AE8CA7C8A  Paul Moore <paul@paul-moore.com>
+   3  7FD9FCCB000BEEEE  Jim Meyering <jim@meyering.net>
+   4  82930ECB55BFCAE2  Nick Terrell <nickrterrell@gmail.com>
 

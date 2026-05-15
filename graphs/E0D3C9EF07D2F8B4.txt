@@ -1,19 +1,5 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
-   2  E0D3C9EF07D2F8B4  Justin M. Forbes (kernel.org) <jforbes@kernel.org>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
-   2  8EF2103794CACC65  Avi Kivity <avi@scylladb.com>
-   3  E0D3C9EF07D2F8B4  Justin M. Forbes (kernel.org) <jforbes@kernel.org>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>
-   2  B826A3330E572FDD  Doug Ledford <doug.ledford@hpe.com>
-   3  E0D3C9EF07D2F8B4  Justin M. Forbes (kernel.org) <jforbes@kernel.org>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  B2E894C953448A0C  Ohad Ben-Cohen <ohad@wizery.com>
-   2  C3503912AFBE8E67  Michael S. Tsirkin <mst@kernel.org>
+   2  55E45A5AE8CA7C8A  Paul Moore <paul@paul-moore.com>
    3  E0D3C9EF07D2F8B4  Justin M. Forbes (kernel.org) <jforbes@kernel.org>
 

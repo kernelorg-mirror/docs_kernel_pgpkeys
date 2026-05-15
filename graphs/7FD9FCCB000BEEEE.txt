@@ -1,19 +1,5 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
-   2  7FD9FCCB000BEEEE  Jim Meyering <jim@meyering.net>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  2F0B37F9CC8D8E16  Eugene Teo <eugeneteo@kernel.sg>
-   2  1E9A3B5F854083B6  Amit Shah <amit@amitshah.net>
-   3  7FD9FCCB000BEEEE  Jim Meyering <jim@meyering.net>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
-   2  8EF2103794CACC65  Avi Kivity <avi@scylladb.com>
-   3  7FD9FCCB000BEEEE  Jim Meyering <jim@meyering.net>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
-   2  397D82E0531A9C91  Jes Sorensen <Jes.Sorensen@gmail.com>
+   2  55E45A5AE8CA7C8A  Paul Moore <paul@paul-moore.com>
    3  7FD9FCCB000BEEEE  Jim Meyering <jim@meyering.net>
 

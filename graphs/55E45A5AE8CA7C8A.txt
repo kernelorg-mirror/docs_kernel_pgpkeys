@@ -12,8 +12,3 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  8EF2103794CACC65  Avi Kivity <avi@scylladb.com>
    3  55E45A5AE8CA7C8A  Paul Moore <paul@paul-moore.com>
 
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  B2E894C953448A0C  Ohad Ben-Cohen <ohad@wizery.com>
-   2  C3503912AFBE8E67  Michael S. Tsirkin <mst@kernel.org>
-   3  55E45A5AE8CA7C8A  Paul Moore <paul@paul-moore.com>
-

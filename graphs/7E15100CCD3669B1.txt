@@ -12,8 +12,3 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  1E9A3B5F854083B6  Amit Shah <amit@amitshah.net>
    3  7E15100CCD3669B1  Paolo Bonzini <bonzini@gnu.org>
 
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  B2E894C953448A0C  Ohad Ben-Cohen <ohad@wizery.com>
-   2  C3503912AFBE8E67  Michael S. Tsirkin <mst@kernel.org>
-   3  7E15100CCD3669B1  Paolo Bonzini <bonzini@gnu.org>
-

@@ -3,3 +3,9 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  55E45A5AE8CA7C8A  Paul Moore <paul@paul-moore.com>
    3  0B5B94C2EA94E246  Mickaël Salaün <mic@digikod.net>
 
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  052F367018D5C3D8  John Johansen <john@jjmx.net>
+   2  D692003DAA02C70A  Tyler Hicks <tyhicks@tyhicks.net>
+   3  AD3F818B34FA35B7  Tyler Hicks <code@tyhicks.com>
+   4  0B5B94C2EA94E246  Mickaël Salaün <mic@digikod.net>
+
