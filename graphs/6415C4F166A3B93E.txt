@@ -1,9 +1,4 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
-   2  1ED2916A667D8802  Dan Williams (djbw) <dan.j.williams@intel.com>
-   3  6415C4F166A3B93E  Dave Jiang (Work) <dave.jiang@intel.com>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
    2  ABAB231F97DF5881  Tony Luck <tony.luck@intel.com>
    3  6415C4F166A3B93E  Dave Jiang (Work) <dave.jiang@intel.com>
@@ -12,6 +7,12 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    1  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
    2  7C14070F25238347  Vinod Koul <vkoul@kernel.org>
    3  6415C4F166A3B93E  Dave Jiang (Work) <dave.jiang@intel.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
+   2  E56FEF955A4BEDCE  Jeff Kirsher <jkirsher@lightfleet.com>
+   3  1ED2916A667D8802  Dan Williams (djbw) <dan.j.williams@intel.com>
+   4  6415C4F166A3B93E  Dave Jiang (Work) <dave.jiang@intel.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>

@@ -1,17 +1,5 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
-   2  54853499C4F41688  Jonathan Cameron (Personal email address) <jic23@jic23.retrosnub.co.uk>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  54853499C4F41688  Jonathan Cameron (Personal email address) <jic23@jic23.retrosnub.co.uk>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  FBB7576BA7CB0B6B  David Howells <dhowells@redhat.com>
-   2  54853499C4F41688  Jonathan Cameron (Personal email address) <jic23@jic23.retrosnub.co.uk>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  1BD43EC95CABA573  Tony Lindgren <tony@atomide.com>
-   2  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
+   1  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
+   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
    3  54853499C4F41688  Jonathan Cameron (Personal email address) <jic23@jic23.retrosnub.co.uk>
 

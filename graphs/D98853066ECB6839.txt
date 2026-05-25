@@ -3,11 +3,6 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  D98853066ECB6839  Zach Brown <zab@zabbo.net>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
-   2  1ED2916A667D8802  Dan Williams (djbw) <dan.j.williams@intel.com>
-   3  D98853066ECB6839  Zach Brown <zab@zabbo.net>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
    2  35D5CD577C1E6010  Drew Fustini <fustini@kernel.org>
    3  D98853066ECB6839  Zach Brown <zab@zabbo.net>
@@ -16,4 +11,10 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
    2  EEE9601A75C5DE3D  Martin K. Petersen <mkp@mkp.net>
    3  D98853066ECB6839  Zach Brown <zab@zabbo.net>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
+   2  E56FEF955A4BEDCE  Jeff Kirsher <jkirsher@lightfleet.com>
+   3  1ED2916A667D8802  Dan Williams (djbw) <dan.j.williams@intel.com>
+   4  D98853066ECB6839  Zach Brown <zab@zabbo.net>
 

@@ -1,10 +1,11 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
-   2  1ED2916A667D8802  Dan Williams (djbw) <dan.j.williams@intel.com>
+   2  A6A2316573C0A672  Jesse Brandeburg <jesse.brandeburg@gmail.com>
    3  237BCB3666CDC698  Tony Nguyen <anthony.l.nguyen@intel.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
-   2  A6A2316573C0A672  Jesse Brandeburg <jesse.brandeburg@gmail.com>
-   3  237BCB3666CDC698  Tony Nguyen <anthony.l.nguyen@intel.com>
+   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
+   2  E56FEF955A4BEDCE  Jeff Kirsher <jkirsher@lightfleet.com>
+   3  1ED2916A667D8802  Dan Williams (djbw) <dan.j.williams@intel.com>
+   4  237BCB3666CDC698  Tony Nguyen <anthony.l.nguyen@intel.com>
 

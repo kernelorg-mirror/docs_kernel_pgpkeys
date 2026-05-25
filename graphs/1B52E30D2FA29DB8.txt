@@ -8,8 +8,8 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  1B52E30D2FA29DB8  Radim Krčmář <radim@krcmar.dev>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  1BD43EC95CABA573  Tony Lindgren <tony@atomide.com>
-   2  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
+   1  2F0B37F9CC8D8E16  Eugene Teo <eugeneteo@kernel.sg>
+   2  1E9A3B5F854083B6  Amit Shah <amit@amitshah.net>
    3  7E15100CCD3669B1  Paolo Bonzini <bonzini@gnu.org>
    4  1B52E30D2FA29DB8  Radim Krčmář <radim@krcmar.dev>
 

@@ -4,8 +4,8 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  6CF98D11A2A3EB9F  Kuppuswamy Sathyanarayanan <sathyanarayanan.nkuppuswamy@gmail.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
-   2  1ED2916A667D8802  Dan Williams (djbw) <dan.j.williams@intel.com>
+   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   2  ABAB231F97DF5881  Tony Luck <tony.luck@intel.com>
    3  7AFA61BEA3B84DFF  Vishal Verma <vishal@stellar.sh>
    4  6CF98D11A2A3EB9F  Kuppuswamy Sathyanarayanan <sathyanarayanan.nkuppuswamy@gmail.com>
 
