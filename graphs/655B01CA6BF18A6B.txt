@@ -1,5 +1,5 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>
+   1  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
    2  6E17245526EB6D9B  Kalle Valo <kalle.valo@iki.fi>
    3  655B01CA6BF18A6B  Jeff Johnson <jeff.johnson@oss.qualcomm.com>
 

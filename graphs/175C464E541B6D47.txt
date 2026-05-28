@@ -4,6 +4,12 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  175C464E541B6D47  Brian Cain (OSS Qualcomm) <brian.cain@oss.qualcomm.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
+   2  6E17245526EB6D9B  Kalle Valo <kalle.valo@iki.fi>
+   3  655B01CA6BF18A6B  Jeff Johnson <jeff.johnson@oss.qualcomm.com>
+   4  175C464E541B6D47  Brian Cain (OSS Qualcomm) <brian.cain@oss.qualcomm.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
    2  0A120DD923EEDD5F  Julia J. Cartwright (Julia Cartwright) <juliac@eso.teric.us>
    3  77035451C19642DA  Richard Kuo <rkuo@codeaurora.org>
