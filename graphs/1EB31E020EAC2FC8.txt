@@ -5,7 +5,7 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
-   2  FE26842573588C29  Ulf Hansson <ulf.c.hansson@gmail.com>
+   2  FE26842573588C29  Ulf Hansson <ulfh@kernel.org>
    3  1EB31E020EAC2FC8  Eugen Hristev <ehristev@kernel.org>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
