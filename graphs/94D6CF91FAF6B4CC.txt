@@ -12,8 +12,3 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  F87F7719344AB4EB  Darrick J. Wong (Portland) <djwong@djwong.org>
    3  94D6CF91FAF6B4CC  Zirong Lang (alias Zorro) <zlang@kernel.org>
 
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  C73907936B7DF8FC  Coly Li <i@coly.li>
-   2  2652AA295C8FE763  Eryu Guan <guan@eryu.me>
-   3  94D6CF91FAF6B4CC  Zirong Lang (alias Zorro) <zlang@kernel.org>
-

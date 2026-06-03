@@ -1,0 +1,11 @@
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  4804B4BC3F55EEFB  Geert Uytterhoeven <geert@linux-m68k.org>
+   2  74263B37F5B5F913  John Paul Adrian Glaubitz (Freie Universitaet Berlin) <glaubitz@physik.fu-berlin.de>
+   3  35A3939FFC78776D  Breno Leitao <leitao@debian.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  BDA06085493BACE4  H. Peter Anvin (hpa) <hpa@zytor.com>
+   2  B0CB3F9FA2DE2552  Dave Jones <davej@redhat.com>
+   3  460EF99392319BC6  Kyle McMartin <kyle@mcmartin.ca>
+   4  35A3939FFC78776D  Breno Leitao <leitao@debian.org>
+
