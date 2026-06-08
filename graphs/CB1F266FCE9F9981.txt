@@ -1,15 +1,14 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  7EF4F96F2BE9962A  Dmitry Torokhov <dmitry.torokhov@gmail.com>
+   2  CB1F266FCE9F9981  Guenter Roeck (Linux account) <linux@roeck-us.net>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
    2  CB1F266FCE9F9981  Guenter Roeck (Linux account) <linux@roeck-us.net>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
-   3  CB1F266FCE9F9981  Guenter Roeck (Linux account) <linux@roeck-us.net>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  7EF4F96F2BE9962A  Dmitry Torokhov <dmitry.torokhov@gmail.com>
-   2  E67D96630E933C10  Micah Morton <mortonm@google.com>
    3  CB1F266FCE9F9981  Guenter Roeck (Linux account) <linux@roeck-us.net>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>

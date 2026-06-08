@@ -4,11 +4,11 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  6F8FF29FC7329261  Geoff Levand <geoff@infradead.org>
+   2  ABAB231F97DF5881  Tony Luck <tony.luck@intel.com>
    3  171B27A8ED7F924E  Geoff Levand <geoff@infradead.org>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
-   2  ABAB231F97DF5881  Tony Luck <tony.luck@intel.com>
+   2  6F8FF29FC7329261  Geoff Levand <geoff@infradead.org>
    3  171B27A8ED7F924E  Geoff Levand <geoff@infradead.org>
 
