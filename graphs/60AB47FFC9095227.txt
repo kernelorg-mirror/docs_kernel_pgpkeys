@@ -11,3 +11,8 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
    3  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
 
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
+   2  4E2415A9A1BD2F80  Greg Ungerer <gerg@snapgear.com>
+   3  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
+
