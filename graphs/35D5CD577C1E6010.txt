@@ -7,12 +7,11 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  35D5CD577C1E6010  Drew Fustini <fustini@kernel.org>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  A6CD9F096F642CB3  Alexandre Belloni <alexandre.belloni@piout.net>
-   2  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
-   3  35D5CD577C1E6010  Drew Fustini <fustini@kernel.org>
+   1  C94035C21B4F2AEB  Chen-Yu Tsai <wens@csie.org>
+   2  35D5CD577C1E6010  Drew Fustini <fustini@kernel.org>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  DC553250F8FE7407  Luis Chamberlain <mcgrof@kernel.org>
-   2  EF4CA1502CCBAB41  Palmer Dabbelt <palmer@dabbelt.com>
+   1  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+   2  920C0DBCAABEFD55  Yixun Lan <dlan@gentoo.org>
    3  35D5CD577C1E6010  Drew Fustini <fustini@kernel.org>
 
