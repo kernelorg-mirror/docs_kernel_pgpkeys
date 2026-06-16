@@ -4,6 +4,11 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  345DE8450DB7624C  Frank Li <frank.li@kernel.org>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  377C7F21FE3D1F91  Michal Simek <monstr@monstr.eu>
+   2  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
+   3  345DE8450DB7624C  Frank Li <frank.li@kernel.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
    2  EAE3C15E593117F6  Jean-Christophe PLAGNIOL-VILLARD <plagnioj@jcrosoft.com>
    3  4859298150D671BB  Peter Chen (Peter) <peter.chen@freescale.com>
