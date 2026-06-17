@@ -1,16 +1,9 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  1BD43EC95CABA573  Tony Lindgren <tony@atomide.com>
+   1  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
    2  8A803CDD4F566C4A  Samuel Ortiz <sameo@linux.intel.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
-   2  8A803CDD4F566C4A  Samuel Ortiz <sameo@linux.intel.com>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  8A803CDD4F566C4A  Samuel Ortiz <sameo@linux.intel.com>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  41DD4B18780D59C4  Arjan van de Ven (work related key) <arjan@linux.intel.com>
-   2  8A803CDD4F566C4A  Samuel Ortiz <sameo@linux.intel.com>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
+   3  8A803CDD4F566C4A  Samuel Ortiz <sameo@linux.intel.com>
 

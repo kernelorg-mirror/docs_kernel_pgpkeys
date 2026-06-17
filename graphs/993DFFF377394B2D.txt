@@ -9,7 +9,7 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  993DFFF377394B2D  Andriy Shevchenko <andriy.shevchenko@linux.intel.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  1BD43EC95CABA573  Tony Lindgren <tony@atomide.com>
+   1  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
    2  2423F6FBF9A8D412  Johan Hedberg <johan.hedberg@intel.com>
    3  58839FFB9893C549  Mathias Nyman <mathias.nyman@gmail.com>
    4  993DFFF377394B2D  Andriy Shevchenko <andriy.shevchenko@linux.intel.com>

@@ -3,12 +3,13 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  FE306739039FC024  Arman Uguray (Chromium) <armansito@chromium.org>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
-   2  06CA9F5D1DCF2659  Marcel Holtmann <marcel@holtmann.org>
-   3  FE306739039FC024  Arman Uguray (Chromium) <armansito@chromium.org>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
    2  8C1AE73CDE841C77  Olof Johansson <olof@lixom.net>
    3  FE306739039FC024  Arman Uguray (Chromium) <armansito@chromium.org>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
+   3  06CA9F5D1DCF2659  Marcel Holtmann <marcel@holtmann.org>
+   4  FE306739039FC024  Arman Uguray (Chromium) <armansito@chromium.org>
 

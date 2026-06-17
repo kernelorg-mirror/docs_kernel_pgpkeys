@@ -1,20 +1,5 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
-   2  06CA9F5D1DCF2659  Marcel Holtmann <marcel@holtmann.org>
-   3  9024244F95CE9E27  Luiz Augusto von Dentz <luiz.dentz@gmail.com>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  1BD43EC95CABA573  Tony Lindgren <tony@atomide.com>
-   2  2423F6FBF9A8D412  Johan Hedberg <johan.hedberg@intel.com>
-   3  9024244F95CE9E27  Luiz Augusto von Dentz <luiz.dentz@gmail.com>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
-   3  9024244F95CE9E27  Luiz Augusto von Dentz <luiz.dentz@gmail.com>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
-   2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
    3  9024244F95CE9E27  Luiz Augusto von Dentz <luiz.dentz@gmail.com>
 

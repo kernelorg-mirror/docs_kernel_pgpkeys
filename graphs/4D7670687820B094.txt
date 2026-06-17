@@ -3,13 +3,13 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  4D7670687820B094  Martyn Welch (Private) <martyn@welchs.me.uk>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
-   2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
+   1  A6CD9F096F642CB3  Alexandre Belloni <alexandre.belloni@piout.net>
+   2  D8EED7F3C83BFA9A  Sebastian Reichel <sre@ring0.de>
    3  4D7670687820B094  Martyn Welch (Private) <martyn@welchs.me.uk>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  A6CD9F096F642CB3  Alexandre Belloni <alexandre.belloni@piout.net>
-   2  D8EED7F3C83BFA9A  Sebastian Reichel <sre@ring0.de>
+   1  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
+   2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
    3  4D7670687820B094  Martyn Welch (Private) <martyn@welchs.me.uk>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>

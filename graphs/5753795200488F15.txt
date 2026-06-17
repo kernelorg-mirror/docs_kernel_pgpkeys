@@ -1,10 +1,10 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
-   2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
+   1  9AFB7B8C9A5F5BBC  Heiko Stuebner <heiko@sntech.de>
+   2  D9140BB2561302F1  Matthias Brugger <matthias.bgg@gmail.com>
    3  5753795200488F15  Enric Balletbo i Serra <enric.balletbo@collabora.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  9AFB7B8C9A5F5BBC  Heiko Stuebner <heiko@sntech.de>
-   2  D9140BB2561302F1  Matthias Brugger <matthias.bgg@gmail.com>
+   1  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
+   2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
    3  5753795200488F15  Enric Balletbo i Serra <enric.balletbo@collabora.com>
 

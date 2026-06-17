@@ -1,6 +1,6 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  109F098506FF0B14  Thomas Gleixner <tglx@linutronix.de>
-   2  06CA9F5D1DCF2659  Marcel Holtmann <marcel@holtmann.org>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
    3  29F7239293EF1A2C  Denis Kenzior <denkenz@gmail.com>
    4  142AECC9A1677277  Mat Martineau <mat@martineau.name>
 

@@ -9,12 +9,12 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  04B08C8F1524FAF8  Alexandre Courbot <gnurou@gmail.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
-   2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
+   1  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
+   2  085F3EBD8EE4E115  Mauro Carvalho Chehab <mauro.chehab@linux.intel.com>
    3  04B08C8F1524FAF8  Alexandre Courbot <gnurou@gmail.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  E0F373F37BF9099A  Johannes Berg <johannes@sipsolutions.net>
-   2  085F3EBD8EE4E115  Mauro Carvalho Chehab <mauro.chehab@linux.intel.com>
+   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
+   2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
    3  04B08C8F1524FAF8  Alexandre Courbot <gnurou@gmail.com>
 
