@@ -49,7 +49,7 @@ fi
 cd $WOTMATEDIR
 echo "Generating new exports"
 ./make-sqlitedb.py --gnupghome $GPGTMPHOME
-./export-keyring.py --gnupghome $GPGTMPHOME --gen-b4-keyring --fromkey 79BE3E4300411886 --outdir $PGPKEYSDIR
+./export-keyring.py --gnupghome $GPGTMPHOME --gen-b4-keyring --fromkey 38DBBDC86092693E --outdir $PGPKEYSDIR
 
 echo "Review the changes in $PGPKEYSDIR and commit if looks sane"
 # Don't leave gpg-agent running after we're done
