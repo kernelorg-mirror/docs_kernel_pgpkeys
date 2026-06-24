@@ -24,22 +24,19 @@ You can then `gpg --import 79BE3E4300411886.asc` into your keyring.
 Refreshing keys
 ---------------
 
-First, you should assign full trust to Linus's key::
+First, you should import Konstantin's certificate, as he currently signs the
+commits in this repository:
 
-    $ gpg --edit-key 79BE3E4300411886
-    gpg> trust
-    gpg> 4
-    gpg> q
-    $ gpg --check-trustdb
+    $ gpg --import keys/E63EDCA9329DD07E.asc
+    ...
 
 Now, copy the `scripts/korg-refresh-keys` script to your `~/bin` and
 edit it according to the instructions.
 
 That script will first verify that the latest commit to the repository
-is signed by a valid key (a key directly signed by you or Linus), and
-then will run a `merge-only` import -- meaning that it will ignore any
-*new* keys added to the git repository and will only refresh keys that
-you already have imported into your keyring.
+is correctly signed, and then will run a `merge-only` import -- meaning that it
+will ignore any *new* keys added to the git repository and will only refresh
+keys that you already have imported into your keyring.
 
 Make sure to run `chmod a+x ~/bin/korg-refresh-keys` after you are done.
 
