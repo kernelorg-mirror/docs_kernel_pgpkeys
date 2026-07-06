@@ -4,6 +4,12 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  64705BEFE4D9A2A0  Patrik Flykt <patrik.flykt@linux.intel.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+   2  993DFFF377394B2D  Andriy Shevchenko <andriy.shevchenko@linux.intel.com>
+   3  58839FFB9893C549  Mathias Nyman <mathias.nyman@gmail.com>
+   4  64705BEFE4D9A2A0  Patrik Flykt <patrik.flykt@linux.intel.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
    2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
    3  06CA9F5D1DCF2659  Marcel Holtmann <marcel@holtmann.org>

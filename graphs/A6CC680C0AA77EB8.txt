@@ -2,3 +2,8 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    1  EBC26CDB5A56DE73  Steven Rostedt (Der Hacker) <rostedt@goodmis.org>
    2  A6CC680C0AA77EB8  Darren Vincent Hart <dvhart@kernel.org>
 
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+   2  993DFFF377394B2D  Andriy Shevchenko <andriy.shevchenko@linux.intel.com>
+   3  A6CC680C0AA77EB8  Darren Vincent Hart <dvhart@kernel.org>
+

@@ -12,8 +12,8 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  A8A4E3BC5B7B28BE  Daniel Thompson <daniel@redfelineninja.org.uk>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
-   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
+   1  7C31E21A98D21E0D  Hans de Goede <hansg@kernel.org>
+   2  993DFFF377394B2D  Andriy Shevchenko <andriy.shevchenko@linux.intel.com>
    3  23D0D0BAD13D7A43  Marc Zyngier <maz@kernel.org>
    4  A8A4E3BC5B7B28BE  Daniel Thompson <daniel@redfelineninja.org.uk>
 
