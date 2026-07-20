@@ -8,7 +8,7 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
-   2  0B134119D94797F5  Greentime Hu (Ying-Han Hu) <greentime.hu@sifive.com>
+   2  0B134119D94797F5  Greentime Hu (Ying-Han Hu) <greentime@kernel.org>
    3  7E7F91E0323C69AF  Guo Ren <guoren@linux.alibaba.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>

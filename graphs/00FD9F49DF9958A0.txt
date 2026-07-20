@@ -1,22 +1,21 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  0B0244C40D0D431C  Shuah Khan <shuah@gonehiking.org>
    2  BF53AD52308AD4EC  Sakari Ailus <sakari.ailus@iki.fi>
-   3  00FD9F49DF9958A0  Mika Westerberg <mika.westerberg@iki.fi>
+   3  00FD9F49DF9958A0  Mika Westerberg <mika.westerberg@linux.intel.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+   2  993DFFF377394B2D  Andriy Shevchenko <andriy.shevchenko@linux.intel.com>
+   3  00FD9F49DF9958A0  Mika Westerberg <mika.westerberg@linux.intel.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  726C1CE741A7973F  Santosh Shilimkar <ssantosh@kernel.org>
    2  868EB2E035CAA444  Felipe Balbi <balbi@kernel.org>
-   3  00FD9F49DF9958A0  Mika Westerberg <mika.westerberg@iki.fi>
+   3  00FD9F49DF9958A0  Mika Westerberg <mika.westerberg@linux.intel.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  1BD43EC95CABA573  Tony Lindgren <tony@atomide.com>
-   2  2423F6FBF9A8D412  Johan Hedberg <johan.hedberg@intel.com>
-   3  58839FFB9893C549  Mathias Nyman <mathias.nyman@gmail.com>
-   4  00FD9F49DF9958A0  Mika Westerberg <mika.westerberg@iki.fi>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
-   3  993DFFF377394B2D  Andriy Shevchenko <andriy.shevchenko@linux.intel.com>
-   4  00FD9F49DF9958A0  Mika Westerberg <mika.westerberg@iki.fi>
+   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
+   2  15BC833443038D8C  Jan Kara <jack@suse.com>
+   3  29887E377DC2A2B4  Artem Bityutskiy <dedekind1@gmail.com>
+   4  00FD9F49DF9958A0  Mika Westerberg <mika.westerberg@linux.intel.com>
 

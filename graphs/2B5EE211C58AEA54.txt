@@ -11,7 +11,7 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
    2  C3EAC3DE9321D59B  Ahmad Fatoum <ahmad@a3f.at>
-   3  0BE9E3157A1E2C64  Michael Grzeschik <m.grzeschik@pengutronix.de>
+   3  0BE9E3157A1E2C64  Michael Grzeschik <grzeschik@puzzle.ch>
    4  2B5EE211C58AEA54  Marc Kleine-Budde <mkl@blackshift.org>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>

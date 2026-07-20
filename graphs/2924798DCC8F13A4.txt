@@ -6,6 +6,6 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
    2  3A554D033B37BCED  Jesper Dangaard Brouer (cloudflare) <jesper@cloudflare.com>
-   3  1A53BC68A06E022E  Lorenzo Bianconi <lorenzo.bianconi@redhat.com>
+   3  1A53BC68A06E022E  Lorenzo Bianconi <lorenzo@kernel.org>
    4  2924798DCC8F13A4  Paolo Abeni <paolo.abeni@gmail.com>
 

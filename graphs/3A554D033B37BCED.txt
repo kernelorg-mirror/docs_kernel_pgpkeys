@@ -11,9 +11,3 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  526A3E2C6E4E387D  Jiří Pírko <jiri@resnulli.us>
    3  3A554D033B37BCED  Jesper Dangaard Brouer (cloudflare) <jesper@cloudflare.com>
 
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
-   2  1B52E30D2FA29DB8  Radim Krčmář <radim@krcmar.dev>
-   3  1A53BC68A06E022E  Lorenzo Bianconi <lorenzo.bianconi@redhat.com>
-   4  3A554D033B37BCED  Jesper Dangaard Brouer (cloudflare) <jesper@cloudflare.com>
-

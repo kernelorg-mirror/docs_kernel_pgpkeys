@@ -1,14 +1,14 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
-   2  0B134119D94797F5  Greentime Hu (Ying-Han Hu) <greentime.hu@sifive.com>
+   2  0B134119D94797F5  Greentime Hu (Ying-Han Hu) <greentime@kernel.org>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
    2  60AB47FFC9095227  Arnd Bergmann <arnd@arndb.de>
-   3  0B134119D94797F5  Greentime Hu (Ying-Han Hu) <greentime.hu@sifive.com>
+   3  0B134119D94797F5  Greentime Hu (Ying-Han Hu) <greentime@kernel.org>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  517667E5996EE6AA  Gao Xiang <xiang@kernel.org>
    2  7E7F91E0323C69AF  Guo Ren <guoren@linux.alibaba.com>
-   3  0B134119D94797F5  Greentime Hu (Ying-Han Hu) <greentime.hu@sifive.com>
+   3  0B134119D94797F5  Greentime Hu (Ying-Han Hu) <greentime@kernel.org>
 

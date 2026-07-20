@@ -13,9 +13,3 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
    3  7091A8D9AD5FF600  Florian Westphal <fw@strlen.de>
 
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
-   2  1B52E30D2FA29DB8  Radim Krčmář <radim@krcmar.dev>
-   3  1A53BC68A06E022E  Lorenzo Bianconi <lorenzo.bianconi@redhat.com>
-   4  7091A8D9AD5FF600  Florian Westphal <fw@strlen.de>
-

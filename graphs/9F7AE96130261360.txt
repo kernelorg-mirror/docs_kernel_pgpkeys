@@ -1,11 +1,11 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  C1A460725B51CBCF  Andrea Arcangeli <aarcange@redhat.com>
    2  55E45A5AE8CA7C8A  Paul Moore <paul@paul-moore.com>
-   3  9F7AE96130261360  Fan Wu <wufan@kernel.org>
+   3  9F7AE96130261360  Fan Wu <wufan@linux.microsoft.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  052F367018D5C3D8  John Johansen <john@jjmx.net>
    2  D692003DAA02C70A  Tyler Hicks <tyhicks@tyhicks.net>
    3  AD3F818B34FA35B7  Tyler Hicks <code@tyhicks.com>
-   4  9F7AE96130261360  Fan Wu <wufan@kernel.org>
+   4  9F7AE96130261360  Fan Wu <wufan@linux.microsoft.com>
 
