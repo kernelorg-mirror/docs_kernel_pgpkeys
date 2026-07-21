@@ -1,9 +1,4 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  1BD43EC95CABA573  Tony Lindgren <tony@atomide.com>
-   2  AD5BE090C6AF2275  Benoit Cousson <bcousson@baylibre.com>
-   3  155B6D1FF55888FC  Tomasz Figa <tomasz.figa@gmail.com>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
    2  8C1AE73CDE841C77  Olof Johansson <olof@lixom.net>
    3  155B6D1FF55888FC  Tomasz Figa <tomasz.figa@gmail.com>
@@ -17,4 +12,10 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    1  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
    2  DF7B9865F1496248  Mark Rutland <mark@kernel.org>
    3  155B6D1FF55888FC  Tomasz Figa <tomasz.figa@gmail.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
+   2  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
+   3  AD5BE090C6AF2275  Benoit Cousson <bcousson@baylibre.com>
+   4  155B6D1FF55888FC  Tomasz Figa <tomasz.figa@gmail.com>
 

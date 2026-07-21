@@ -9,8 +9,8 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  653928BBBB2638F1  David A Cohen <dacohen@gmail.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
-   2  15BC833443038D8C  Jan Kara <jack@suse.com>
+   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   2  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
    3  29887E377DC2A2B4  Artem Bityutskiy <dedekind1@gmail.com>
    4  653928BBBB2638F1  David A Cohen <dacohen@gmail.com>
 

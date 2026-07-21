@@ -3,8 +3,8 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  2F3859C08D233D55  Matt Fleming <matt@codeblueprint.co.uk>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  C73907936B7DF8FC  Coly Li <i@coly.li>
-   2  0393969D2D760850  Johannes Thumshirn <jth@kernel.org>
+   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   2  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
    3  12C1F01861DE554A  Borislav Petkov (kernel devel key) <bp@alien8.de>
    4  2F3859C08D233D55  Matt Fleming <matt@codeblueprint.co.uk>
 

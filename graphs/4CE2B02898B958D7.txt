@@ -12,7 +12,8 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  4CE2B02898B958D7  Liam Girdwood (korg) <lgirdwood@gmail.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  1CE50A930818BA9C  Peter P Waskiewicz Jr (PJ) <peter.p.waskiewicz.jr@intel.com>
-   2  AD5BE090C6AF2275  Benoit Cousson <bcousson@baylibre.com>
-   3  4CE2B02898B958D7  Liam Girdwood (korg) <lgirdwood@gmail.com>
+   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   2  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
+   3  AD5BE090C6AF2275  Benoit Cousson <bcousson@baylibre.com>
+   4  4CE2B02898B958D7  Liam Girdwood (korg) <lgirdwood@gmail.com>
 
