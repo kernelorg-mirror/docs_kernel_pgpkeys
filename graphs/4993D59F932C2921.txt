@@ -5,6 +5,6 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
-   2  EEE9601A75C5DE3D  Martin K. Petersen <mkp@mkp.net>
+   2  EEE9601A75C5DE3D  Martin K. Petersen <mkp@kernel.org>
    3  4993D59F932C2921  Anand S. Jain <asj@u.nus.edu>
 

@@ -1,11 +1,11 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
    2  FE26842573588C29  Ulf Hansson <ulfh@kernel.org>
-   3  A6F6EDF275F5F215  Jens Wiklander <jens.wiklander@linaro.org>
+   3  A6F6EDF275F5F215  Jens Wiklander <jens.wiklander@oss.qualcomm.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  377C7F21FE3D1F91  Michal Simek <monstr@monstr.eu>
    2  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
    3  3D200E9CA6329909  Adriaan (Ard) Biesheuvel <ard.biesheuvel@gmail.com>
-   4  A6F6EDF275F5F215  Jens Wiklander <jens.wiklander@linaro.org>
+   4  A6F6EDF275F5F215  Jens Wiklander <jens.wiklander@oss.qualcomm.com>
 

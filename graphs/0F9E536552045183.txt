@@ -1,8 +1,8 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
-   2  0F9E536552045183  Christoph Hellwig <hch@kernel.org>
+   2  0F9E536552045183  Christoph Hellwig <hch@infradead.org>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
-   2  0F9E536552045183  Christoph Hellwig <hch@kernel.org>
+   2  0F9E536552045183  Christoph Hellwig <hch@infradead.org>
 
