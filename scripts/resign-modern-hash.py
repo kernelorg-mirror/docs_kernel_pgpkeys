@@ -1247,6 +1247,13 @@ def main() -> NoReturn:
             else "in pgpkeys.git and your local keyring"
         )
         print(f"All your certifications {scope} use modern hash algorithms.")
+        # An all-OK here was being read as "my key is fine", which this
+        # script never checks; point at the keyholder-side sibling.
+        print(
+            "\nThis only covers your signatures on other people's keys. To "
+            "check\nyour own key's self-signatures, run:\n"
+            f"  scripts/rebind-modern-hash.py --fpr {signer_fpr.upper()}"
+        )
         sys.exit(0)
 
     n_resign = sum(1 for _, _, k in action_keys if k == "resign")
