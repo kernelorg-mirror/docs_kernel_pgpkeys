@@ -3,9 +3,3 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  EAB99A773DAF6D3A  Alexei Starovoitov <alexei.starovoitov@gmail.com>
    3  80EF20021D46C59B  Kumar Kartikeya Dwivedi <memxor@gmail.com>
 
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
-   2  5AAFD93F5010D6E3  Martin KaFai Lau <martin.lau@linux.dev>
-   3  DDF3718FE37F3957  Daniel Borkmann <daniel@iogearbox.net>
-   4  80EF20021D46C59B  Kumar Kartikeya Dwivedi <memxor@gmail.com>
-
