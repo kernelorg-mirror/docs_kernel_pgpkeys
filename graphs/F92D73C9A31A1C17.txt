@@ -1,5 +1,5 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
+   1  80A77F6095CDE47E  Stephen Hemminger <stephen@networkplumber.org>
    2  F92D73C9A31A1C17  Mark Gross <markgross@kernel.org>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>

@@ -7,7 +7,7 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  51EBEA3CC8E1A580  Michael Ellerman <mpe@ellerman.id.au>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
+   1  80A77F6095CDE47E  Stephen Hemminger <stephen@networkplumber.org>
    2  733AD9848B744C5E  Benjamin Herrenschmidt <benh@kernel.crashing.org>
    3  51EBEA3CC8E1A580  Michael Ellerman <mpe@ellerman.id.au>
 

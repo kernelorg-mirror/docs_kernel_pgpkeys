@@ -8,7 +8,7 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  55E45A5AE8CA7C8A  Paul Moore <paul@paul-moore.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
+   1  80A77F6095CDE47E  Stephen Hemminger <stephen@networkplumber.org>
    2  8EF2103794CACC65  Avi Kivity <avi@scylladb.com>
    3  55E45A5AE8CA7C8A  Paul Moore <paul@paul-moore.com>
 

@@ -13,7 +13,7 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    4  A4CF801D7FA79D86  Chao Yu <chao@kernel.org>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  80A77F6095CDE47E  Stephen Hemminger (Microsoft corporate) <sthemmin@microsoft.com>
+   1  80A77F6095CDE47E  Stephen Hemminger <stephen@networkplumber.org>
    2  C7271D0A49B18BA7  Herbert Xu <herbert@gondor.apana.org.au>
    3  5D5CAB617DAA56C9  Bob Liu (Bob) <lliubbo@gmail.com>
    4  A4CF801D7FA79D86  Chao Yu <chao@kernel.org>

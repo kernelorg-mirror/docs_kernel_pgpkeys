@@ -6,3 +6,8 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    1  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
    2  ABAB231F97DF5881  Tony Luck <tony.luck@intel.com>
 
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   2  CD58A1B17ED033FA  Khalid Aziz <khalid@gonehiking.org>
+   3  ABAB231F97DF5881  Tony Luck <tony.luck@intel.com>
+
