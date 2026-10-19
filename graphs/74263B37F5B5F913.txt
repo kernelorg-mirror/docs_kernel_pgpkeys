@@ -12,7 +12,7 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  74263B37F5B5F913  John Paul Adrian Glaubitz (Freie Universitaet Berlin) <glaubitz@physik.fu-berlin.de>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
+   1  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
    2  4E2415A9A1BD2F80  Greg Ungerer <gerg@snapgear.com>
    3  8B5880AFAC0218C7  Geert Uytterhoeven (Signing key) <geert@linux-m68k.org>
    4  74263B37F5B5F913  John Paul Adrian Glaubitz (Freie Universitaet Berlin) <glaubitz@physik.fu-berlin.de>

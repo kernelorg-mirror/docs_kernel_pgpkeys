@@ -1,11 +1,11 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  000E684119568215  Jeff Layton <jlayton@poochiereds.net>
+   1  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
+   2  EEE9601A75C5DE3D  Martin K. Petersen <mkp@kernel.org>
    3  336AB3336F667F97  Chuck Lever <cel@kernel.org>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
-   2  EEE9601A75C5DE3D  Martin K. Petersen <mkp@kernel.org>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  000E684119568215  Jeff Layton <jlayton@poochiereds.net>
    3  336AB3336F667F97  Chuck Lever <cel@kernel.org>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>

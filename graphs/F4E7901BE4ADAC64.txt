@@ -11,6 +11,6 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  F4E7901BE4ADAC64  Russell King <rmk@armlinux.org.uk>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
+   1  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
    2  F4E7901BE4ADAC64  Russell King <rmk@armlinux.org.uk>
 

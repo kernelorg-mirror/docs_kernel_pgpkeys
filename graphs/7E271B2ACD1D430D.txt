@@ -4,13 +4,13 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  7E271B2ACD1D430D  Puranjay Mohan <puranjay@kernel.org>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  8BC68E994040912F  SeongJae Park <sjpark@amazon.de>
+   1  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
+   2  733AD9848B744C5E  Benjamin Herrenschmidt <benh@kernel.crashing.org>
    3  7E271B2ACD1D430D  Puranjay Mohan <puranjay@kernel.org>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  80A77F6095CDE47E  Stephen Hemminger <stephen@networkplumber.org>
-   2  733AD9848B744C5E  Benjamin Herrenschmidt <benh@kernel.crashing.org>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  8BC68E994040912F  SeongJae Park <sjpark@amazon.de>
    3  7E271B2ACD1D430D  Puranjay Mohan <puranjay@kernel.org>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>

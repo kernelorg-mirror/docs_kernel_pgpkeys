@@ -11,6 +11,6 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  8DCE35563022E57A  Jonathan Corbet <corbet@lwn.net>
+   1  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
    2  C3F436CA30F5D8EB  Mark Brown <broonie@sirena.org.uk>
 
