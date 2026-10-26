@@ -73,37 +73,37 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 # OpenPGP fingerprints are 40 hex chars (V4) or 64 hex chars (V5).
 # We accept either, with optional 0x prefix and embedded whitespace
 # stripped (gpg's keylist output spaces fingerprints in groups of 4).
-_FPR_RE = re.compile(r"^(?:0x)?[0-9a-fA-F]{40}(?:[0-9a-fA-F]{24})?$")
-_KEYID_RE = re.compile(r"^(?:0x)?[0-9a-fA-F]{16}$")
+_FPR_RE = re.compile(r'^(?:0x)?[0-9a-fA-F]{40}(?:[0-9a-fA-F]{24})?$')
+_KEYID_RE = re.compile(r'^(?:0x)?[0-9a-fA-F]{16}$')
 
 # RFC 4880 §9.4 hash algorithm IDs that modern OpenPGP tooling rejects
 # on binding signatures. Anything not in this set is treated as
 # "modern enough".
 WEAK_HASH_IDS = {1, 2, 3}  # MD5, SHA-1, RIPEMD-160
 HASH_NAMES = {
-    1: "MD5",
-    2: "SHA1",
-    3: "RIPEMD160",
-    8: "SHA256",
-    9: "SHA384",
-    10: "SHA512",
-    11: "SHA224",
-    12: "SHA3-256",
-    14: "SHA3-512",
+    1: 'MD5',
+    2: 'SHA1',
+    3: 'RIPEMD160',
+    8: 'SHA256',
+    9: 'SHA384',
+    10: 'SHA512',
+    11: 'SHA224',
+    12: 'SHA3-256',
+    14: 'SHA3-512',
 }
 
 # RFC 4880 §5.2.1 signature class codes that bind a UID or a subkey
 # to the primary key. gpg formats these as "<hex>x" in --with-colons
 # output (the trailing 'x' marks the sig as exportable).
-UID_BINDING_CLASSES = {"10x", "11x", "12x", "13x", "10", "11", "12", "13"}
-SUBKEY_BINDING_CLASSES = {"18x", "18"}
+UID_BINDING_CLASSES = {'10x', '11x', '12x', '13x', '10', '11', '12', '13'}
+SUBKEY_BINDING_CLASSES = {'18x', '18'}
 
-TARGET_HASH = "SHA512"
+TARGET_HASH = 'SHA512'
 
-TAG_OK = "[ OK ]"
-TAG_WEAK = "[WEAK]"
-TAG_NONE = "[????]"
-TAG_SKIP = "[SKIP]"
+TAG_OK = '[ OK ]'
+TAG_WEAK = '[WEAK]'
+TAG_NONE = '[????]'
+TAG_SKIP = '[SKIP]'
 
 # Per `gnupg/doc/DETAILS`, field 2 of pub/sub/uid/uat colon records
 # is a validity letter. Any item flagged revoked / expired / invalid
@@ -111,9 +111,9 @@ TAG_SKIP = "[SKIP]"
 # would silently fail, and rebinding an expired one with our
 # `--quick-set-expire <existing-expiration>` line would either
 # resurrect it (if we passed '0') or be a no-op. Skip both.
-SKIP_VALIDITIES = {"r": "revoked", "e": "expired", "i": "invalid"}
+SKIP_VALIDITIES = {'r': 'revoked', 'e': 'expired', 'i': 'invalid'}
 
-SUBMIT_ADDRESS = "keys@linux.kernel.org"
+SUBMIT_ADDRESS = 'keys@linux.kernel.org'
 
 
 class _Sig(TypedDict):
@@ -150,14 +150,14 @@ class _RmhModule(Protocol):
 
 
 def _die(msg: str) -> NoReturn:
-    print("error: %s" % msg, file=sys.stderr)
+    print('error: %s' % msg, file=sys.stderr)
     sys.exit(2)
 
 
 def _gpg_bin() -> str:
-    gpg = shutil.which("gpg")
+    gpg = shutil.which('gpg')
     if gpg is None:
-        _die("gpg not found in PATH; install gpg first")
+        _die('gpg not found in PATH; install gpg first')
     return gpg
 
 
@@ -171,14 +171,14 @@ def _load_helpers() -> _RmhModule:
     so this is side-effect free.
     """
     spec = importlib.util.spec_from_file_location(
-        "resign_modern_hash",
-        os.path.join(HERE, "resign-modern-hash.py"),
+        'resign_modern_hash',
+        os.path.join(HERE, 'resign-modern-hash.py'),
     )
     if spec is None or spec.loader is None:
-        _die("failed to locate resign-modern-hash.py beside this script")
+        _die('failed to locate resign-modern-hash.py beside this script')
     mod = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(mod)
-    return cast("_RmhModule", mod)
+    return cast('_RmhModule', mod)
 
 
 def _run_gpg(
@@ -196,7 +196,7 @@ def _run_gpg(
     """
     env = os.environ.copy()
     if gnupghome:
-        env["GNUPGHOME"] = gnupghome
+        env['GNUPGHOME'] = gnupghome
     try:
         return subprocess.run(
             [gpg, *args],
@@ -206,8 +206,8 @@ def _run_gpg(
             check=check,
         )
     except subprocess.CalledProcessError as ex:
-        msg = ex.stderr.decode(errors="replace").strip() or "(no stderr)"
-        _die("gpg %s failed (rc=%d): %s" % (" ".join(args), ex.returncode, msg))
+        msg = ex.stderr.decode(errors='replace').strip() or '(no stderr)'
+        _die('gpg %s failed (rc=%d): %s' % (' '.join(args), ex.returncode, msg))
 
 
 def _import_to_temp(gpg: str, key_bytes: bytes) -> tuple[str, str]:
@@ -218,22 +218,22 @@ def _import_to_temp(gpg: str, key_bytes: bytes) -> tuple[str, str]:
     imported key from leaking to other users on shared workstations.
     """
     if not key_bytes:
-        _die("no key data provided")
-    tmpd = tempfile.mkdtemp(prefix="rebind-modern-hash-")
+        _die('no key data provided')
+    tmpd = tempfile.mkdtemp(prefix='rebind-modern-hash-')
     os.chmod(tmpd, 0o700)
-    _run_gpg(gpg, ["--import"], gnupghome=tmpd, stdin_bytes=key_bytes)
-    res = _run_gpg(gpg, ["--with-colons", "--list-keys"], gnupghome=tmpd)
+    _run_gpg(gpg, ['--import'], gnupghome=tmpd, stdin_bytes=key_bytes)
+    res = _run_gpg(gpg, ['--with-colons', '--list-keys'], gnupghome=tmpd)
     for line in res.stdout.decode().splitlines():
-        fields = line.split(":")
-        if fields and fields[0] == "fpr":
+        fields = line.split(':')
+        if fields and fields[0] == 'fpr':
             return tmpd, fields[9]
-    _die("could not find a fingerprint after importing the key")
+    _die('could not find a fingerprint after importing the key')
 
 
 def _from_repo_path(rmh: _RmhModule, raw: str) -> str:
     """Resolve --from-repo input (keyid or fpr) to keys/<KEYID>.asc."""
-    s = raw.replace(" ", "").replace(":", "").upper()
-    if s.startswith("0X"):
+    s = raw.replace(' ', '').replace(':', '').upper()
+    if s.startswith('0X'):
         s = s[2:]
     # _FPR_RE/_KEYID_RE both allow an optional 0x prefix, but s has it
     # stripped already; matching the bare hex form below is unambiguous.
@@ -241,11 +241,11 @@ def _from_repo_path(rmh: _RmhModule, raw: str) -> str:
         # Full fingerprint -- the file is named for the last 16 chars.
         s = s[-16:]
     elif not _KEYID_RE.match(s):
-        _die("invalid --from-repo value %r (expected keyid or fingerprint)" % raw)
+        _die('invalid --from-repo value %r (expected keyid or fingerprint)' % raw)
     keys_dir = rmh._repo_keys_dir()
-    path = os.path.join(keys_dir, "%s.asc" % s)
+    path = os.path.join(keys_dir, '%s.asc' % s)
     if not os.path.isfile(path):
-        _die("no key %s.asc in %s" % (s, keys_dir))
+        _die('no key %s.asc in %s' % (s, keys_dir))
     return path
 
 
@@ -258,10 +258,7 @@ def _auto_detect_fpr(gpg: str, rmh: _RmhModule) -> str:
     """
     fprs = rmh._list_secret_fprs(gpg)
     if not fprs:
-        _die(
-            "no secret keys in your default GNUPGHOME; "
-            "pass --fpr, --from-repo, or a path"
-        )
+        _die('no secret keys in your default GNUPGHOME; pass --fpr, --from-repo, or a path')
     keys_dir = rmh._repo_keys_dir()
     repo_ids = rmh._repo_keyids(keys_dir)
     in_repo = [f for f in fprs if f[-16:].upper() in repo_ids]
@@ -269,23 +266,23 @@ def _auto_detect_fpr(gpg: str, rmh: _RmhModule) -> str:
     if len(in_repo) == 1:
         return in_repo[0]
     if len(in_repo) > 1:
-        cand = "\n".join("  %s" % f for f in in_repo)
+        cand = '\n'.join('  %s' % f for f in in_repo)
         _die(
-            "multiple of your secret keys are present in pgpkeys.git;\n"
-            "pass --fpr FPR to choose one:\n%s" % cand
+            'multiple of your secret keys are present in pgpkeys.git;\n'
+            'pass --fpr FPR to choose one:\n%s' % cand
         )
     if len(fprs) == 1:
         print(
-            "warning: %s is not present in keys/; rebound result will not\n"
-            "         propagate via the kernel WoT until you submit your\n"
-            "         pubkey to %s." % (fprs[0], SUBMIT_ADDRESS),
+            'warning: %s is not present in keys/; rebound result will not\n'
+            '         propagate via the kernel WoT until you submit your\n'
+            '         pubkey to %s.' % (fprs[0], SUBMIT_ADDRESS),
             file=sys.stderr,
         )
         return fprs[0]
-    cand = "\n".join("  %s" % f for f in fprs)
+    cand = '\n'.join('  %s' % f for f in fprs)
     _die(
-        "multiple secret keys, none matching a key in pgpkeys.git;\n"
-        "pass --fpr FPR to choose one:\n%s" % cand
+        'multiple secret keys, none matching a key in pgpkeys.git;\n'
+        'pass --fpr FPR to choose one:\n%s' % cand
     )
 
 
@@ -302,36 +299,29 @@ def _resolve_input(
     """
     gpg = _gpg_bin()
 
-    explicit = sum(
-        1 for v in (args.fpr, args.from_repo, args.source) if v
-    )
-    stdin_pipe = (
-        args.source == "-" or (args.source is None and not sys.stdin.isatty())
-    )
+    explicit = sum(1 for v in (args.fpr, args.from_repo, args.source) if v)
+    stdin_pipe = args.source == '-' or (args.source is None and not sys.stdin.isatty())
     if explicit > 1:
-        _die("pass at most one of --fpr, --from-repo, or a path/-")
+        _die('pass at most one of --fpr, --from-repo, or a path/-')
 
     if args.from_repo:
         rmh = _load_helpers()
         path = _from_repo_path(rmh, args.from_repo)
-        with open(path, "rb") as fh:
+        with open(path, 'rb') as fh:
             data = fh.read()
         tmpd, fpr = _import_to_temp(gpg, data)
         return gpg, tmpd, fpr
 
     if args.fpr:
-        fpr_input = str(args.fpr).replace(" ", "").replace(":", "")
+        fpr_input = str(args.fpr).replace(' ', '').replace(':', '')
         if not _FPR_RE.match(fpr_input):
-            _die(
-                "invalid fingerprint %r (expected 40 or 64 hex chars)"
-                % args.fpr
-            )
+            _die('invalid fingerprint %r (expected 40 or 64 hex chars)' % args.fpr)
         return gpg, None, fpr_input
 
     if stdin_pipe:
         data = sys.stdin.buffer.read()
         if not data:
-            _die("no key data on stdin")
+            _die('no key data on stdin')
         tmpd, fpr = _import_to_temp(gpg, data)
         return gpg, tmpd, fpr
 
@@ -341,10 +331,10 @@ def _resolve_input(
         return gpg, None, fpr_auto
 
     try:
-        with open(args.source, "rb") as fh:
+        with open(args.source, 'rb') as fh:
             data = fh.read()
     except OSError as ex:
-        _die("could not load %s: %s" % (args.source, ex))
+        _die('could not load %s: %s' % (args.source, ex))
     tmpd, fpr = _import_to_temp(gpg, data)
     return gpg, tmpd, fpr
 
@@ -385,116 +375,109 @@ def _parse_list_sigs(
         current = None
 
     for line in output.splitlines():
-        fields = line.split(":")
+        fields = line.split(':')
         if not fields:
             continue
         rec = fields[0]
-        if rec == "pub":
+        if rec == 'pub':
             _flush()
             awaiting_subkey_fpr = False
-        elif rec == "fpr":
-            fp = fields[9] if len(fields) > 9 else ""
+        elif rec == 'fpr':
+            fp = fields[9] if len(fields) > 9 else ''
             if primary_fpr is None:
                 primary_fpr = fp
                 primary_keyid = fp[-16:]
-            elif (
-                awaiting_subkey_fpr
-                and current is not None
-                and current["kind"] == "subkey"
-            ):
-                current["fingerprint"] = fp
+            elif awaiting_subkey_fpr and current is not None and current['kind'] == 'subkey':
+                current['fingerprint'] = fp
                 awaiting_subkey_fpr = False
-        elif rec == "uid":
+        elif rec == 'uid':
             _flush()
             uid_idx += 1
             current = {
-                "kind": "uid",
-                "validity": fields[1] if len(fields) > 1 else "",
-                "label": fields[9] if len(fields) > 9 else "?",
-                "fingerprint": "",
-                "gpg_index": uid_idx,
-                "expire_unix": 0,
-                "sigs": [],
+                'kind': 'uid',
+                'validity': fields[1] if len(fields) > 1 else '',
+                'label': fields[9] if len(fields) > 9 else '?',
+                'fingerprint': '',
+                'gpg_index': uid_idx,
+                'expire_unix': 0,
+                'sigs': [],
             }
-        elif rec == "uat":
+        elif rec == 'uat':
             _flush()
             uid_idx += 1
             current = {
-                "kind": "user-attr",
-                "validity": fields[1] if len(fields) > 1 else "",
-                "label": "<image attribute>",
-                "fingerprint": "",
-                "gpg_index": uid_idx,
-                "expire_unix": 0,
-                "sigs": [],
+                'kind': 'user-attr',
+                'validity': fields[1] if len(fields) > 1 else '',
+                'label': '<image attribute>',
+                'fingerprint': '',
+                'gpg_index': uid_idx,
+                'expire_unix': 0,
+                'sigs': [],
             }
-        elif rec == "sub":
+        elif rec == 'sub':
             _flush()
             subkey_idx += 1
-            expire_raw = fields[6] if len(fields) > 6 else ""
+            expire_raw = fields[6] if len(fields) > 6 else ''
             current = {
-                "kind": "subkey",
-                "validity": fields[1] if len(fields) > 1 else "",
-                "label": "?",
-                "fingerprint": "",
-                "gpg_index": subkey_idx,
-                "expire_unix": int(expire_raw) if expire_raw.isdigit() else 0,
-                "sigs": [],
+                'kind': 'subkey',
+                'validity': fields[1] if len(fields) > 1 else '',
+                'label': '?',
+                'fingerprint': '',
+                'gpg_index': subkey_idx,
+                'expire_unix': int(expire_raw) if expire_raw.isdigit() else 0,
+                'sigs': [],
             }
             awaiting_subkey_fpr = True
-        elif rec == "sig" and current is not None:
-            issuer_keyid = fields[4] if len(fields) > 4 else ""
-            created_raw = fields[5] if len(fields) > 5 else ""
-            sig_class = fields[10] if len(fields) > 10 else ""
-            hash_raw = fields[15] if len(fields) > 15 else ""
-            current["sigs"].append(
+        elif rec == 'sig' and current is not None:
+            issuer_keyid = fields[4] if len(fields) > 4 else ''
+            created_raw = fields[5] if len(fields) > 5 else ''
+            sig_class = fields[10] if len(fields) > 10 else ''
+            hash_raw = fields[15] if len(fields) > 15 else ''
+            current['sigs'].append(
                 {
-                    "issuer_keyid": issuer_keyid,
-                    "created": int(created_raw) if created_raw.isdigit() else 0,
-                    "sig_class": sig_class,
-                    "hash_id": int(hash_raw) if hash_raw.isdigit() else 0,
+                    'issuer_keyid': issuer_keyid,
+                    'created': int(created_raw) if created_raw.isdigit() else 0,
+                    'sig_class': sig_class,
+                    'hash_id': int(hash_raw) if hash_raw.isdigit() else 0,
                 }
             )
     _flush()
 
     if primary_fpr is None:
-        _die("gpg --list-sigs returned no public key (was the import empty?)")
+        _die('gpg --list-sigs returned no public key (was the import empty?)')
 
     return primary_fpr, primary_keyid, items
 
 
-def _classify(
-    item: _Item, primary_keyid: str | None
-) -> tuple[str, _Sig | None]:
+def _classify(item: _Item, primary_keyid: str | None) -> tuple[str, _Sig | None]:
     """Return ('strong'|'weak'|'none', latest_self_sig_or_None)."""
-    if item["kind"] in ("uid", "user-attr"):
+    if item['kind'] in ('uid', 'user-attr'):
         classes = UID_BINDING_CLASSES
-    elif item["kind"] == "subkey":
+    elif item['kind'] == 'subkey':
         classes = SUBKEY_BINDING_CLASSES
     else:
-        return ("strong", None)
+        return ('strong', None)
 
     candidates = [
         s
-        for s in item["sigs"]
-        if s["sig_class"] in classes
-        and s["issuer_keyid"].upper() == (primary_keyid or "").upper()
+        for s in item['sigs']
+        if s['sig_class'] in classes and s['issuer_keyid'].upper() == (primary_keyid or '').upper()
     ]
     if not candidates:
-        return ("none", None)
-    latest = max(candidates, key=lambda s: s["created"])
-    return ("weak" if latest["hash_id"] in WEAK_HASH_IDS else "strong", latest)
+        return ('none', None)
+    latest = max(candidates, key=lambda s: s['created'])
+    return ('weak' if latest['hash_id'] in WEAK_HASH_IDS else 'strong', latest)
 
 
 def _hash_label(sig: _Sig | None) -> str:
     if sig is None:
-        return "(none)"
-    return HASH_NAMES.get(sig["hash_id"], "id=%d" % sig["hash_id"])
+        return '(none)'
+    return HASH_NAMES.get(sig['hash_id'], 'id=%d' % sig['hash_id'])
 
 
 def _skip_reason(item: _Item) -> str | None:
     """Return 'revoked'/'expired'/'invalid' or None for an item."""
-    return SKIP_VALIDITIES.get(item.get("validity", ""))
+    return SKIP_VALIDITIES.get(item.get('validity', ''))
 
 
 def _expire_arg(item: _Item) -> str:
@@ -503,17 +486,13 @@ def _expire_arg(item: _Item) -> str:
     gpg accepts YYYY-MM-DD or 0 (never). expire_unix == 0 means the
     subkey has no expiration; preserve that semantics by passing '0'.
     """
-    exp = item.get("expire_unix") or 0
+    exp = item.get('expire_unix') or 0
     if not exp:
-        return "0"
-    return datetime.datetime.fromtimestamp(
-        exp, datetime.timezone.utc
-    ).strftime("%Y-%m-%d")
+        return '0'
+    return datetime.datetime.fromtimestamp(exp, datetime.timezone.utc).strftime('%Y-%m-%d')
 
 
-def _print_status(
-    items: list[_Item], primary_keyid: str | None
-) -> tuple[list[_Item], list[_Item]]:
+def _print_status(items: list[_Item], primary_keyid: str | None) -> tuple[list[_Item], list[_Item]]:
     """Print a per-target status line; return only actionable weak items.
 
     Items whose validity says revoked/expired/invalid are tagged
@@ -522,32 +501,32 @@ def _print_status(
     """
     weak_uids: list[_Item] = []
     weak_subkeys: list[_Item] = []
-    label_for = {"uid": "UID", "user-attr": "Img", "subkey": "Sub"}
+    label_for = {'uid': 'UID', 'user-attr': 'Img', 'subkey': 'Sub'}
     for it in items:
-        if it["kind"] not in label_for:
+        if it['kind'] not in label_for:
             continue
         status, latest = _classify(it, primary_keyid)
-        line_label = it["label"]
-        if it["kind"] == "subkey":
-            line_label = "0x%s" % (it["fingerprint"][-16:] or it["label"])
+        line_label = it['label']
+        if it['kind'] == 'subkey':
+            line_label = '0x%s' % (it['fingerprint'][-16:] or it['label'])
         skip = _skip_reason(it)
         if skip:
             tag = TAG_SKIP
-            line_label = "%s (%s)" % (line_label, skip)
+            line_label = '%s (%s)' % (line_label, skip)
         else:
-            tag = {"strong": TAG_OK, "weak": TAG_WEAK, "none": TAG_NONE}[status]
+            tag = {'strong': TAG_OK, 'weak': TAG_WEAK, 'none': TAG_NONE}[status]
         print(
-            "  %s %s #%-2d %-9s  %s"
+            '  %s %s #%-2d %-9s  %s'
             % (
                 tag,
-                label_for[it["kind"]],
-                it["gpg_index"],
+                label_for[it['kind']],
+                it['gpg_index'],
                 _hash_label(latest),
                 line_label,
             )
         )
-        if status == "weak" and not skip:
-            if it["kind"] == "subkey":
+        if status == 'weak' and not skip:
+            if it['kind'] == 'subkey':
                 weak_subkeys.append(it)
             else:
                 weak_uids.append(it)
@@ -567,14 +546,12 @@ def _primary_uid_label(items: list[_Item]) -> str | None:
     anyway.
     """
     for it in items:
-        if it["kind"] == "uid":
-            return it["label"]
+        if it['kind'] == 'uid':
+            return it['label']
     return None
 
 
-def _format_cmd(
-    flags: list[str], positionals: list[str], trailing: str = ""
-) -> str:
+def _format_cmd(flags: list[str], positionals: list[str], trailing: str = '') -> str:
     """Format a gpg invocation as a multi-line, reviewable shell command.
 
     First line carries 'gpg' plus all flags; each positional arg
@@ -583,13 +560,13 @@ def _format_cmd(
     optional trailing string (e.g. '  # never expires') is appended
     to the last positional so it stays visually attached.
     """
-    flag_str = " ".join(shlex.quote(a) for a in flags)
+    flag_str = ' '.join(shlex.quote(a) for a in flags)
     quoted = [shlex.quote(p) for p in positionals]
-    out = ["gpg %s \\" % flag_str]
+    out = ['gpg %s \\' % flag_str]
     for i, p in enumerate(quoted):
-        suffix = " \\" if i < len(quoted) - 1 else trailing
-        out.append("    %s%s" % (p, suffix))
-    return "\n".join(out)
+        suffix = ' \\' if i < len(quoted) - 1 else trailing
+        out.append('    %s%s' % (p, suffix))
+    return '\n'.join(out)
 
 
 def _print_recipe(
@@ -600,15 +577,15 @@ def _print_recipe(
 ) -> None:
     """Print the gpg command sequence to rebind the weak items."""
     print()
-    print("To rebind with %s, run the commands below in your shell. The" % TARGET_HASH)
+    print('To rebind with %s, run the commands below in your shell. The' % TARGET_HASH)
     print("primary key must be available (or your subkeys' secret material;")
-    print("smartcards are fine).")
+    print('smartcards are fine).')
     print()
 
     fpr = primary_fp.upper()
 
-    weak_real_uids = [u for u in weak_uids if u["kind"] == "uid"]
-    weak_attrs = [u for u in weak_uids if u["kind"] != "uid"]
+    weak_real_uids = [u for u in weak_uids if u['kind'] == 'uid']
+    weak_attrs = [u for u in weak_uids if u['kind'] != 'uid']
 
     if weak_real_uids:
         # --quick-set-primary-uid issues a fresh self-signature on the
@@ -618,12 +595,14 @@ def _print_recipe(
         # also flips the primary-uid flag onto the named UID, so we
         # emit a final restore-primary line below to put the original
         # primary back where it belongs.
-        print("# Rebind UIDs (%d weak)." % len(weak_real_uids))
+        print('# Rebind UIDs (%d weak).' % len(weak_real_uids))
         for u in weak_real_uids:
-            print(_format_cmd(
-                ["--cert-digest-algo", TARGET_HASH, "--quick-set-primary-uid"],
-                [fpr, u["label"]],
-            ))
+            print(
+                _format_cmd(
+                    ['--cert-digest-algo', TARGET_HASH, '--quick-set-primary-uid'],
+                    [fpr, u['label']],
+                )
+            )
         print()
 
     if weak_attrs:
@@ -632,32 +611,34 @@ def _print_recipe(
         # --edit-key; this is rare in practice (very few legacy keys
         # carry photo IDs), so we don't optimise the UX further.
         print(
-            "# %d weak image/user-attribute binding(s) need an interactive rebind:"
+            '# %d weak image/user-attribute binding(s) need an interactive rebind:'
             % len(weak_attrs)
         )
-        print(_format_cmd(
-            ["--cert-digest-algo", TARGET_HASH, "--edit-key"],
-            [fpr],
-        ))
-        for u in weak_attrs:
-            print(
-                "#   then at the gpg> prompt: uid %d ; primary ; save" % u["gpg_index"]
+        print(
+            _format_cmd(
+                ['--cert-digest-algo', TARGET_HASH, '--edit-key'],
+                [fpr],
             )
+        )
+        for u in weak_attrs:
+            print('#   then at the gpg> prompt: uid %d ; primary ; save' % u['gpg_index'])
         print()
 
     if weak_subkeys:
         # --quick-set-expire is non-interactive and re-signs the subkey
         # binding signature. Pass the existing expiration so we don't
         # silently change it; '0' means "never expires".
-        print("# Rebind subkeys (%d weak):" % len(weak_subkeys))
+        print('# Rebind subkeys (%d weak):' % len(weak_subkeys))
         for sk in weak_subkeys:
             exp = _expire_arg(sk)
-            label = "expires %s" % exp if exp != "0" else "never expires"
-            print(_format_cmd(
-                ["--cert-digest-algo", TARGET_HASH, "--quick-set-expire"],
-                [fpr, exp, sk["fingerprint"]],
-                trailing="  # %s" % label,
-            ))
+            label = 'expires %s' % exp if exp != '0' else 'never expires'
+            print(
+                _format_cmd(
+                    ['--cert-digest-algo', TARGET_HASH, '--quick-set-expire'],
+                    [fpr, exp, sk['fingerprint']],
+                    trailing='  # %s' % label,
+                )
+            )
         print()
 
     if (weak_real_uids or weak_attrs) and primary_uid_label is not None:
@@ -667,106 +648,101 @@ def _print_recipe(
         # more --quick-set-primary-uid on the original to put it back.
         # Idempotent in the unusual edge case where the original
         # primary was already last in the rebind list.
-        print("# Restore the original primary UID flag.")
-        print(_format_cmd(
-            ["--cert-digest-algo", TARGET_HASH, "--quick-set-primary-uid"],
-            [fpr, primary_uid_label],
-        ))
+        print('# Restore the original primary UID flag.')
+        print(
+            _format_cmd(
+                ['--cert-digest-algo', TARGET_HASH, '--quick-set-primary-uid'],
+                [fpr, primary_uid_label],
+            )
+        )
         print()
 
-    print("Then verify the result:")
-    print("  %s --verify --fpr %s" % (sys.argv[0], fpr))
+    print('Then verify the result:')
+    print('  %s --verify --fpr %s' % (sys.argv[0], fpr))
     print()
-    print(
-        "Once everything reads [ OK ], submit the rebound key for inclusion"
-    )
-    print("in the canonical kernel keyring:")
-    print(
-        "  gpg --export --armor %s | mail -s your@email.addr %s"
-        % (fpr, SUBMIT_ADDRESS)
-    )
+    print('Once everything reads [ OK ], submit the rebound key for inclusion')
+    print('in the canonical kernel keyring:')
+    print('  gpg --export --armor %s | mail -s your@email.addr %s' % (fpr, SUBMIT_ADDRESS))
 
 
 def main() -> NoReturn:
     parser = argparse.ArgumentParser(
         description=(
-            "Detect weakly-bound UIDs/subkeys and print a gpg rebind recipe. "
-            "With no arguments, auto-detects which of your secret keys is in "
-            "pgpkeys.git/keys/ and inspects that one."
+            'Detect weakly-bound UIDs/subkeys and print a gpg rebind recipe. '
+            'With no arguments, auto-detects which of your secret keys is in '
+            'pgpkeys.git/keys/ and inspects that one.'
         ),
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=(
-            "Modern OpenPGP tooling rejects UID and subkey binding\n"
-            "signatures made with SHA-1 (typical for keys from the\n"
-            "pre-2018 GnuPG era). This tool reports which bindings on a\n"
-            "key still use a weak hash, and prints the gpg(1) command\n"
-            "sequence the keyholder should run to rebind them with SHA-512.\n"
-            "\n"
-            "This is the keyholder-side companion to scripts/resign-modern-hash.py.\n"
-            "To check whether your key is in the keyholder-rebind list, run\n"
-            "scripts/weak-hash-audit.py --uids and look for your keyid.\n"
-            "\n"
-            "The script never modifies your real keyring during inspection;\n"
-            "the printed rebind commands are what change your keyring -- and\n"
-            "only when you choose to run them. After running them, re-run\n"
-            "with --verify to confirm.\n"
+            'Modern OpenPGP tooling rejects UID and subkey binding\n'
+            'signatures made with SHA-1 (typical for keys from the\n'
+            'pre-2018 GnuPG era). This tool reports which bindings on a\n'
+            'key still use a weak hash, and prints the gpg(1) command\n'
+            'sequence the keyholder should run to rebind them with SHA-512.\n'
+            '\n'
+            'This is the keyholder-side companion to scripts/resign-modern-hash.py.\n'
+            'To check whether your key is in the keyholder-rebind list, run\n'
+            'scripts/weak-hash-audit.py --uids and look for your keyid.\n'
+            '\n'
+            'The script never modifies your real keyring during inspection;\n'
+            'the printed rebind commands are what change your keyring -- and\n'
+            'only when you choose to run them. After running them, re-run\n'
+            'with --verify to confirm.\n'
         ),
     )
     parser.add_argument(
-        "source",
-        nargs="?",
+        'source',
+        nargs='?',
         help="Path to a public key file, or '-' to read from stdin.",
     )
     parser.add_argument(
-        "--fpr",
-        help="Inspect a key already in your gpg keyring, by fingerprint.",
+        '--fpr',
+        help='Inspect a key already in your gpg keyring, by fingerprint.',
     )
     parser.add_argument(
-        "--from-repo",
-        metavar="KEYID",
+        '--from-repo',
+        metavar='KEYID',
         help=(
-            "Inspect a key from pgpkeys.git/keys/<KEYID>.asc. Accepts a "
-            "16-char keyid or a full fingerprint (only the last 16 chars "
-            "are used to find the file). Lets you check the canonical "
-            "view without exporting your key from your own keyring first."
+            'Inspect a key from pgpkeys.git/keys/<KEYID>.asc. Accepts a '
+            '16-char keyid or a full fingerprint (only the last 16 chars '
+            'are used to find the file). Lets you check the canonical '
+            'view without exporting your key from your own keyring first.'
         ),
     )
     parser.add_argument(
-        "--verify",
-        action="store_true",
-        help="Suppress the rebind recipe; just report status. Useful as a "
-        "post-rebind check or in CI.",
+        '--verify',
+        action='store_true',
+        help='Suppress the rebind recipe; just report status. Useful as a '
+        'post-rebind check or in CI.',
     )
     args = parser.parse_args()
 
     gpg, gnupghome, fpr = _resolve_input(args)
 
-    res = _run_gpg(gpg, ["--with-colons", "--list-sigs", fpr], gnupghome=gnupghome)
+    res = _run_gpg(gpg, ['--with-colons', '--list-sigs', fpr], gnupghome=gnupghome)
     primary_fp, primary_keyid, items = _parse_list_sigs(
-        res.stdout.decode("utf-8", errors="replace")
+        res.stdout.decode('utf-8', errors='replace')
     )
 
-    print("Cert: %s" % primary_fp.upper())
+    print('Cert: %s' % primary_fp.upper())
     print()
     weak_uids, weak_subkeys = _print_status(items, primary_keyid)
     print()
 
     if not weak_uids and not weak_subkeys:
-        print("All UID and subkey bindings use modern hash algorithms.")
+        print('All UID and subkey bindings use modern hash algorithms.')
         sys.exit(0)
 
     print(
-        "Found %d weakly-bound UID(s) and %d weakly-bound subkey(s)."
+        'Found %d weakly-bound UID(s) and %d weakly-bound subkey(s).'
         % (len(weak_uids), len(weak_subkeys))
     )
 
     if not args.verify:
-        _print_recipe(
-            primary_fp, weak_uids, weak_subkeys, _primary_uid_label(items)
-        )
+        _print_recipe(primary_fp, weak_uids, weak_subkeys, _primary_uid_label(items))
 
     sys.exit(1)
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()
