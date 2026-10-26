@@ -225,3 +225,25 @@ With no arguments both reports run; pass ``--uids`` or
 The script is read-only and operates on a fresh, temporary
 ``GNUPGHOME`` built from the ``keys/`` directory -- it does not touch
 your real keyring.
+
+Expiry reminders
+----------------
+
+``./scripts/pgpkey-expiry.py`` warns people before their key in this
+repository stops working. kernel.org runs it daily for its account
+holders, who get a reminder 30, 10 and 3 days before their key expires,
+with a link to the steps for extending it. The copy here is the one to
+review and send changes against.
+
+A key counts as usable when ``sq`` accepts at least one of its signing
+(sub)keys, so a signing subkey that expires before the main key is
+caught too. Keys that ``sq`` rejects already (expired, SHA-1
+self-signatures, DSA, no signing key) don't get mail; they show up in
+a report for admins instead::
+
+    $ ./scripts/pgpkey-expiry.py --config pgpkey-expiry.conf --report
+    $ ./scripts/pgpkey-expiry.py --config pgpkey-expiry.conf --notify --dry-run
+
+Everything that depends on where it runs -- the list of users, the
+location of this repository, the mail addresses and the mail server --
+comes from the ``--config`` file. ``--help`` shows its format.

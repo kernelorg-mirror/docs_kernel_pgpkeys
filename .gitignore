@@ -5,3 +5,4 @@ resign-weak-keys.sh
 weak-keys.asc
 resigned-keys.asc
 .venv
+.venv-*
