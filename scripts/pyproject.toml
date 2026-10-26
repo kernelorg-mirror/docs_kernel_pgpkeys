@@ -1,0 +1,71 @@
+# Dev tooling for the helper scripts only. The scripts themselves are
+# stdlib-only and get copied around standalone, so this is not a package.
+[project]
+name = "pgpkeys-scripts"
+version = "0"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.uv]
+package = false
+
+[dependency-groups]
+dev = [
+    "mypy",
+    "pyright",
+    "pytest",
+    "ruff",
+    "ty",
+]
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+# Explicit select (not extend-select) so upstream default changes don't
+# alter what we enforce. Same set as b4.
+select = [
+    "E4",      # https://docs.astral.sh/ruff/rules/#error-e (imports)
+    "E7",      # https://docs.astral.sh/ruff/rules/#error-e (statements)
+    "E9",      # https://docs.astral.sh/ruff/rules/#error-e (runtime)
+    "F",       # https://docs.astral.sh/ruff/rules/#pyflakes-f
+    "B007",    # https://docs.astral.sh/ruff/rules/unused-loop-control-variable/
+    "B904",    # https://docs.astral.sh/ruff/rules/raise-without-from-err/
+    "DTZ",     # https://docs.astral.sh/ruff/rules/#flake8-datetimez-dtz
+    "G",       # https://docs.astral.sh/ruff/rules/#flake8-logging-format-g
+    "I",       # https://docs.astral.sh/ruff/rules/#isort-i
+    "PERF102", # https://docs.astral.sh/ruff/rules/incorrect-dict-iterator/
+    "PGH004",  # https://docs.astral.sh/ruff/rules/blanket-noqa/
+    "PIE790",  # https://docs.astral.sh/ruff/rules/unnecessary-placeholder/
+    "PIE810",  # https://docs.astral.sh/ruff/rules/multiple-starts-ends-with/
+    "RET505",  # https://docs.astral.sh/ruff/rules/superfluous-else-return/
+    "RET506",  # https://docs.astral.sh/ruff/rules/superfluous-else-raise/
+    "RET507",  # https://docs.astral.sh/ruff/rules/superfluous-else-continue/
+    "RET508",  # https://docs.astral.sh/ruff/rules/superfluous-else-break/
+    "RUF059",  # https://docs.astral.sh/ruff/rules/unused-unpacked-variable/
+    "RUF100",  # https://docs.astral.sh/ruff/rules/unused-noqa/
+    "SIM103",  # https://docs.astral.sh/ruff/rules/needless-bool/
+    "SIM113",  # https://docs.astral.sh/ruff/rules/enumerate-for-loop/
+    "SIM118",  # https://docs.astral.sh/ruff/rules/in-dict-keys/
+    "SIM201",  # https://docs.astral.sh/ruff/rules/negate-equal-op/
+]
+flake8-quotes.inline-quotes = "single"
+
+[tool.ruff.format]
+quote-style = "single"
+
+[tool.mypy]
+strict = true
+warn_unreachable = true
+
+[tool.pyright]
+typeCheckingMode = "strict"
+reportUnknownArgumentType = false
+reportUnknownLambdaType = false
+reportUnknownMemberType = false
+reportUnknownVariableType = false
+# The sibling scripts load each other's _helpers via importlib.
+reportPrivateUsage = false
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
