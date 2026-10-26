@@ -195,7 +195,7 @@ def _run_gpg(
     check=False to inspect the return code yourself (used for the
     bulk repo import where individual key issues are not fatal).
     """
-    proc = subprocess.run(  # noqa: S603
+    proc = subprocess.run(
         [gpg, *args],
         capture_output=True,
         check=False,
@@ -893,7 +893,7 @@ def _write_batch_file(
     s_total = "" if n_total == 1 else "s"
     s_resign = "" if n_resign == 1 else "s"
     s_export = "" if n_export_only == 1 else "s"
-    today = datetime.date.today().isoformat()
+    today = datetime.datetime.now(datetime.timezone.utc).date().isoformat()
 
     # --- Bundle: BATCH_KEYS ---
     # gpg --import ignores text outside -----BEGIN/END----- blocks, so

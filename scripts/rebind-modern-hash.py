@@ -198,7 +198,7 @@ def _run_gpg(
     if gnupghome:
         env["GNUPGHOME"] = gnupghome
     try:
-        return subprocess.run(  # noqa: S603
+        return subprocess.run(
             [gpg, *args],
             env=env,
             input=stdin_bytes,
