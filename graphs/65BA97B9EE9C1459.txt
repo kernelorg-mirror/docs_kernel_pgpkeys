@@ -1,0 +1,19 @@
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  4804B4BC3F55EEFB  Geert Uytterhoeven <geert@linux-m68k.org>
+   2  65BA97B9EE9C1459  Michal Wilczynski <michalw628@gmail.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  2EA76B9C2B466D9D  John Hawley ("Warthog9") <warthog9@eaglescrag.net>
+   2  7B96E8162A8CF5D1  Sebastian Andrzej Siewior
+   3  65BA97B9EE9C1459  Michal Wilczynski <michalw628@gmail.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+   2  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
+   3  65BA97B9EE9C1459  Michal Wilczynski <michalw628@gmail.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
+   3  65BA97B9EE9C1459  Michal Wilczynski <michalw628@gmail.com>
+
