@@ -335,6 +335,7 @@ def test_load_settings_report_defaults(tmp_path: Path) -> None:
     settings = pe.load_settings(str(cfg), notify=False)
     assert settings == pe.Settings(users='/u%1', keyrepo='/r')
     assert (settings.sq, settings.smtp_host, settings.smtp_port) == ('sq', 'localhost', 25)
+    assert settings.bcc == ()
 
 
 @pytest.fixture
@@ -366,6 +367,7 @@ def setup(tmp_path: Path) -> dict[str, Path]:
         '[mail]\nfrom = keys@example.org\ndomain = example.org\n'
         'docs-url = https://example.org/extend.html\n'
         'smtp-host = mail.example.org\nsmtp-port = 2525\n'
+        'bcc = admin@example.org,  audit@example.org,\n'
     )
     return {'cfg': cfg, 'state': state}
 
@@ -376,6 +378,7 @@ def _run(setup: dict[str, Path], now: datetime, *args: str) -> int:
 
 class FakeSMTP:
     sent: list[EmailMessage] = []
+    rcpts: list[list[str]] = []
     servers: list[tuple[str, int]] = []
 
     def __init__(self, host: str, port: int) -> None:
@@ -387,13 +390,15 @@ class FakeSMTP:
     def __exit__(self, *args: object) -> None:
         pass
 
-    def send_message(self, msg: EmailMessage) -> None:
+    def send_message(self, msg: EmailMessage, to_addrs: list[str]) -> None:
         self.sent.append(msg)
+        self.rcpts.append(to_addrs)
 
 
 @pytest.fixture
 def smtp(monkeypatch: pytest.MonkeyPatch) -> type[FakeSMTP]:
     FakeSMTP.sent = []
+    FakeSMTP.rcpts = []
     FakeSMTP.servers = []
     monkeypatch.setattr(pe.smtplib, 'SMTP', FakeSMTP)
     return FakeSMTP
@@ -402,9 +407,12 @@ def smtp(monkeypatch: pytest.MonkeyPatch) -> type[FakeSMTP]:
 @needs_sq
 def test_notify(setup: dict[str, Path], smtp: type[FakeSMTP]) -> None:
     """Only the user with a key about to expire gets mail, through the
-    configured server, once per threshold, across runs."""
+    configured server, once per threshold, across runs. The bcc copies
+    go only in the envelope, so the user doesn't see who else got one."""
     assert _run(setup, utc(2026, 10, 10), '--notify') == 0
     assert [m['To'] for m in smtp.sent] == ['expiring@example.org']
+    assert smtp.rcpts == [['expiring@example.org', 'admin@example.org', 'audit@example.org']]
+    assert 'Bcc' not in smtp.sent[0]
     assert smtp.servers == [('mail.example.org', 2525)]
     state = json.loads(setup['state'].read_text())
     assert state[EXPIRING]['threshold'] == 30
@@ -422,9 +430,12 @@ def test_notify(setup: dict[str, Path], smtp: type[FakeSMTP]) -> None:
 def test_notify_dry_run(
     setup: dict[str, Path], smtp: type[FakeSMTP], capsys: pytest.CaptureFixture[str]
 ) -> None:
-    """A dry run shows the mail and leaves no trace."""
+    """A dry run shows the mail, with whom it would bcc, and leaves no
+    trace."""
     assert _run(setup, utc(2026, 10, 10), '--notify', '--dry-run') == 0
-    assert 'To: expiring@example.org' in capsys.readouterr().out
+    out = capsys.readouterr().out
+    assert 'To: expiring@example.org' in out
+    assert 'Bcc: admin@example.org, audit@example.org' in out
     assert smtp.servers == []
     assert not setup['state'].exists()
 

@@ -43,6 +43,9 @@ All settings come from the --config file:
   # Optional, these are the defaults
   smtp-host = localhost
   smtp-port = 25
+  # Optional: comma-separated addresses that get a blind copy of each
+  # reminder
+  bcc = admin@example.org
 
 Only [main] users and keyrepo are needed for --report.
 """
@@ -135,6 +138,7 @@ class Settings:
     archive_url: str = ''
     smtp_host: str = 'localhost'
     smtp_port: int = 25
+    bcc: tuple[str, ...] = ()
 
 
 @dataclass
@@ -201,6 +205,7 @@ def load_settings(path: str, notify: bool) -> Settings:
         archive_url=cfg.get('mail', 'archive-url', fallback=''),
         smtp_host=cfg.get('mail', 'smtp-host', fallback='localhost'),
         smtp_port=smtp_port,
+        bcc=tuple(a.strip() for a in cfg.get('mail', 'bcc', fallback='').split(',') if a.strip()),
     )
 
 
@@ -423,7 +428,10 @@ def notify(settings: Settings, now: datetime, dry_run: bool) -> int:
     notices, newstate = plan_notifications(check_keys(settings, now), state, now)
     if dry_run:
         for notice in notices:
-            print(make_message(notice, now, settings).as_string())
+            msg = make_message(notice, now, settings)
+            if settings.bcc:
+                msg['Bcc'] = ', '.join(settings.bcc)
+            print(msg.as_string())
         return 0
 
     failed = False
@@ -431,7 +439,9 @@ def notify(settings: Settings, now: datetime, dry_run: bool) -> int:
         with smtplib.SMTP(settings.smtp_host, settings.smtp_port) as smtp:
             for notice in notices:
                 try:
-                    smtp.send_message(make_message(notice, now, settings))
+                    msg = make_message(notice, now, settings)
+                    # Bcc only in the envelope, so it never shows in the headers
+                    smtp.send_message(msg, to_addrs=[msg['To'], *settings.bcc])
                 except smtplib.SMTPException as ex:
                     # Not in the state, so the next run tries again
                     print(f'Mailing {notice.user} failed: {ex}', file=sys.stderr)
