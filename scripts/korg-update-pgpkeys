@@ -61,8 +61,11 @@ fi
 
 cd $WOTMATEDIR
 echo "Generating new exports"
-./make-sqlitedb.py --gnupghome $GPGTMPHOME
-./export-keyring.py --gnupghome $GPGTMPHOME --gen-b4-keyring --fromkey 38DBBDC86092693E --outdir $PGPKEYSDIR
+# Tolerated until the keyring is in better shape: without them, the
+# export strips the SHA-1 cross-signatures many keys still rely on, and
+# silently skips new keys that fail the Sequoia linter.
+./make-sqlitedb.py --use-weak-algos --gnupghome $GPGTMPHOME
+./export-keyring.py --ignore-linter --use-weak-algos --gnupghome $GPGTMPHOME --gen-b4-keyring --fromkey 38DBBDC86092693E --outdir $PGPKEYSDIR
 
 echo "Review the changes in $PGPKEYSDIR and commit if looks sane"
 # Don't leave gpg-agent running after we're done
