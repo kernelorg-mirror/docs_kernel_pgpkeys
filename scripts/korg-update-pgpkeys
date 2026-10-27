@@ -9,6 +9,11 @@
 #   4. if all good: git add * && git commit -sS
 #   5. if not good: git clean -fdx && git reset --hard HEAD
 #
+# Keys expiring changes the exports even when nobody submitted
+# anything, and those changes would otherwise land in the next,
+# unrelated key commit. Run "korg-update-pgpkeys --regenerate" first
+# and commit its output separately.
+#
 # Remove this line -- it's here so nobody runs this script
 # directly from the git repo
 exit 0
@@ -19,7 +24,8 @@ WOTMATEDIR="$HOME/git/wotmate"
 KEYSERVER="hkps://keys.openpgp.org"
 
 if [[ -z $1 ]]; then
-    echo "Need to pass the new key to import as param, or --refresh"
+    echo "Need to pass the new key to import as param, --refresh,"
+    echo "or --regenerate to only rebuild the exports"
     echo "e.g.: $0 /tmp/msg.eml"
     exit 1
 fi
@@ -32,7 +38,7 @@ if [[ ! -d $WOTMATEDIR ]]; then
     exit 1
 fi
 
-if [[ $1 != '--refresh' ]]; then
+if [[ $1 != '--refresh' && $1 != '--regenerate' ]]; then
     # Submissions often carry the key in a base64 or quoted-printable
     # MIME part, which gpg can't see in the raw message. Done before
     # creating the temp homedir so a failure has nothing to clean up.
@@ -48,7 +54,7 @@ $GPG -q --import $PGPKEYSDIR/keys/*.asc
 if [[ $1 == '--refresh' ]]; then
     echo "Refreshing from $KEYSERVER"
     $GPG --keyserver $KEYSERVER "$@"
-else
+elif [[ $1 != '--regenerate' ]]; then
     echo "Importing the new key"
     $GPG --import --import-options import-clean <<< "$NEWKEYS"
 fi
