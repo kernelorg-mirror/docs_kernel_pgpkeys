@@ -48,6 +48,9 @@ fi
 GPGTMPHOME=$(mktemp -d)
 GPG="/usr/bin/gpg --batch --homedir ${GPGTMPHOME}"
 GPGCONF="/usr/bin/gpgconf --homedir ${GPGTMPHOME}"
+# Clean up on every exit path, including a failed export, so no
+# gpg-agent is left running against a deleted homedir.
+trap '$GPGCONF --kill gpg-agent; rm -rf $GPGTMPHOME' EXIT
 
 echo "Importing current pgpkeys.git"
 $GPG -q --import $PGPKEYSDIR/keys/*.asc
@@ -59,15 +62,19 @@ elif [[ $1 != '--regenerate' ]]; then
     $GPG --import --import-options import-clean <<< "$NEWKEYS"
 fi
 
-cd $WOTMATEDIR
+# A half-finished export looks like a normal set of changes to review,
+# so stop instead of inviting a commit.
+die() {
+    echo "$1 failed, discard any partial changes in $PGPKEYSDIR"
+    exit 1
+}
+
+cd $WOTMATEDIR || exit 1
 echo "Generating new exports"
 # Tolerated until the keyring is in better shape: without them, the
 # export strips the SHA-1 cross-signatures many keys still rely on, and
 # silently skips new keys that fail the Sequoia linter.
-./make-sqlitedb.py --use-weak-algos --gnupghome $GPGTMPHOME
-./export-keyring.py --ignore-linter --use-weak-algos --gnupghome $GPGTMPHOME --gen-b4-keyring --fromkey 38DBBDC86092693E --outdir $PGPKEYSDIR
+./make-sqlitedb.py --use-weak-algos --gnupghome $GPGTMPHOME || die make-sqlitedb.py
+./export-keyring.py --ignore-linter --use-weak-algos --gnupghome $GPGTMPHOME --gen-b4-keyring --fromkey 38DBBDC86092693E --outdir $PGPKEYSDIR || die export-keyring.py
 
 echo "Review the changes in $PGPKEYSDIR and commit if looks sane"
-# Don't leave gpg-agent running after we're done
-$GPGCONF --kill gpg-agent
-rm -rf $GPGTMPHOME
