@@ -12,7 +12,7 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  51F9CC91F83FA044  Max Filippov <filippov@cadence.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
-   2  1994040B81A328F4  Dinh Nguyen <dinguyen@kernel.org>
+   1  80A77F6095CDE47E  Stephen Hemminger <stephen@networkplumber.org>
+   2  F92D73C9A31A1C17  Mark Gross <markgross@kernel.org>
    3  51F9CC91F83FA044  Max Filippov <filippov@cadence.com>
 

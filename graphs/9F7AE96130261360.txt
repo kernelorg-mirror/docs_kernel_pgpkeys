@@ -5,7 +5,7 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  052F367018D5C3D8  John Johansen <john@jjmx.net>
-   2  E8675DEECBEECEA3  Stefan Bader (Canonical) <stefan.bader@canonical.com>
+   2  D692003DAA02C70A  Tyler Hicks <tyhicks@tyhicks.net>
    3  AD3F818B34FA35B7  Tyler Hicks <code@tyhicks.com>
    4  9F7AE96130261360  Fan Wu <wufan@kernel.org>
 

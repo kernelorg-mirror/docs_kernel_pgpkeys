@@ -1,5 +1,5 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  1BD43EC95CABA573  Tony Lindgren <tony@atomide.com>
+   1  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
    2  5057585A87B07CCE  Shawn Guo <shawn.gsc@gmail.com>
    3  D6483E936F0D6F08  Jisheng Zhang <jszhang3@gmail.com>
 
