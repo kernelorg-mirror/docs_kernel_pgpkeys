@@ -8,9 +8,10 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  DDB5849D1736249D  Nishanth Menon <nm@ti.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  726C1CE741A7973F  Santosh Shilimkar <ssantosh@kernel.org>
-   2  868EB2E035CAA444  Felipe Balbi <balbi@kernel.org>
-   3  DDB5849D1736249D  Nishanth Menon <nm@ti.com>
+   1  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
+   2  993DFFF377394B2D  Andriy Shevchenko <andriy.shevchenko@linux.intel.com>
+   3  868EB2E035CAA444  Felipe Balbi <balbi@kernel.org>
+   4  DDB5849D1736249D  Nishanth Menon <nm@ti.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  972D5BF4DC613806  John W. Linville <linville@tuxdriver.com>

@@ -6,7 +6,3 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    1  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
    2  6141BB68EABE044D  Sekhar Nori <nsekhar@kernel.org>
 
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  726C1CE741A7973F  Santosh Shilimkar <ssantosh@kernel.org>
-   2  6141BB68EABE044D  Sekhar Nori <nsekhar@kernel.org>
-

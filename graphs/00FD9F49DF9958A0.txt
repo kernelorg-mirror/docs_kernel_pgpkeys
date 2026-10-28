@@ -9,13 +9,14 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  00FD9F49DF9958A0  Mika Westerberg <mika.westerberg@linux.intel.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  726C1CE741A7973F  Santosh Shilimkar <ssantosh@kernel.org>
-   2  868EB2E035CAA444  Felipe Balbi <balbi@kernel.org>
-   3  00FD9F49DF9958A0  Mika Westerberg <mika.westerberg@linux.intel.com>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  C78FB10D0BBD2A4B  Paul Walmsley <pjw@kernel.org>
    3  29887E377DC2A2B4  Artem Bityutskiy <dedekind1@gmail.com>
+   4  00FD9F49DF9958A0  Mika Westerberg <mika.westerberg@linux.intel.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  1BD43EC95CABA573  Tony Lindgren <tony@atomide.com>
+   2  DDB5849D1736249D  Nishanth Menon <nm@ti.com>
+   3  868EB2E035CAA444  Felipe Balbi <balbi@kernel.org>
    4  00FD9F49DF9958A0  Mika Westerberg <mika.westerberg@linux.intel.com>
 

@@ -11,7 +11,7 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  A1479CA21A3CC5FA  Luciano Roth Coelho (Luca) <luca@coelho.fi>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  726C1CE741A7973F  Santosh Shilimkar <ssantosh@kernel.org>
-   2  FA3DAA8CBC961EF5  Tomi Valkeinen <tomi.valkeinen@iki.fi>
+   1  F7D358FB2971E0A6  Jens Axboe <axboe@kernel.dk>
+   2  FB373D45F8B36D28  Gustavo Padovan <gustavo@padovan.org>
    3  A1479CA21A3CC5FA  Luciano Roth Coelho (Luca) <luca@coelho.fi>
 

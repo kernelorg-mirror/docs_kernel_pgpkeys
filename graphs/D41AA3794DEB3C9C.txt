@@ -4,7 +4,8 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  D41AA3794DEB3C9C  Sumit Garg <sumit.garg@linaro.org>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  726C1CE741A7973F  Santosh Shilimkar <ssantosh@kernel.org>
-   2  01BEFCD5AC2E7E5B  Sumit Semwal <sumit.semwal@linaro.org>
-   3  D41AA3794DEB3C9C  Sumit Garg <sumit.garg@linaro.org>
+   1  6C3180543D2929A4  Takashi Iwai <tiwai@suse.de>
+   2  7C14070F25238347  Vinod Koul <vkoul@kernel.org>
+   3  01BEFCD5AC2E7E5B  Sumit Semwal <sumit.semwal@linaro.org>
+   4  D41AA3794DEB3C9C  Sumit Garg <sumit.garg@linaro.org>
 
