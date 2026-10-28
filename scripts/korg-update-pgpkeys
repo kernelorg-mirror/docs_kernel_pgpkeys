@@ -12,7 +12,8 @@
 # Keys expiring changes the exports even when nobody submitted
 # anything, and those changes would otherwise land in the next,
 # unrelated key commit. Run "korg-update-pgpkeys --regenerate" first
-# and commit its output separately.
+# and commit its output separately. It also moves keys that have
+# expired to keys/expired/.
 #
 # Remove this line -- it's here so nobody runs this script
 # directly from the git repo
@@ -53,7 +54,11 @@ GPGCONF="/usr/bin/gpgconf --homedir ${GPGTMPHOME}"
 trap '$GPGCONF --kill gpg-agent; rm -rf $GPGTMPHOME' EXIT
 
 echo "Importing current pgpkeys.git"
-$GPG -q --import $PGPKEYSDIR/keys/*.asc
+# Expired keys too, so a renewal from a keyserver or a submission gets
+# exported to keys/ again. wotmate leaves them out of the WoT until then.
+shopt -s nullglob
+$GPG -q --import $PGPKEYSDIR/keys/*.asc $PGPKEYSDIR/keys/expired/*.asc
+shopt -u nullglob
 if [[ $1 == '--refresh' ]]; then
     echo "Refreshing from $KEYSERVER"
     $GPG --keyserver $KEYSERVER "$@"
@@ -76,5 +81,13 @@ echo "Generating new exports"
 # silently skips new keys that fail the Sequoia linter.
 ./make-sqlitedb.py --use-weak-algos --gnupghome $GPGTMPHOME || die make-sqlitedb.py
 ./export-keyring.py --ignore-linter --use-weak-algos --gnupghome $GPGTMPHOME --gen-b4-keyring --fromkey 38DBBDC86092693E --outdir $PGPKEYSDIR || die export-keyring.py
+# Renewals are cleaned up on every run, so they land with the key's own
+# commit; newly expired keys only on --regenerate, for the same reason
+# as above.
+MOVEOPTS=()
+if [[ $1 == '--regenerate' ]]; then
+    MOVEOPTS=(--move-expired --gnupghome $GPGTMPHOME)
+fi
+$PGPKEYSDIR/scripts/korg-move-expired.py "${MOVEOPTS[@]}" $PGPKEYSDIR || die korg-move-expired.py
 
 echo "Review the changes in $PGPKEYSDIR and commit if looks sane"

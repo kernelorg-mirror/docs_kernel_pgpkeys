@@ -7,6 +7,8 @@ developer PGP keys that have valid trust paths to Linus Torvalds.
 There are currently the following directories in this repository:
 
  - keys/:    ascii-armoured keys
+ - keys/expired/: keys that have expired, kept so you can still check
+   old signatures; they move back to keys/ if their owner extends them
  - graphs/:  svg graphs showing trust paths to Linus Torvalds' key
  - scripts/: auxiliary helper scripts
 
