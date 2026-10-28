@@ -343,9 +343,14 @@ def setup(tmp_path: Path) -> dict[str, Path]:
     """A bare pgpkeys.git with the fixtures, a users file for them plus
     two users whose key the repo doesn't have, and a config for it all."""
     work = tmp_path / 'work'
-    (work / 'keys').mkdir(parents=True)
+    (work / 'keys' / 'expired').mkdir(parents=True)
     for path in FIXTURES.glob('*.asc'):
         shutil.copy(path, work / 'keys' / path.name)
+    # korg-update-pgpkeys --regenerate moves keys here once they expire,
+    # and their holders still need to show up in reports
+    (work / 'keys' / f'{EXPIRING[-16:]}.asc').rename(
+        work / 'keys' / 'expired' / f'{EXPIRING[-16:]}.asc'
+    )
     git = ['git', '-c', 'user.name=Test', '-c', 'user.email=test@example.org']
     subprocess.run([*git, 'init', '-q', str(work)], check=True)
     subprocess.run([*git, '-C', str(work), 'add', '.'], check=True)

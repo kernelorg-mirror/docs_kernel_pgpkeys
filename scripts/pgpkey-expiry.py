@@ -287,10 +287,14 @@ def read_users(path: str | os.PathLike[str]) -> list[tuple[str, str]]:
 
 def read_key(keyrepo: str, fpr: str) -> bytes | None:
     # From the committed tree, not a working tree: one consistent
-    # snapshot, even while the repo is being updated
-    cmd = ['git', '--git-dir', keyrepo, 'show', f'HEAD:keys/{fpr[-16:]}.asc']
-    res = subprocess.run(cmd, capture_output=True)
-    return res.stdout if res.returncode == 0 else None
+    # snapshot, even while the repo is being updated. Expired keys are
+    # moved to keys/expired/, and their holders still need reporting.
+    for subdir in ('keys', 'keys/expired'):
+        cmd = ['git', '--git-dir', keyrepo, 'show', f'HEAD:{subdir}/{fpr[-16:]}.asc']
+        res = subprocess.run(cmd, capture_output=True)
+        if res.returncode == 0:
+            return res.stdout
+    return None
 
 
 def check_keys(settings: Settings, now: datetime) -> list[Result]:
