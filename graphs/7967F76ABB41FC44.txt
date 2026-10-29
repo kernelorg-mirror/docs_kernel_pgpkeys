@@ -1,9 +1,4 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  8BC68E994040912F  SeongJae Park <sjpark@amazon.de>
-   3  7967F76ABB41FC44  Namhyung Kim <namhyung@kernel.org>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  5AD24211C060D1C8  Stephen Rothwell (Signing Key) <sfr@canb.auug.org.au>
    2  63B4F0197F3C42E7  Mauro Carvalho Chehab <mchehab@redhat.com>
    3  D65016F35352AA40  Arnaldo Carvalho de Melo <acme@kernel.org>

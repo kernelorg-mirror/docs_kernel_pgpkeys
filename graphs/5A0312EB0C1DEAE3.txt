@@ -3,11 +3,6 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  5A0312EB0C1DEAE3  Harry Yoo <harry@kernel.org>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  8BC68E994040912F  SeongJae Park <sjpark@amazon.de>
-   3  5A0312EB0C1DEAE3  Harry Yoo <harry@kernel.org>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  814AE47C214854D6  James Bottomley <James.Bottomley@HansenPartnership.com>
    2  C532392DE6DA7CE9  Mike Rapoport <mike.rapoport@gmail.com>
    3  5A0312EB0C1DEAE3  Harry Yoo <harry@kernel.org>
