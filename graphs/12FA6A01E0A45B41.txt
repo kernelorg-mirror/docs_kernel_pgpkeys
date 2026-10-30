@@ -7,8 +7,6 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  12FA6A01E0A45B41  Markus Schneider-Pargmann <mail@markussp.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
-   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
-   3  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
-   4  12FA6A01E0A45B41  Markus Schneider-Pargmann <mail@markussp.com>
+   1  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
+   2  12FA6A01E0A45B41  Markus Schneider-Pargmann <mail@markussp.com>
 

@@ -3,7 +3,7 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  4CB5F6848BBC56EE  Sami Tolvanen <samitolvanen@google.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  D36F769BC11804F0  Theodore Ts'o <tytso@mit.edu>
+   1  224FA7E7CC82A664  Vlastimil Babka <vbabka@suse.com>
    2  02C7A73D84B0447C  Eric Biggers <ebiggers@kernel.org>
    3  4CB5F6848BBC56EE  Sami Tolvanen <samitolvanen@google.com>
 

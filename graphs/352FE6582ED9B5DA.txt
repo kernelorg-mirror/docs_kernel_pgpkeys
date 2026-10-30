@@ -1,11 +1,11 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
-   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
+   1  224FA7E7CC82A664  Vlastimil Babka <vbabka@suse.com>
+   2  0393969D2D760850  Johannes Thumshirn <jth@kernel.org>
    3  352FE6582ED9B5DA  Niklas Cassel <cassel@kernel.org>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  C73907936B7DF8FC  Coly Li <i@coly.li>
-   2  0393969D2D760850  Johannes Thumshirn <jth@kernel.org>
+   1  63762CDA67E2F359  David Woodhouse <dwmw2@infradead.org>
+   2  587C5ECA5D0A306C  Daniel Wagner <wagi@monom.org>
    3  352FE6582ED9B5DA  Niklas Cassel <cassel@kernel.org>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>

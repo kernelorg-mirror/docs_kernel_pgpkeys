@@ -1,10 +1,16 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  4110B337B0195D73  Linus Walleij (kernel.org key) <linusw@kernel.org>
-   2  197C8B73686D216D  Miguel Ojeda <ojeda@kernel.org>
-   3  7D97093255A0CE7F  Nicolas Schier <nicolas@fjasle.eu>
+   1  224FA7E7CC82A664  Vlastimil Babka <vbabka@suse.com>
+   2  7D97093255A0CE7F  Nicolas Schier <nicolas@fjasle.eu>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  8972F4DFDC6DC026  Kees Cook <kees@outflux.net>
-   2  99739260CB6CB716  Nathan Chancellor <natechancellor@gmail.com>
-   3  7D97093255A0CE7F  Nicolas Schier <nicolas@fjasle.eu>
+   1  4804B4BC3F55EEFB  Geert Uytterhoeven <geert@linux-m68k.org>
+   2  7D97093255A0CE7F  Nicolas Schier <nicolas@fjasle.eu>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
+   2  7D97093255A0CE7F  Nicolas Schier <nicolas@fjasle.eu>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  F045C2B96991256E  Laurent Pinchart <laurent.pinchart@ideasonboard.com>
+   2  7D97093255A0CE7F  Nicolas Schier <nicolas@fjasle.eu>
 

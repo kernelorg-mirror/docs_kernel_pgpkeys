@@ -1,13 +1,11 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
+   2  0BE9E3157A1E2C64  Michael Grzeschik <grzeschik@puzzle.ch>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
    2  C3EAC3DE9321D59B  Ahmad Fatoum <ahmad@a3f.at>
    3  0BE9E3157A1E2C64  Michael Grzeschik <grzeschik@puzzle.ch>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
-   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
-   3  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
-   4  0BE9E3157A1E2C64  Michael Grzeschik <grzeschik@puzzle.ch>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  7C31E21A98D21E0D  Hans de Goede <hansg@kernel.org>

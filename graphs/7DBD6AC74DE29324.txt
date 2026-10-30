@@ -3,7 +3,7 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  7DBD6AC74DE29324  Andreas Kemnade <andreas@kemnade.info>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  A6CD9F096F642CB3  Alexandre Belloni <alexandre.belloni@piout.net>
+   1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  D8EED7F3C83BFA9A  Sebastian Reichel <sre@ring0.de>
    3  7DBD6AC74DE29324  Andreas Kemnade <andreas@kemnade.info>
 

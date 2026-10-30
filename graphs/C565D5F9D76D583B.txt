@@ -1,5 +1,5 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  BD25B10406B47049  Jiri Slaby <jirislaby@gmail.com>
+   1  224FA7E7CC82A664  Vlastimil Babka <vbabka@suse.com>
    2  52A00C47488094F2  Petr Mladek <pmladek@suse.com>
    3  C565D5F9D76D583B  David Sterba <dsterba@suse.cz>
 

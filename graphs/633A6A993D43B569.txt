@@ -4,7 +4,7 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    3  633A6A993D43B569  Pasha Tatashin <pasha.tatashin@soleen.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  A6CD9F096F642CB3  Alexandre Belloni <alexandre.belloni@piout.net>
+   1  224FA7E7CC82A664  Vlastimil Babka <vbabka@suse.com>
    2  256AEA1847BD5684  Miquel RAYNAL <mraynal@kernel.org>
    3  F6503556C11B1CCD  Pratyush Yadav <me@yadavpratyush.com>
    4  633A6A993D43B569  Pasha Tatashin <pasha.tatashin@soleen.com>

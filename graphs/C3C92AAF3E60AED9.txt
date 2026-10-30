@@ -3,6 +3,10 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  C3C92AAF3E60AED9  Jerome Brunet <jerome.brunet@gmail.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
+   2  C3C92AAF3E60AED9  Jerome Brunet <jerome.brunet@gmail.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  F045C2B96991256E  Laurent Pinchart <laurent.pinchart@ideasonboard.com>
    2  570338B018144F28  Mattijs Korpershoek <mkorpershoek@kernel.org>
    3  C3C92AAF3E60AED9  Jerome Brunet <jerome.brunet@gmail.com>
@@ -11,11 +15,5 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    1  17212997986C5765  Benson Leung <bleung@chromium.org>
    2  D89D81132578E73D  Stephen Boyd <sboyd@codeaurora.org>
    3  169AB7B1A4CFF8AE  Neil Armstrong <neil.armstrong@linaro.org>
-   4  C3C92AAF3E60AED9  Jerome Brunet <jerome.brunet@gmail.com>
-
-from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  2DFBF4523E542FD9  Will Deacon <will@kernel.org>
-   2  E7BFC8EC95861109  Ben Hutchings <bwh@kernel.org>
-   3  E2DCDD9132669BD6  Uwe Kleine-König <uwe@kleine-koenig.org>
    4  C3C92AAF3E60AED9  Jerome Brunet <jerome.brunet@gmail.com>
 

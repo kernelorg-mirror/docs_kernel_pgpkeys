@@ -1,10 +1,15 @@
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  377C7F21FE3D1F91  Michal Simek <monstr@monstr.eu>
+   1  26BCFA05FCF60E4C  Marek Behún <kabel@kernel.org>
    2  1B93437D3B41629B  Krzysztof Kozlowski <k.kozlowski.k@gmail.com>
    3  478701720E5D7C58  Konrad Dybcio <konradybcio@gmail.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
    1  5937189AD3FBC665  Kevin Hilman <khilman@kernel.org>
    2  11A72EA01471D772  Bartosz Golaszewski <brgl@bgdev.pl>
+   3  478701720E5D7C58  Konrad Dybcio <konradybcio@gmail.com>
+
+from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
+   1  F045C2B96991256E  Laurent Pinchart <laurent.pinchart@ideasonboard.com>
+   2  A11E467210A461FD  Kieran Bingham <kieran.bingham@ideasonboard.com>
    3  478701720E5D7C58  Konrad Dybcio <konradybcio@gmail.com>
 
