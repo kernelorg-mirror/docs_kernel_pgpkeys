@@ -64,9 +64,10 @@ if [[ $1 == '--refresh' ]]; then
     $GPG --keyserver $KEYSERVER "$@"
 elif [[ $1 != '--regenerate' ]]; then
     echo "Importing the new key"
-    # Without the weak flag, import-clean drops SHA-1 certifications from
-    # the merged key, and with them trust paths the exports below keep.
-    $GPG --allow-weak-key-signatures --import --import-options import-clean <<< "$NEWKEYS"
+    # No --allow-weak-key-signatures on purpose: import-clean then drops
+    # SHA-1 certifications from every key we update, so the keyring sheds
+    # them over time and the result matches what --regenerate produces.
+    $GPG --import --import-options import-clean <<< "$NEWKEYS"
 fi
 
 # A half-finished export looks like a normal set of changes to review,
