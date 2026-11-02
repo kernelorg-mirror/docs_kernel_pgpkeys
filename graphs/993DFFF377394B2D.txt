@@ -11,6 +11,6 @@ from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing 
    2  993DFFF377394B2D  Andriy Shevchenko <andriy.shevchenko@linux.intel.com>
 
 from  38DBBDC86092693E  Greg Kroah-Hartman (Linux kernel stable release signing key) <greg@kroah.com>
-   1  C86F629E2382C5E2  Rob Herring (Rob Herring's PGP Key) <robherring2@gmail.com>
+   1  AC2FA78C94A917EC  Rafael J. Wysocki (Other) <rjw@rjwysocki.net>
    2  993DFFF377394B2D  Andriy Shevchenko <andriy.shevchenko@linux.intel.com>
 
